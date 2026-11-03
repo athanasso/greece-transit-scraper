@@ -1,0 +1,2553 @@
+{
+  "version": "2026.11.1",
+  "updatedAt": "2026-11-03T15:36:51.741630+00:00",
+  "schematicMaps": {
+    "athens": "https://raw.githubusercontent.com/athanasso/greece-transit-scraper/main/assets/maps/athens_schematic.jpg",
+    "thessaloniki": "https://raw.githubusercontent.com/athanasso/greece-transit-scraper/main/assets/maps/thessaloniki_schematic.jpg"
+  },
+  "athens": {
+    "stations": [
+      {
+        "id": "l1-piraeus",
+        "name": "Piraeus",
+        "nameEl": "Πειραιάς",
+        "latitude": 37.948,
+        "longitude": 23.6436,
+        "lineIds": [
+          "line1",
+          "line3"
+        ],
+        "isInterchange": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Akti_Posidonos_-_panoramio.jpg/960px-Akti_Posidonos_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Akti_Posidonos_-_panoramio.jpg/960px-Akti_Posidonos_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-faliro",
+        "name": "Faliro",
+        "nameEl": "Φάληρο",
+        "latitude": 37.9453,
+        "longitude": 23.6656,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Metro_station_of_Faliro2.JPG/960px-Metro_station_of_Faliro2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Metro_station_of_Faliro2.JPG/960px-Metro_station_of_Faliro2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-moschato",
+        "name": "Moschato",
+        "nameEl": "Μοσχάτο",
+        "latitude": 37.9556,
+        "longitude": 23.6809,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Athens_metro_Moschato_station.jpg/960px-Athens_metro_Moschato_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Athens_metro_Moschato_station.jpg/960px-Athens_metro_Moschato_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-kallithea",
+        "name": "Kallithea",
+        "nameEl": "Καλλιθέα",
+        "latitude": 37.9607,
+        "longitude": 23.6976,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Athens_metro_Kallithea_station1.jpg/960px-Athens_metro_Kallithea_station1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Athens_metro_Kallithea_station1.jpg/960px-Athens_metro_Kallithea_station1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-tavros",
+        "name": "Tavros",
+        "nameEl": "Ταύρος",
+        "latitude": 37.9629,
+        "longitude": 23.7039,
+        "lineIds": [
+          "line1"
+        ]
+      },
+      {
+        "id": "l1-petralona",
+        "name": "Petralona",
+        "nameEl": "Πετράλωνα",
+        "latitude": 37.9688,
+        "longitude": 23.7095,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Petralona_station_Athens.jpg/960px-Petralona_station_Athens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Petralona_station_Athens.jpg/960px-Petralona_station_Athens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-thissio",
+        "name": "Thissio",
+        "nameEl": "Θησείο",
+        "latitude": 37.9769,
+        "longitude": 23.7203,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Athens_metro_Thisseio_station.jpg/960px-Athens_metro_Thisseio_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Athens_metro_Thisseio_station.jpg/960px-Athens_metro_Thisseio_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-monastiraki",
+        "name": "Monastiraki",
+        "nameEl": "Μοναστηράκι",
+        "latitude": 37.976,
+        "longitude": 23.7254,
+        "lineIds": [
+          "line1",
+          "line3"
+        ],
+        "isInterchange": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Monastiraki_metro_station_sign.jpg/960px-Monastiraki_metro_station_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Monastiraki_metro_station_sign.jpg/960px-Monastiraki_metro_station_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-omonia",
+        "name": "Omonia",
+        "nameEl": "Ομόνοια",
+        "latitude": 37.984,
+        "longitude": 23.728,
+        "lineIds": [
+          "line1",
+          "line2"
+        ],
+        "isInterchange": true
+      },
+      {
+        "id": "l1-victoria",
+        "name": "Victoria",
+        "nameEl": "Βικτώρια",
+        "latitude": 37.9932,
+        "longitude": 23.7305,
+        "lineIds": [
+          "line1"
+        ]
+      },
+      {
+        "id": "l1-attiki",
+        "name": "Attiki",
+        "nameEl": "Αττική",
+        "latitude": 37.9994,
+        "longitude": 23.7228,
+        "lineIds": [
+          "line1",
+          "line2"
+        ],
+        "isInterchange": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Athens_Metro_Attiki_Line_1.jpg/960px-Athens_Metro_Attiki_Line_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Athens_Metro_Attiki_Line_1.jpg/960px-Athens_Metro_Attiki_Line_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-ag-nikolaos",
+        "name": "Agios Nikolaos",
+        "nameEl": "Άγιος Νικόλαος",
+        "latitude": 38.0068,
+        "longitude": 23.7276,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Athens_Metro_Agios_Nikolaos_station.jpg/960px-Athens_Metro_Agios_Nikolaos_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Athens_Metro_Agios_Nikolaos_station.jpg/960px-Athens_Metro_Agios_Nikolaos_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-kato-patissia",
+        "name": "Kato Patissia",
+        "nameEl": "Κάτω Πατήσια",
+        "latitude": 38.0115,
+        "longitude": 23.7287,
+        "lineIds": [
+          "line1"
+        ]
+      },
+      {
+        "id": "l1-ag-eleftherios",
+        "name": "Agios Eleftherios",
+        "nameEl": "Άγιος Ελευθέριος",
+        "latitude": 38.0172,
+        "longitude": 23.7311,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Athens_Metro_Agios_Eleftherios_station1.jpg/960px-Athens_Metro_Agios_Eleftherios_station1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Athens_Metro_Agios_Eleftherios_station1.jpg/960px-Athens_Metro_Agios_Eleftherios_station1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-ano-patissia",
+        "name": "Ano Patissia",
+        "nameEl": "Άνω Πατήσια",
+        "latitude": 38.021,
+        "longitude": 23.7351,
+        "lineIds": [
+          "line1"
+        ]
+      },
+      {
+        "id": "l1-perissos",
+        "name": "Perissos",
+        "nameEl": "Περισσός",
+        "latitude": 38.0329,
+        "longitude": 23.7448,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Athens_ISAP_Perissos1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Athens_ISAP_Perissos1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "id": "l1-pefkakia",
+        "name": "Pefkakia",
+        "nameEl": "Πευκάκια",
+        "latitude": 38.0372,
+        "longitude": 23.7501,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pefkakia_station-ISAP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pefkakia_station-ISAP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "id": "l1-nea-ionia",
+        "name": "Nea Ionia",
+        "nameEl": "Νέα Ιωνία",
+        "latitude": 38.0416,
+        "longitude": 23.7549,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/NeaIoniaISAPstation2.JPG/960px-NeaIoniaISAPstation2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/NeaIoniaISAPstation2.JPG/960px-NeaIoniaISAPstation2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l1-iraklio",
+        "name": "Iraklio",
+        "nameEl": "Ηράκλειο",
+        "latitude": 38.0463,
+        "longitude": 23.7663,
+        "lineIds": [
+          "line1"
+        ]
+      },
+      {
+        "id": "l1-irini",
+        "name": "Irini",
+        "nameEl": "Ειρήνη",
+        "latitude": 38.0435,
+        "longitude": 23.7835,
+        "lineIds": [
+          "line1",
+          "suburban"
+        ],
+        "isInterchange": true
+      },
+      {
+        "id": "l1-neratziotissa",
+        "name": "Neratziotissa",
+        "nameEl": "Νερατζιώτισσα",
+        "latitude": 38.0452,
+        "longitude": 23.7929,
+        "lineIds": [
+          "line1",
+          "suburban"
+        ],
+        "isInterchange": true
+      },
+      {
+        "id": "l1-maroussi",
+        "name": "Maroussi",
+        "nameEl": "Μαρούσι",
+        "latitude": 38.0562,
+        "longitude": 23.8022,
+        "lineIds": [
+          "line1"
+        ]
+      },
+      {
+        "id": "l1-kat",
+        "name": "KAT",
+        "nameEl": "ΚΑΤ",
+        "latitude": 38.0662,
+        "longitude": 23.8042,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Kat-stathmos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Kat-stathmos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      },
+      {
+        "id": "l1-kifissia",
+        "name": "Kifissia",
+        "nameEl": "Κηφισιά",
+        "latitude": 38.0733,
+        "longitude": 23.8083,
+        "lineIds": [
+          "line1"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Attica_06-13_Kifissia_metro_station.jpg/960px-Attica_06-13_Kifissia_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Attica_06-13_Kifissia_metro_station.jpg/960px-Attica_06-13_Kifissia_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-anthoupoli",
+        "name": "Anthoupoli",
+        "nameEl": "Ανθούπολη",
+        "latitude": 38.0168,
+        "longitude": 23.6919,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Anthoupoli_metro_platforms.jpg/960px-Anthoupoli_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Anthoupoli_metro_platforms.jpg/960px-Anthoupoli_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-peristeri",
+        "name": "Peristeri",
+        "nameEl": "Περιστέρι",
+        "latitude": 38.0131,
+        "longitude": 23.6958,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Peristeri_metro_platforms.jpg/960px-Peristeri_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Peristeri_metro_platforms.jpg/960px-Peristeri_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-ag-antonios",
+        "name": "Agios Antonios",
+        "nameEl": "Άγιος Αντώνιος",
+        "latitude": 38.0073,
+        "longitude": 23.7002,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Agios_Antonios_metro_platforms.jpg/960px-Agios_Antonios_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Agios_Antonios_metro_platforms.jpg/960px-Agios_Antonios_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-sepolia",
+        "name": "Sepolia",
+        "nameEl": "Σεπόλια",
+        "latitude": 38.0029,
+        "longitude": 23.7137,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sepolia_metro_platforms.jpg/960px-Sepolia_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sepolia_metro_platforms.jpg/960px-Sepolia_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-larissa",
+        "name": "Larissa Station",
+        "nameEl": "Σταθμός Λαρίσης",
+        "latitude": 37.9924,
+        "longitude": 23.7207,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Athens_Central_Station_in_2019.jpg/960px-Athens_Central_Station_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Athens_Central_Station_in_2019.jpg/960px-Athens_Central_Station_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-metaxourgio",
+        "name": "Metaxourgio",
+        "nameEl": "Μεταξουργείο",
+        "latitude": 37.9859,
+        "longitude": 23.7215,
+        "lineIds": [
+          "line2"
+        ]
+      },
+      {
+        "id": "l2-panepistimio",
+        "name": "Panepistimio",
+        "nameEl": "Πανεπιστήμιο",
+        "latitude": 37.9804,
+        "longitude": 23.7332,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Panepistimio_metro_platforms.jpg/960px-Panepistimio_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Panepistimio_metro_platforms.jpg/960px-Panepistimio_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-syntagma",
+        "name": "Syntagma",
+        "nameEl": "Σύνταγμα",
+        "latitude": 37.9753,
+        "longitude": 23.7353,
+        "lineIds": [
+          "line2",
+          "line3"
+        ],
+        "isInterchange": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Station_M%C3%A9tro_Syntagma_-_Ath%C3%A8nes_%28GRA1%29_-_2022-03-27_-_2.jpg/960px-Station_M%C3%A9tro_Syntagma_-_Ath%C3%A8nes_%28GRA1%29_-_2022-03-27_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Station_M%C3%A9tro_Syntagma_-_Ath%C3%A8nes_%28GRA1%29_-_2022-03-27_-_2.jpg/960px-Station_M%C3%A9tro_Syntagma_-_Ath%C3%A8nes_%28GRA1%29_-_2022-03-27_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-akropoli",
+        "name": "Akropoli",
+        "nameEl": "Ακρόπολη",
+        "latitude": 37.9687,
+        "longitude": 23.7295,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Akropoli_metro_station.jpg/960px-Akropoli_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Akropoli_metro_station.jpg/960px-Akropoli_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-syngrou-fix",
+        "name": "Syngrou-Fix",
+        "nameEl": "Συγγρού-Φιξ",
+        "latitude": 37.9646,
+        "longitude": 23.7268,
+        "lineIds": [
+          "line2"
+        ]
+      },
+      {
+        "id": "l2-neos-kosmos",
+        "name": "Neos Kosmos",
+        "nameEl": "Νέος Κόσμος",
+        "latitude": 37.9578,
+        "longitude": 23.7281,
+        "lineIds": [
+          "line2"
+        ]
+      },
+      {
+        "id": "l2-ag-ioannis",
+        "name": "Agios Ioannis",
+        "nameEl": "Άγιος Ιωάννης",
+        "latitude": 37.9566,
+        "longitude": 23.7343,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Agios_Ioannis_metro_platforms.jpg/960px-Agios_Ioannis_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Agios_Ioannis_metro_platforms.jpg/960px-Agios_Ioannis_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-dafni",
+        "name": "Dafni",
+        "nameEl": "Δάφνη",
+        "latitude": 37.9497,
+        "longitude": 23.7373,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dafni_metro_platforms.jpg/960px-Dafni_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dafni_metro_platforms.jpg/960px-Dafni_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-ag-dimitrios",
+        "name": "Agios Dimitrios",
+        "nameEl": "Άγιος Δημήτριος",
+        "latitude": 37.9404,
+        "longitude": 23.7408,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Agios_Dimitrios_metro_platforms.jpg/960px-Agios_Dimitrios_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Agios_Dimitrios_metro_platforms.jpg/960px-Agios_Dimitrios_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-ilioupoli",
+        "name": "Ilioupoli",
+        "nameEl": "Ηλιούπολη",
+        "latitude": 37.9297,
+        "longitude": 23.7446,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Ilioupoli_metro_platforms.jpg/960px-Ilioupoli_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Ilioupoli_metro_platforms.jpg/960px-Ilioupoli_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-alimos",
+        "name": "Alimos",
+        "nameEl": "Άλιμος",
+        "latitude": 37.9182,
+        "longitude": 23.7446,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Alimos_metro_station.jpg/960px-Alimos_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Alimos_metro_station.jpg/960px-Alimos_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-argyroupoli",
+        "name": "Argyroupoli",
+        "nameEl": "Αργυρούπολη",
+        "latitude": 37.9032,
+        "longitude": 23.746,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Argyroupoli_metro_station.jpg/960px-Argyroupoli_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Argyroupoli_metro_station.jpg/960px-Argyroupoli_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l2-elliniko",
+        "name": "Elliniko",
+        "nameEl": "Ελληνικό",
+        "latitude": 37.8927,
+        "longitude": 23.7473,
+        "lineIds": [
+          "line2"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Elliniko_metro_station.jpg/960px-Elliniko_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Elliniko_metro_station.jpg/960px-Elliniko_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-dimotiko",
+        "name": "Dimotiko Theatro",
+        "nameEl": "Δημοτικό Θέατρο",
+        "latitude": 37.9429,
+        "longitude": 23.6476,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4f/Dimotiko_Theatro_metro_platforms.jpg/960px-Dimotiko_Theatro_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4f/Dimotiko_Theatro_metro_platforms.jpg/960px-Dimotiko_Theatro_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-maniatika",
+        "name": "Maniatika",
+        "nameEl": "Μανιάτικα",
+        "latitude": 37.9596,
+        "longitude": 23.6399,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Maniatika_metro_station.jpg/960px-Maniatika_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Maniatika_metro_station.jpg/960px-Maniatika_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-nikaia",
+        "name": "Nikaia",
+        "nameEl": "Νίκαια",
+        "latitude": 37.9659,
+        "longitude": 23.6474,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4a/Nikaia_metro_platforms.jpg/960px-Nikaia_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4a/Nikaia_metro_platforms.jpg/960px-Nikaia_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-korydallos",
+        "name": "Korydallos",
+        "nameEl": "Κορυδαλλός",
+        "latitude": 37.9772,
+        "longitude": 23.6506,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Korydallos_metro_platforms.jpg/960px-Korydallos_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Korydallos_metro_platforms.jpg/960px-Korydallos_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-ag-varvara",
+        "name": "Agia Varvara",
+        "nameEl": "Αγία Βαρβάρα",
+        "latitude": 37.9901,
+        "longitude": 23.6595,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Agia_Varvara_metro_platforms.jpeg/960px-Agia_Varvara_metro_platforms.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Agia_Varvara_metro_platforms.jpeg/960px-Agia_Varvara_metro_platforms.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-ag-marina",
+        "name": "Agia Marina",
+        "nameEl": "Αγία Μαρίνα",
+        "latitude": 37.997,
+        "longitude": 23.6681,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Agia_Marina_metro_platforms.jpg/960px-Agia_Marina_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Agia_Marina_metro_platforms.jpg/960px-Agia_Marina_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-egaleo",
+        "name": "Egaleo",
+        "nameEl": "Αιγάλεω",
+        "latitude": 37.9921,
+        "longitude": 23.6821,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Egaleo_metro_platforms.jpg/960px-Egaleo_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Egaleo_metro_platforms.jpg/960px-Egaleo_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-eleonas",
+        "name": "Eleonas",
+        "nameEl": "Ελαιώνας",
+        "latitude": 37.9878,
+        "longitude": 23.6935,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/33/Eleonas_metro_station.jpg/960px-Eleonas_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/33/Eleonas_metro_station.jpg/960px-Eleonas_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-kerameikos",
+        "name": "Kerameikos",
+        "nameEl": "Κεραμεικός",
+        "latitude": 37.9787,
+        "longitude": 23.7115,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/At_Wikimedia_Hackathon_Athens_%28MP%29_2023_143.jpg/960px-At_Wikimedia_Hackathon_Athens_%28MP%29_2023_143.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/At_Wikimedia_Hackathon_Athens_%28MP%29_2023_143.jpg/960px-At_Wikimedia_Hackathon_Athens_%28MP%29_2023_143.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-evangelismos",
+        "name": "Evangelismos",
+        "nameEl": "Ευαγγελισμός",
+        "latitude": 37.9764,
+        "longitude": 23.7469,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Evangelismos_metro_platforms.jpg/960px-Evangelismos_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Evangelismos_metro_platforms.jpg/960px-Evangelismos_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-megaro-moussikis",
+        "name": "Megaro Moussikis",
+        "nameEl": "Μέγαρο Μουσικής",
+        "latitude": 37.9788,
+        "longitude": 23.7539,
+        "lineIds": [
+          "line3"
+        ]
+      },
+      {
+        "id": "l3-ambelokipi",
+        "name": "Ambelokipi",
+        "nameEl": "Αμπελόκηποι",
+        "latitude": 37.991,
+        "longitude": 23.7602,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/83/Ambelokipi_metro_platforms.jpg/960px-Ambelokipi_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/83/Ambelokipi_metro_platforms.jpg/960px-Ambelokipi_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-panormou",
+        "name": "Panormou",
+        "nameEl": "Πανόρμου",
+        "latitude": 37.9929,
+        "longitude": 23.7668,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b3/Panormou_metro_platforms.jpg/960px-Panormou_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b3/Panormou_metro_platforms.jpg/960px-Panormou_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-katehaki",
+        "name": "Katehaki",
+        "nameEl": "Κατεχάκη",
+        "latitude": 37.9932,
+        "longitude": 23.7766,
+        "lineIds": [
+          "line3"
+        ]
+      },
+      {
+        "id": "l3-ethniki-amyna",
+        "name": "Ethniki Amyna",
+        "nameEl": "Εθνική Άμυνα",
+        "latitude": 38.0001,
+        "longitude": 23.7857,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e0/Ethniki_Amyna_metro_platforms.jpg/960px-Ethniki_Amyna_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e0/Ethniki_Amyna_metro_platforms.jpg/960px-Ethniki_Amyna_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-holargos",
+        "name": "Holargos",
+        "nameEl": "Χολαργός",
+        "latitude": 38.0066,
+        "longitude": 23.7927,
+        "lineIds": [
+          "line3"
+        ]
+      },
+      {
+        "id": "l3-nomismatokopio",
+        "name": "Nomismatokopio",
+        "nameEl": "Νομισματοκοπείο",
+        "latitude": 38.0094,
+        "longitude": 23.8054,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Nomismatokopeio_metro_platforms.jpg/960px-Nomismatokopeio_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Nomismatokopeio_metro_platforms.jpg/960px-Nomismatokopeio_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-ag-paraskevi",
+        "name": "Agia Paraskevi",
+        "nameEl": "Αγία Παρασκευή",
+        "latitude": 38.0126,
+        "longitude": 23.8169,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Agia_Paraskevi_metro_platforms.jpg/960px-Agia_Paraskevi_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Agia_Paraskevi_metro_platforms.jpg/960px-Agia_Paraskevi_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l3-halandri",
+        "name": "Halandri",
+        "nameEl": "Χαλάνδρι",
+        "latitude": 38.0218,
+        "longitude": 23.8209,
+        "lineIds": [
+          "line3"
+        ]
+      },
+      {
+        "id": "l3-douk-plakentias",
+        "name": "Douk. Plakentias",
+        "nameEl": "Δουκ. Πλακεντίας",
+        "latitude": 38.0233,
+        "longitude": 23.8239,
+        "lineIds": [
+          "line3",
+          "suburban"
+        ],
+        "isInterchange": true
+      },
+      {
+        "id": "l3-pallini",
+        "name": "Pallini",
+        "nameEl": "Παλλήνη",
+        "latitude": 38.0054,
+        "longitude": 23.8696,
+        "lineIds": [
+          "line3"
+        ]
+      },
+      {
+        "id": "l3-paiania-kantza",
+        "name": "Paiania-Kantza",
+        "nameEl": "Παιανία-Κάντζα",
+        "latitude": 37.9837,
+        "longitude": 23.8789,
+        "lineIds": [
+          "line3"
+        ]
+      },
+      {
+        "id": "l3-koropi",
+        "name": "Koropi",
+        "nameEl": "Κορωπί",
+        "latitude": 37.913,
+        "longitude": 23.9122,
+        "lineIds": [
+          "line3"
+        ]
+      },
+      {
+        "id": "l3-airport",
+        "name": "Airport",
+        "nameEl": "Αεροδρόμιο",
+        "latitude": 37.9364,
+        "longitude": 23.9369,
+        "lineIds": [
+          "line3"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Athens_airport_train_station.jpg/960px-Athens_airport_train_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Athens_airport_train_station.jpg/960px-Athens_airport_train_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "tram-syntagma",
+        "name": "Syntagma (Tram)",
+        "nameEl": "Σύνταγμα (Τραμ)",
+        "latitude": 37.9753,
+        "longitude": 23.7353,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-zappeio",
+        "name": "Zappeio",
+        "nameEl": "Ζάππειο",
+        "latitude": 37.9686,
+        "longitude": 23.7379,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-leof-vouliagmenis",
+        "name": "Leoforos Vouliagmenis",
+        "nameEl": "Λεωφ. Βουλιαγμένης",
+        "latitude": 37.9667,
+        "longitude": 23.7318,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-fix",
+        "name": "Fix (Tram)",
+        "nameEl": "Φιξ (Τραμ)",
+        "latitude": 37.9646,
+        "longitude": 23.7268,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-kasomouli",
+        "name": "Kasomouli",
+        "nameEl": "Κασομούλη",
+        "latitude": 37.9604,
+        "longitude": 23.7235,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-neos-kosmos-tram",
+        "name": "Neos Kosmos (Tram)",
+        "nameEl": "Νέος Κόσμος (Τραμ)",
+        "latitude": 37.9578,
+        "longitude": 23.7281,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-baknana",
+        "name": "Baknana",
+        "nameEl": "Μπακνανά",
+        "latitude": 37.9547,
+        "longitude": 23.7225,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-aegeou",
+        "name": "Aegeou",
+        "nameEl": "Αιγαίου",
+        "latitude": 37.9515,
+        "longitude": 23.717,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-ag-fotini",
+        "name": "Agia Fotini",
+        "nameEl": "Αγία Φωτεινή",
+        "latitude": 37.95,
+        "longitude": 23.7264,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-meg-alexandrou",
+        "name": "Megalou Alexandrou",
+        "nameEl": "Μεγάλου Αλεξάνδρου",
+        "latitude": 37.9489,
+        "longitude": 23.7233,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-ag-paraskevi-tram",
+        "name": "Agia Paraskevi (Tram)",
+        "nameEl": "Αγία Παρασκευή (Τραμ)",
+        "latitude": 37.9481,
+        "longitude": 23.7199,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-medeas",
+        "name": "Medeas-Mykalis",
+        "nameEl": "Μηδείας-Μυκάλης",
+        "latitude": 37.9467,
+        "longitude": 23.7158,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-evangeliki",
+        "name": "Evangeliki Scholi",
+        "nameEl": "Ευαγγελική Σχολή",
+        "latitude": 37.945,
+        "longitude": 23.7117,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-achilleos",
+        "name": "Achilleos",
+        "nameEl": "Αχιλλέως",
+        "latitude": 37.9428,
+        "longitude": 23.7072,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-amfitheas",
+        "name": "Amfitheas",
+        "nameEl": "Αμφιθέας",
+        "latitude": 37.9403,
+        "longitude": 23.7033,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-panagitsa",
+        "name": "Panagitsa",
+        "nameEl": "Παναγίτσα",
+        "latitude": 37.9392,
+        "longitude": 23.6992,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-mousson",
+        "name": "Mousson",
+        "nameEl": "Μουσών",
+        "latitude": 37.936,
+        "longitude": 23.695,
+        "lineIds": [
+          "t6",
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-edem",
+        "name": "Edem",
+        "nameEl": "Εδέμ",
+        "latitude": 37.91856,
+        "longitude": 23.70075,
+        "lineIds": [
+          "t6",
+          "t7"
+        ],
+        "isInterchange": true
+      },
+      {
+        "id": "tram-pikrodafni",
+        "name": "Pikrodafni",
+        "nameEl": "Πικροδάφνη",
+        "latitude": 37.91577,
+        "longitude": 23.705615,
+        "lineIds": [
+          "t6",
+          "t7"
+        ],
+        "isInterchange": true
+      },
+      {
+        "id": "tram-ag-triada",
+        "name": "Agia Triada",
+        "nameEl": "Αγία Τριάδα",
+        "latitude": 37.9475,
+        "longitude": 23.645,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-ippodameias",
+        "name": "Plateia Ippodameias",
+        "nameEl": "Πλ. Ιπποδαμείας",
+        "latitude": 37.9403,
+        "longitude": 23.6486,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-34-syntagma",
+        "name": "34 Synt. Pezikou",
+        "nameEl": "34ου Συντ. Πεζικού",
+        "latitude": 37.9367,
+        "longitude": 23.6511,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-androutsou",
+        "name": "Androutsou",
+        "nameEl": "Ανδρούτσου",
+        "latitude": 37.9358,
+        "longitude": 23.6503,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-omiridou",
+        "name": "Omiridou Skylitsi",
+        "nameEl": "Ομ. Σκυλίτση",
+        "latitude": 37.9342,
+        "longitude": 23.6531,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-sef",
+        "name": "SEF",
+        "nameEl": "ΣΕΦ",
+        "latitude": 37.941,
+        "longitude": 23.667,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-neo-faliro",
+        "name": "Neo Faliro (Tram)",
+        "nameEl": "Νέο Φάληρο (Τραμ)",
+        "latitude": 37.9442,
+        "longitude": 23.6655,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-mikras-asias",
+        "name": "Mikras Asias",
+        "nameEl": "Μικράς Ασίας",
+        "latitude": 37.9356,
+        "longitude": 23.6481,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-dimarcheio",
+        "name": "Dimarcheio (Piraeus)",
+        "nameEl": "Δημαρχείο (Πειραιάς)",
+        "latitude": 37.9422,
+        "longitude": 23.6461,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-moschato-tram",
+        "name": "Moschato (Tram)",
+        "nameEl": "Μοσχάτο (Τραμ)",
+        "latitude": 37.945,
+        "longitude": 23.669,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-kallithea-tram",
+        "name": "Kallithea (Tram)",
+        "nameEl": "Καλλιθέα (Τραμ)",
+        "latitude": 37.944,
+        "longitude": 23.671,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-tzitzifies",
+        "name": "Tzitzifies",
+        "nameEl": "Τζιτζιφιές",
+        "latitude": 37.942,
+        "longitude": 23.673,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-delta-falirou",
+        "name": "Delta Falirou",
+        "nameEl": "Δέλτα Φαλήρου",
+        "latitude": 37.9404,
+        "longitude": 23.675,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-agia-skepi",
+        "name": "Agia Skepi",
+        "nameEl": "Αγία Σκέπη",
+        "latitude": 37.938,
+        "longitude": 23.677,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-trocadero",
+        "name": "Trocadero",
+        "nameEl": "Τροκαντερό",
+        "latitude": 37.9353,
+        "longitude": 23.679,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-parko-flisvou",
+        "name": "Parko Flisvou",
+        "nameEl": "Πάρκο Φλοίσβου",
+        "latitude": 37.92782,
+        "longitude": 23.68838,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-flisvos",
+        "name": "Flisvos",
+        "nameEl": "Φλοίσβος",
+        "latitude": 37.92336,
+        "longitude": 23.69289,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-marina-alimou",
+        "name": "Marina Alimou",
+        "nameEl": "Μαρίνα Αλίμου",
+        "latitude": 37.91312,
+        "longitude": 23.708605,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-kalamaki",
+        "name": "Kalamaki",
+        "nameEl": "Καλαμάκι",
+        "latitude": 37.90956,
+        "longitude": 23.713045,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-zefyros",
+        "name": "Zefyros",
+        "nameEl": "Ζέφυρος",
+        "latitude": 37.906535,
+        "longitude": 23.71689,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-loutra-alimou",
+        "name": "Loutra Alimou",
+        "nameEl": "Λουτρά Αλίμου",
+        "latitude": 37.90236,
+        "longitude": 23.71953,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-elliniko-tram",
+        "name": "Elliniko (Tram)",
+        "nameEl": "Ελληνικό (Τραμ)",
+        "latitude": 37.898,
+        "longitude": 23.722,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-1st-ag-kosma",
+        "name": "1st Ag. Kosma",
+        "nameEl": "1η Αγ. Κοσμά",
+        "latitude": 37.892,
+        "longitude": 23.725,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-2nd-ag-kosma",
+        "name": "2nd Ag. Kosma",
+        "nameEl": "2η Αγ. Κοσμά",
+        "latitude": 37.889,
+        "longitude": 23.727,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-ag-alexandros",
+        "name": "Agios Alexandros",
+        "nameEl": "Άγιος Αλέξανδρος",
+        "latitude": 37.8851,
+        "longitude": 23.7269,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-ellinon-olymp",
+        "name": "Ellinon Olympionikon",
+        "nameEl": "Ελλήνων Ολυμπιονικών",
+        "latitude": 37.881,
+        "longitude": 23.7296,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-kentro-istio",
+        "name": "Kentro Istioploias",
+        "nameEl": "Κέντρο Ιστιοπλοίας",
+        "latitude": 37.87576,
+        "longitude": 23.731905,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-plateia-vergoti",
+        "name": "Plateia Vergoti",
+        "nameEl": "Πλατεία Βεργωτή",
+        "latitude": 37.871556,
+        "longitude": 23.735055,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-glyfada",
+        "name": "Paralia Glyfadas",
+        "nameEl": "Παραλία Γλυφάδας",
+        "latitude": 37.86764,
+        "longitude": 23.738585,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-paleo-dimarhio",
+        "name": "Paleo Dimarhio",
+        "nameEl": "Παλαιό Δημαρχείο",
+        "latitude": 37.864545,
+        "longitude": 23.74337,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-plateia-katraki",
+        "name": "Plateia Katraki",
+        "nameEl": "Πλατεία Βάσω Κατράκη",
+        "latitude": 37.86341,
+        "longitude": 23.74732,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-agg-metaxa",
+        "name": "Angelou Metaxa",
+        "nameEl": "Αγγέλου Μεταξά",
+        "latitude": 37.86277,
+        "longitude": 23.751175,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-plateia-esperidon",
+        "name": "Plateia Esperidon",
+        "nameEl": "Πλατεία Εσπερίδων",
+        "latitude": 37.859,
+        "longitude": 23.753,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-kolymvitirio",
+        "name": "Kolymvitirio",
+        "nameEl": "Κολυμβητήριο",
+        "latitude": 37.855,
+        "longitude": 23.755,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "tram-voula",
+        "name": "Asklipiio Voulas",
+        "nameEl": "Ασκληπιείο Βούλας",
+        "latitude": 37.8494,
+        "longitude": 23.7525,
+        "lineIds": [
+          "t7"
+        ]
+      },
+      {
+        "id": "l4-alsos-veikou",
+        "name": "Alsos Veikou",
+        "nameEl": "Άλσος Βεΐκου",
+        "latitude": 38.0163,
+        "longitude": 23.7547,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-galatsi",
+        "name": "Galatsi",
+        "nameEl": "Γαλάτσι",
+        "latitude": 38.0105,
+        "longitude": 23.749,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-elikonos",
+        "name": "Elikonos",
+        "nameEl": "Ελικώνος",
+        "latitude": 38.0051,
+        "longitude": 23.7439,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-kypseli",
+        "name": "Kypseli",
+        "nameEl": "Κυψέλη",
+        "latitude": 37.9996,
+        "longitude": 23.741,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-dikastiria",
+        "name": "Dikastiria",
+        "nameEl": "Δικαστήρια",
+        "latitude": 37.9918,
+        "longitude": 23.7423,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-alexandras",
+        "name": "Alexandras",
+        "nameEl": "Αλεξάνδρας",
+        "latitude": 37.9892,
+        "longitude": 23.7402,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-exarcheia",
+        "name": "Exarcheia",
+        "nameEl": "Εξάρχεια",
+        "latitude": 37.9868,
+        "longitude": 23.7348,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-akadimia",
+        "name": "Akadimia",
+        "nameEl": "Ακαδημία",
+        "latitude": 37.9804,
+        "longitude": 23.734,
+        "lineIds": [
+          "line4",
+          "line2"
+        ],
+        "isInterchange": true,
+        "status": "construction"
+      },
+      {
+        "id": "l4-kolonaki",
+        "name": "Kolonaki",
+        "nameEl": "Κολωνάκι",
+        "latitude": 37.9774,
+        "longitude": 23.741,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-evangelismos",
+        "name": "Evangelismos",
+        "nameEl": "Ευαγγελισμός",
+        "latitude": 37.976,
+        "longitude": 23.7485,
+        "lineIds": [
+          "line4",
+          "line3"
+        ],
+        "isInterchange": true,
+        "status": "construction",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Evangelismos_metro_platforms.jpg/960px-Evangelismos_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Evangelismos_metro_platforms.jpg/960px-Evangelismos_metro_platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "l4-kaisariani",
+        "name": "Kaisariani",
+        "nameEl": "Καισαριανή",
+        "latitude": 37.9712,
+        "longitude": 23.7554,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-panepistimioupoli",
+        "name": "Panepistimioupoli",
+        "nameEl": "Πανεπιστημιούπολη",
+        "latitude": 37.9698,
+        "longitude": 23.7661,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-ilisia",
+        "name": "Ilisia",
+        "nameEl": "Ιλίσια",
+        "latitude": 37.9745,
+        "longitude": 23.7658,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-zografou",
+        "name": "Zografou",
+        "nameEl": "Ζωγράφου",
+        "latitude": 37.9768,
+        "longitude": 23.7712,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      },
+      {
+        "id": "l4-goudi",
+        "name": "Goudi",
+        "nameEl": "Γουδή",
+        "latitude": 37.9825,
+        "longitude": 23.7725,
+        "lineIds": [
+          "line4"
+        ],
+        "status": "construction"
+      }
+    ],
+    "lines": [
+      {
+        "id": "line1",
+        "name": "Line 1 (Green)",
+        "nameEl": "Γραμμή 1 (Πράσινη)",
+        "color": "#00853E",
+        "type": "metro",
+        "coordinates": [
+          [
+            23.6436,
+            37.948
+          ],
+          [
+            23.6656,
+            37.9453
+          ],
+          [
+            23.6809,
+            37.9556
+          ],
+          [
+            23.6976,
+            37.9607
+          ],
+          [
+            23.7039,
+            37.9629
+          ],
+          [
+            23.7095,
+            37.9688
+          ],
+          [
+            23.7203,
+            37.9769
+          ],
+          [
+            23.7254,
+            37.976
+          ],
+          [
+            23.728,
+            37.984
+          ],
+          [
+            23.7305,
+            37.9932
+          ],
+          [
+            23.7228,
+            37.9994
+          ],
+          [
+            23.7276,
+            38.0068
+          ],
+          [
+            23.7287,
+            38.0115
+          ],
+          [
+            23.7311,
+            38.0172
+          ],
+          [
+            23.7351,
+            38.021
+          ],
+          [
+            23.7448,
+            38.0329
+          ],
+          [
+            23.7501,
+            38.0372
+          ],
+          [
+            23.7549,
+            38.0416
+          ],
+          [
+            23.7663,
+            38.0463
+          ],
+          [
+            23.7835,
+            38.0435
+          ],
+          [
+            23.7929,
+            38.0452
+          ],
+          [
+            23.8022,
+            38.0562
+          ],
+          [
+            23.8042,
+            38.0662
+          ],
+          [
+            23.8083,
+            38.0733
+          ]
+        ]
+      },
+      {
+        "id": "line2",
+        "name": "Line 2 (Red)",
+        "nameEl": "Γραμμή 2 (Κόκκινη)",
+        "color": "#DA291C",
+        "type": "metro",
+        "coordinates": [
+          [
+            23.6919,
+            38.0168
+          ],
+          [
+            23.6958,
+            38.0131
+          ],
+          [
+            23.7002,
+            38.0073
+          ],
+          [
+            23.7137,
+            38.0029
+          ],
+          [
+            23.7228,
+            37.9994
+          ],
+          [
+            23.7207,
+            37.9924
+          ],
+          [
+            23.7215,
+            37.9859
+          ],
+          [
+            23.728,
+            37.984
+          ],
+          [
+            23.7332,
+            37.9804
+          ],
+          [
+            23.7353,
+            37.9753
+          ],
+          [
+            23.7295,
+            37.9687
+          ],
+          [
+            23.7268,
+            37.9646
+          ],
+          [
+            23.7281,
+            37.9578
+          ],
+          [
+            23.7343,
+            37.9566
+          ],
+          [
+            23.7373,
+            37.9497
+          ],
+          [
+            23.7408,
+            37.9404
+          ],
+          [
+            23.7446,
+            37.9297
+          ],
+          [
+            23.7446,
+            37.9182
+          ],
+          [
+            23.746,
+            37.9032
+          ],
+          [
+            23.7473,
+            37.8927
+          ]
+        ]
+      },
+      {
+        "id": "line3",
+        "name": "Line 3 (Blue)",
+        "nameEl": "Γραμμή 3 (Μπλε)",
+        "color": "#0072CE",
+        "type": "metro",
+        "coordinates": [
+          [
+            23.6476,
+            37.9429
+          ],
+          [
+            23.6436,
+            37.948
+          ],
+          [
+            23.6399,
+            37.9596
+          ],
+          [
+            23.6474,
+            37.9659
+          ],
+          [
+            23.6506,
+            37.9772
+          ],
+          [
+            23.6595,
+            37.9901
+          ],
+          [
+            23.6681,
+            37.997
+          ],
+          [
+            23.6821,
+            37.9921
+          ],
+          [
+            23.6935,
+            37.9878
+          ],
+          [
+            23.7115,
+            37.9787
+          ],
+          [
+            23.7254,
+            37.976
+          ],
+          [
+            23.7353,
+            37.9753
+          ],
+          [
+            23.7469,
+            37.9764
+          ],
+          [
+            23.7539,
+            37.9788
+          ],
+          [
+            23.7602,
+            37.991
+          ],
+          [
+            23.7668,
+            37.9929
+          ],
+          [
+            23.7766,
+            37.9932
+          ],
+          [
+            23.7857,
+            38.0001
+          ],
+          [
+            23.7927,
+            38.0066
+          ],
+          [
+            23.8054,
+            38.0094
+          ],
+          [
+            23.8169,
+            38.0126
+          ],
+          [
+            23.8209,
+            38.0218
+          ],
+          [
+            23.8239,
+            38.0233
+          ],
+          [
+            23.8696,
+            38.0054
+          ],
+          [
+            23.8789,
+            37.9837
+          ],
+          [
+            23.9122,
+            37.913
+          ],
+          [
+            23.9369,
+            37.9364
+          ]
+        ]
+      },
+      {
+        "id": "t6",
+        "name": "Tram T6 (Syntagma - Pikrodafni)",
+        "nameEl": "Τραμ T6 (Σύνταγμα - Πικροδάφνη)",
+        "color": "#E87722",
+        "type": "tram",
+        "coordinates": [
+          [
+            23.7353,
+            37.9753
+          ],
+          [
+            23.7379,
+            37.9686
+          ],
+          [
+            23.7318,
+            37.9667
+          ],
+          [
+            23.7268,
+            37.9646
+          ],
+          [
+            23.7235,
+            37.9604
+          ],
+          [
+            23.7281,
+            37.9578
+          ],
+          [
+            23.7225,
+            37.9547
+          ],
+          [
+            23.717,
+            37.9515
+          ],
+          [
+            23.7264,
+            37.95
+          ],
+          [
+            23.7233,
+            37.9489
+          ],
+          [
+            23.7199,
+            37.9481
+          ],
+          [
+            23.7158,
+            37.9467
+          ],
+          [
+            23.7117,
+            37.945
+          ],
+          [
+            23.7072,
+            37.9428
+          ],
+          [
+            23.7033,
+            37.9403
+          ],
+          [
+            23.6992,
+            37.9392
+          ],
+          [
+            23.695,
+            37.936
+          ],
+          [
+            23.70075,
+            37.91856
+          ],
+          [
+            23.705615,
+            37.91577
+          ]
+        ]
+      },
+      {
+        "id": "t7",
+        "name": "Tram T7 (Piraeus - Voula)",
+        "nameEl": "Τραμ T7 (Πειραιάς - Βούλα)",
+        "color": "#E87722",
+        "type": "tram",
+        "coordinates": [
+          [
+            23.6655,
+            37.9442
+          ],
+          [
+            23.6481,
+            37.9356
+          ],
+          [
+            23.6461,
+            37.9422
+          ],
+          [
+            23.645,
+            37.9475
+          ],
+          [
+            23.6486,
+            37.9403
+          ],
+          [
+            23.6511,
+            37.9367
+          ],
+          [
+            23.6503,
+            37.9358
+          ],
+          [
+            23.6531,
+            37.9342
+          ],
+          [
+            23.667,
+            37.941
+          ],
+          [
+            23.6655,
+            37.9442
+          ],
+          [
+            23.669,
+            37.945
+          ],
+          [
+            23.671,
+            37.944
+          ],
+          [
+            23.673,
+            37.942
+          ],
+          [
+            23.675,
+            37.9404
+          ],
+          [
+            23.677,
+            37.938
+          ],
+          [
+            23.679,
+            37.9353
+          ],
+          [
+            23.68838,
+            37.92782
+          ],
+          [
+            23.69289,
+            37.92336
+          ],
+          [
+            23.6974,
+            37.93
+          ],
+          [
+            23.70075,
+            37.91856
+          ],
+          [
+            23.705615,
+            37.91577
+          ],
+          [
+            23.708605,
+            37.91312
+          ],
+          [
+            23.713045,
+            37.90956
+          ],
+          [
+            23.71689,
+            37.906535
+          ],
+          [
+            23.71953,
+            37.90236
+          ],
+          [
+            23.722,
+            37.898
+          ],
+          [
+            23.725,
+            37.892
+          ],
+          [
+            23.727,
+            37.889
+          ],
+          [
+            23.7269,
+            37.8851
+          ],
+          [
+            23.7296,
+            37.881
+          ],
+          [
+            23.731905,
+            37.87576
+          ],
+          [
+            23.735055,
+            37.871556
+          ],
+          [
+            23.738585,
+            37.86764
+          ],
+          [
+            23.74337,
+            37.864545
+          ],
+          [
+            23.74732,
+            37.86341
+          ],
+          [
+            23.751175,
+            37.86277
+          ],
+          [
+            23.753,
+            37.859
+          ],
+          [
+            23.755,
+            37.855
+          ],
+          [
+            23.7525,
+            37.8494
+          ]
+        ]
+      },
+      {
+        "id": "line4",
+        "name": "Line 4 (Orange)",
+        "nameEl": "Γραμμή 4 (Πορτοκαλί)",
+        "color": "#F68B1F",
+        "type": "metro",
+        "status": "construction",
+        "coordinates": [
+          [
+            23.7547,
+            38.0163
+          ],
+          [
+            23.749,
+            38.0105
+          ],
+          [
+            23.7439,
+            38.0051
+          ],
+          [
+            23.741,
+            37.9996
+          ],
+          [
+            23.7423,
+            37.9918
+          ],
+          [
+            23.7402,
+            37.9892
+          ],
+          [
+            23.7348,
+            37.9868
+          ],
+          [
+            23.734,
+            37.9804
+          ],
+          [
+            23.741,
+            37.9774
+          ],
+          [
+            23.7485,
+            37.976
+          ],
+          [
+            23.7554,
+            37.9712
+          ],
+          [
+            23.7661,
+            37.9698
+          ],
+          [
+            23.7658,
+            37.9745
+          ],
+          [
+            23.7712,
+            37.9768
+          ],
+          [
+            23.7725,
+            37.9825
+          ]
+        ]
+      }
+    ]
+  },
+  "thessaloniki": {
+    "stations": [
+      {
+        "id": "thes-railway",
+        "name": "New Railway Station",
+        "nameEl": "Νέος Σιδηροδρομικός Σταθμός",
+        "latitude": 40.6436,
+        "longitude": 22.9292,
+        "lineIds": [
+          "thessMetro",
+          "thessWest"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Thessaloniki_New_Railway_Station_metro_terminal_outside-2024.jpg/960px-Thessaloniki_New_Railway_Station_metro_terminal_outside-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Thessaloniki_New_Railway_Station_metro_terminal_outside-2024.jpg/960px-Thessaloniki_New_Railway_Station_metro_terminal_outside-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-dimokratias",
+        "name": "Dimokratias",
+        "nameEl": "Δημοκρατίας",
+        "latitude": 40.6411,
+        "longitude": 22.9342,
+        "lineIds": [
+          "thessMetro",
+          "thessWest"
+        ],
+        "isInterchange": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9C%CE%B5%CF%84%CF%81%CF%8C_%CE%94%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1%CF%82.jpg/960px-%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9C%CE%B5%CF%84%CF%81%CF%8C_%CE%94%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1%CF%82.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9C%CE%B5%CF%84%CF%81%CF%8C_%CE%94%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1%CF%82.jpg/960px-%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9C%CE%B5%CF%84%CF%81%CF%8C_%CE%94%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1%CF%82.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-venizelou",
+        "name": "Venizelou",
+        "nameEl": "Βενιζέλου",
+        "latitude": 40.6372,
+        "longitude": 22.9419,
+        "lineIds": [
+          "thessMetro"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Venizelou_metro_station_%28cropped%29.png/960px-Venizelou_metro_station_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Venizelou_metro_station_%28cropped%29.png/960px-Venizelou_metro_station_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-ag-sofias",
+        "name": "Agia Sofia",
+        "nameEl": "Αγία Σοφία",
+        "latitude": 40.6344,
+        "longitude": 22.9464,
+        "lineIds": [
+          "thessMetro"
+        ]
+      },
+      {
+        "id": "thes-sintrivani",
+        "name": "Sintrivani",
+        "nameEl": "Συντριβάνι",
+        "latitude": 40.6306,
+        "longitude": 22.9542,
+        "lineIds": [
+          "thessMetro"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Syntrivani_Metro_Station.jpg/960px-Syntrivani_Metro_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Syntrivani_Metro_Station.jpg/960px-Syntrivani_Metro_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-panepistimio",
+        "name": "Panepistimio",
+        "nameEl": "Πανεπιστήμιο",
+        "latitude": 40.6261,
+        "longitude": 22.96,
+        "lineIds": [
+          "thessMetro"
+        ]
+      },
+      {
+        "id": "thes-papafi",
+        "name": "Papafi",
+        "nameEl": "Παπάφη",
+        "latitude": 40.6197,
+        "longitude": 22.9625,
+        "lineIds": [
+          "thessMetro"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Papafi_metro_station.jpg/960px-Papafi_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Papafi_metro_station.jpg/960px-Papafi_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-efkleidis",
+        "name": "Efkleidis",
+        "nameEl": "Ευκλείδης",
+        "latitude": 40.6161,
+        "longitude": 22.9603,
+        "lineIds": [
+          "thessMetro"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/EFKLEIDIS_metro_station.jpg/960px-EFKLEIDIS_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/EFKLEIDIS_metro_station.jpg/960px-EFKLEIDIS_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-fleming",
+        "name": "Fleming",
+        "nameEl": "Φλέμινγκ",
+        "latitude": 40.6092,
+        "longitude": 22.9572,
+        "lineIds": [
+          "thessMetro"
+        ]
+      },
+      {
+        "id": "thes-analipsi",
+        "name": "Analipsi",
+        "nameEl": "Ανάληψη",
+        "latitude": 40.6056,
+        "longitude": 22.9578,
+        "lineIds": [
+          "thessMetro"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Analipsiesc.jpg/960px-Analipsiesc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Analipsiesc.jpg/960px-Analipsiesc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-25martiou",
+        "name": "25 Martiou",
+        "nameEl": "25ης Μαρτίου",
+        "latitude": 40.6006,
+        "longitude": 22.9583,
+        "lineIds": [
+          "thessMetro",
+          "thessKalamaria"
+        ],
+        "isInterchange": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/25_Martiou_Rolltreppen_2024-12-18.jpg/960px-25_Martiou_Rolltreppen_2024-12-18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/25_Martiou_Rolltreppen_2024-12-18.jpg/960px-25_Martiou_Rolltreppen_2024-12-18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-voulgari",
+        "name": "Voulgari",
+        "nameEl": "Βούλγαρη",
+        "latitude": 40.5944,
+        "longitude": 22.9608,
+        "lineIds": [
+          "thessMetro"
+        ]
+      },
+      {
+        "id": "thes-nea-elvetia",
+        "name": "Nea Elvetia",
+        "nameEl": "Νέα Ελβετία",
+        "latitude": 40.5931,
+        "longitude": 22.9686,
+        "lineIds": [
+          "thessMetro"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Neaelvetia_%28cropped%29.jpg/960px-Neaelvetia_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Neaelvetia_%28cropped%29.jpg/960px-Neaelvetia_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-nomarchia",
+        "name": "Nomarchia",
+        "nameEl": "Νομαρχία",
+        "latitude": 40.5914,
+        "longitude": 22.9569,
+        "lineIds": [
+          "thessKalamaria"
+        ]
+      },
+      {
+        "id": "thes-kalamaria",
+        "name": "Kalamaria",
+        "nameEl": "Καλαμαριά",
+        "latitude": 40.5847,
+        "longitude": 22.9531,
+        "lineIds": [
+          "thessKalamaria"
+        ]
+      },
+      {
+        "id": "thes-aretsou",
+        "name": "Aretsou",
+        "nameEl": "Αρετσού",
+        "latitude": 40.5778,
+        "longitude": 22.9575,
+        "lineIds": [
+          "thessKalamaria"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Aretsouthess.jpg/960px-Aretsouthess.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Aretsouthess.jpg/960px-Aretsouthess.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-nea-krini",
+        "name": "Nea Krini",
+        "nameEl": "Νέα Κρήνη",
+        "latitude": 40.5725,
+        "longitude": 22.9611,
+        "lineIds": [
+          "thessKalamaria"
+        ]
+      },
+      {
+        "id": "thes-mikra",
+        "name": "Mikra",
+        "nameEl": "Μίκρα",
+        "latitude": 40.5683,
+        "longitude": 22.9658,
+        "lineIds": [
+          "thessKalamaria"
+        ],
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mikraterminal.jpg/960px-Mikraterminal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mikraterminal.jpg/960px-Mikraterminal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "id": "thes-neapoli",
+        "name": "Neapoli",
+        "nameEl": "Νεάπολη",
+        "latitude": 40.6475,
+        "longitude": 22.922,
+        "lineIds": [
+          "thessWest"
+        ]
+      },
+      {
+        "id": "thes-terpsithea",
+        "name": "Terpsithea",
+        "nameEl": "Τερψιθέα",
+        "latitude": 40.653,
+        "longitude": 22.914,
+        "lineIds": [
+          "thessWest"
+        ]
+      },
+      {
+        "id": "thes-stavroupoli",
+        "name": "Stavroupoli",
+        "nameEl": "Σταυρούπολη",
+        "latitude": 40.659,
+        "longitude": 22.906,
+        "lineIds": [
+          "thessWest"
+        ]
+      },
+      {
+        "id": "thes-polichni",
+        "name": "Polichni",
+        "nameEl": "Πολίχνη",
+        "latitude": 40.6728,
+        "longitude": 22.9389,
+        "lineIds": [
+          "thessWest"
+        ]
+      },
+      {
+        "id": "thes-efkarpia",
+        "name": "Efkarpia",
+        "nameEl": "Ευκαρπία",
+        "latitude": 40.681,
+        "longitude": 22.931,
+        "lineIds": [
+          "thessWest"
+        ]
+      },
+      {
+        "id": "thes-papageorgiou",
+        "name": "Papageorgiou Hospital",
+        "nameEl": "Νοσ. Παπαγεωργίου",
+        "latitude": 40.687,
+        "longitude": 22.925,
+        "lineIds": [
+          "thessWest"
+        ]
+      }
+    ],
+    "lines": [
+      {
+        "id": "thessMetro",
+        "name": "Line 1 (Blue)",
+        "nameEl": "Γραμμή 1 (Μπλε)",
+        "color": "#0072CE",
+        "type": "metro",
+        "coordinates": [
+          [
+            22.9292,
+            40.6436
+          ],
+          [
+            22.9342,
+            40.6411
+          ],
+          [
+            22.9419,
+            40.6372
+          ],
+          [
+            22.9464,
+            40.6344
+          ],
+          [
+            22.9542,
+            40.6306
+          ],
+          [
+            22.96,
+            40.6261
+          ],
+          [
+            22.9625,
+            40.6197
+          ],
+          [
+            22.9603,
+            40.6161
+          ],
+          [
+            22.9572,
+            40.6092
+          ],
+          [
+            22.9578,
+            40.6056
+          ],
+          [
+            22.9583,
+            40.6006
+          ],
+          [
+            22.9608,
+            40.5944
+          ],
+          [
+            22.9686,
+            40.5931
+          ]
+        ]
+      },
+      {
+        "id": "thessKalamaria",
+        "name": "Line 2 (Kalamaria)",
+        "nameEl": "Γραμμή 2 (Καλαμαριά)",
+        "color": "#00BCD4",
+        "type": "metro",
+        "coordinates": [
+          [
+            22.9583,
+            40.6006
+          ],
+          [
+            22.9569,
+            40.5914
+          ],
+          [
+            22.9531,
+            40.5847
+          ],
+          [
+            22.9575,
+            40.5778
+          ],
+          [
+            22.9611,
+            40.5725
+          ],
+          [
+            22.9658,
+            40.5683
+          ]
+        ]
+      },
+      {
+        "id": "thessWest",
+        "name": "Western Extension",
+        "nameEl": "Δυτική Επέκταση",
+        "color": "#FF9800",
+        "type": "metro",
+        "coordinates": [
+          [
+            22.925,
+            40.687
+          ],
+          [
+            22.931,
+            40.681
+          ],
+          [
+            22.9389,
+            40.6728
+          ],
+          [
+            22.906,
+            40.659
+          ],
+          [
+            22.914,
+            40.653
+          ],
+          [
+            22.922,
+            40.6475
+          ],
+          [
+            22.9342,
+            40.6411
+          ],
+          [
+            22.9292,
+            40.6436
+          ]
+        ]
+      }
+    ]
+  }
+}

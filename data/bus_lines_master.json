@@ -1,0 +1,3754 @@
+[
+  {
+    "lineCode": "1151",
+    "lineId": "021",
+    "descr": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ - ΓΚΥΖH (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PLATEIA KANIGKOS - GKIZI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1574",
+    "lineId": "021",
+    "descr": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ - ΓΚΥΖH (ΑΠΟ ΓΚΥΖΗ)",
+    "descrEn": "PLATEIA KANIGKOS - GKIZI (FROM GKIZI TO PLATEIA KANIGKOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1575",
+    "lineId": "021",
+    "descr": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ - ΓΚΥΖH (ΕΩΣ ΓΚΥΖΗ)",
+    "descrEn": "PLATEIA KANIGKOS - GKIZI (FROM KANIGKOS TO GKIZI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1578",
+    "lineId": "022",
+    "descr": "ΑΚΑΔΗΜΙΑ - Ν. ΚΥΨΕΛΗ (ΑΠΟ ΚΥΨΕΛΗ)",
+    "descrEn": "AKADIMIA - NEA KYPSELI (FROM KYPSELI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1579",
+    "lineId": "022",
+    "descr": "ΑΚΑΔΗΜΙΑ - Ν. ΚΥΨΕΛΗ (ΕΩΣ ΚΥΨΕΛΗ)",
+    "descrEn": "AKADIMIA - NEA KYPSELI (TO KYPSELI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1375",
+    "lineId": "022",
+    "descr": "ΑΚΑΔΗΜΙΑ - Ν. ΚΥΨΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AKADIMIA - NEA KYPSELI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "750",
+    "lineId": "024",
+    "descr": "ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AG. ANARGYROI - ST. KATO PATHSIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "817",
+    "lineId": "025",
+    "descr": "ΙΠΠΟΚΡΑΤΟΥΣ - ΠΡΟΦΗΤΗ ΔΑΝΙΗΛ",
+    "descrEn": "IPPOKRATOUS - PROFITI DANIIL",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "818",
+    "lineId": "026",
+    "descr": "ΙΠΠΟΚΡΑΤΟΥΣ - ΒΟΤΑΝΙΚΟΣ",
+    "descrEn": "IPPOKRATOUS - VOTANIKOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1669",
+    "lineId": "031",
+    "descr": "ΓΟΥΔΗ - ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ",
+    "descrEn": "GOUDI - ATTIKO NOSOKOMEIO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1113",
+    "lineId": "032",
+    "descr": "ΓΟΥΔΗ - ΜΑΡΑΣΛΕΙΟΣ (ΣΧΟΛΙΚΗ)",
+    "descrEn": "GOUDI - MARASLIOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "816",
+    "lineId": "035",
+    "descr": "ΑΝΩ ΚΥΨΕΛΗ - ΠΕΤΡΑΛΩΝΑ - ΤΑΥΡΟΣ",
+    "descrEn": "ANO KYPSELI - PETRALONA - TAVROS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "804",
+    "lineId": "036",
+    "descr": "ΣΤ. ΚΑΤΕΧΑΚΗ-ΣΤ. ΠΑΝΟΡΜΟΥ-ΓΑΛΑΤΣΙ-ΚΥΨΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "KATECHAKI - KYPSELI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1219",
+    "lineId": "036",
+    "descr": "ΣΤ. ΚΑΤΕΧΑΚΗ -ΣΤ. ΠΑΝΟΡΜΟΥ-ΓΑΛΑΤΣΙ-ΚΥΨΕΛΗ (ΜΕΧΡΙ ΠΛΑΤΕΙΑ ΚΥΨΕΛΗΣ)",
+    "descrEn": "KATECHAKI - KYPSELI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1220",
+    "lineId": "036",
+    "descr": "ΣΤ. ΚΑΤΕΧΑΚΗ -ΣΤ. ΠΑΝΟΡΜΟΥ-ΓΑΛΑΤΣΙ-ΚΥΨΕΛΗ (ΑΠΟ ΠΛΑΤΕΙΑ ΚΥΨΕΛΗΣ)",
+    "descrEn": "KATECHAKI - KYPSELI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "938",
+    "lineId": "040",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΣΥΝΤΑΓΜΑ",
+    "descrEn": "PEIRAIAS - SINTAGMA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "831",
+    "lineId": "046",
+    "descr": "ΜΟΥΣΕΙΟ - ΕΛΛΗΝΟΡΩΣΩΝ",
+    "descrEn": "MOUSEIO - ELLINOROSON",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "819",
+    "lineId": "049",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΟΜΟΝΟΙΑ",
+    "descrEn": "PEIRAIAS - OMONOIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1671",
+    "lineId": "051",
+    "descr": "ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ - ΟΜΟΝΟΙΑ (ΜΕΣΩ ΑΚΑΔ. ΠΛΑΤ) (ΑΠΟ ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ ΕΩΣ ΕΘΝΙΚΟ ΘΕΑΤΡΟ)",
+    "descrEn": "ST. YPER. LEOF. KIFISOU - OMONOIA (ST. YP.L.KIFISOU - ETHNIKO THEATRO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1523",
+    "lineId": "051",
+    "descr": "ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ - ΟΜΟΝΟΙΑ (ΜΕΣΩ ΑΚΑΔ. ΠΛΑΤ.)(ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST.YPER.LEOF.KIFISOU - OMONOIA (VIA AKAD. PLAT.)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1524",
+    "lineId": "051",
+    "descr": "ΣΤ. ΥΠΕΡ.ΛΕΩΦ.ΚΗΦΙΣΟΥ - ΟΜΟΝΟΙΑ (ΜΕΣΩ ΑΚΑΔ.ΠΛΑΤ) (ΑΠΟ ΕΘΝΙΚΟ ΘΕΑΤΡΟ ΕΩΣ ΣΤ. ΥΠΕΡ. ΛΕΩΦ.ΚΗΦΣΙΟΥ)",
+    "descrEn": "ST.YPER.LEOF.KIFISOU - OMONOIA(ETHNIKO THEATRO - ST.YPER.LEOF.KIFISOU)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1520",
+    "lineId": "052",
+    "descr": "ΣΤ. ΕΛΑΙΩΝΑ - ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. ELAIONA - ST. YPER. LEOF. KIFISOU",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1556",
+    "lineId": "054",
+    "descr": "ΠΕΡΙΣΣΟΣ - ΛΑΜΠΡΙΝΗ - ΟΜΟΝΟΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PERISSOS - LAMPRINI - OMONOIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "824",
+    "lineId": "057",
+    "descr": "ΛΟΦΟΣ ΣΚΟΥΖΕ - ΟΜΟΝΟΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "LOFOS SKOUZE - OMONOIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1376",
+    "lineId": "060",
+    "descr": "ΑΚΑΔΗΜΙΑ - ΛΥΚΑΒΗΤΤΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AKADIMIA - LYKAVITTOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1069",
+    "lineId": "1",
+    "descr": "ΠΛ. ΑΤΤΙΚΗΣ - ΚΑΛΛΙΘΕΑ - ΜΟΣΧΑΤΟ",
+    "descrEn": "PLATEIA ATTIKIS - TZITZIFIES - MOSCHATO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1077",
+    "lineId": "10",
+    "descr": "ΤΖΙΤΖΙΦΙΕΣ - ΧΑΛΑΝΔΡΙ",
+    "descrEn": "TZITZIFIES - XALANDRI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "939",
+    "lineId": "101",
+    "descr": "ΑΛΙΜΟΣ - ΕΛΛΗΝΙΚΟ",
+    "descrEn": "ALIMOS - ELLHNIKO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1026",
+    "lineId": "106",
+    "descr": "ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AG. BARBARA - ST. SYGGROY FIX",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1221",
+    "lineId": "106",
+    "descr": "ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "AG. BARBARA - ST. SYGGROY FIX (TO AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1449",
+    "lineId": "109",
+    "descr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΝΩ ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. AG. DIMITRIOS - ANO KALAMAKI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1777",
+    "lineId": "109",
+    "descr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΝΩ ΚΑΛΑΜΑΚΙ (ΑΠΟ ΠΛ. ΓΕΡΟΥΛΑΝΟΥ ΕΩΣ ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟ)",
+    "descrEn": "ST. AG. DIMITRIOS - ANO KALAMAKI (PL. GEROULANOU TO ST. AG. DIMITRIOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1779",
+    "lineId": "109",
+    "descr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΝΩ ΚΑΛΑΜΑΚΙ (ΕΩΣ ΣΤΑΣΗ ΚΟΤΖΙΑ)",
+    "descrEn": "ST. AG. DIMITRIOS - ANO KALAMAKI (TO KOTZIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1079",
+    "lineId": "11",
+    "descr": "ΑΝΩ ΠΑΤΗΣΙΑ - Ν. ΠΑΓΚΡΑΤΙ - Ν. ΕΛΒΕΤΙΑ",
+    "descrEn": "ANO PATISIA - N. PAGKRATI - N. ELVETIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1028",
+    "lineId": "112",
+    "descr": "ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤ. ΔΑΦΝΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AG. DIMITRIOS - STATΗ. DAFNI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1581",
+    "lineId": "112",
+    "descr": "ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤ. ΔΑΦΝΗ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "AG. DIMITRIOS - STATΗ. DAFNI (TO AKADHMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1008",
+    "lineId": "115",
+    "descr": "ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΚΙΤΣΙ",
+    "descrEn": "GLYFADA - VOULIAGMENI - KITSI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1444",
+    "lineId": "115",
+    "descr": "ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΚΙΤΣΙ (ΚΙΤΣΙ - ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "GLYFADA -VOULIAGMENI - KITSI (KITSI - AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "929",
+    "lineId": "116",
+    "descr": "ΓΛΥΦΑΔΑ - ΒΑΡΗ - ΚΙΤΣΙ",
+    "descrEn": "GLYFADA - VARI - KITSI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "932",
+    "lineId": "117",
+    "descr": "ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΒΑΡΗ",
+    "descrEn": "GLYFADA - VOULIAGMENI - VARI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1080",
+    "lineId": "12",
+    "descr": "ΖΑΠΠΕΙΟ - ΠΕΡΙΣΤΕΡΙ (ΑΓ. ΙΕΡΟΘΕΟΣ)",
+    "descrEn": "ZAPPEIO - PERISTERI (AG. IEROTHEOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "940",
+    "lineId": "120",
+    "descr": "ΓΛΥΦΑΔΑ - ΒΑΡΗ - ΠΡΟΑΣΤΙΑΚΟΣ ΣΤ. ΚΟΡΩΠΙΟΥ",
+    "descrEn": "GLYFADA - VARI - PROAST. KOROPIOU",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1817",
+    "lineId": "122",
+    "descr": "ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ - ΣΑΡΩΝΙΔΑ (ΔΙΕΛΕΥΣΗ ΑΠΟ ΣΧΟΛΗ ΤΟΥΡ. ΕΠΑΓΓ/ΤΩΝ)",
+    "descrEn": "ST. ARGYROUPOLI - SARONIDA (SXOLI TOUR EPAGGELMATON)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1815",
+    "lineId": "122",
+    "descr": "ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ - ΣΑΡΩΝΙΔΑ",
+    "descrEn": "ST. ARGYROUPOLI - SARONIDA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1816",
+    "lineId": "123",
+    "descr": "ΣΑΡΩΝΙΔΑ-ΑΝΑΒΥΣΣΟΣ-ΠΑΛΑΙΑ ΦΩΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "SARONIDA-ANAVISSOS-P.FOKAIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1818",
+    "lineId": "123",
+    "descr": "ΣΑΡΩΝΙΔΑ-ΑΝΑΒΥΣΣΟΣ-ΠΑΛΑΙΑ ΦΩΚΑΙΑ (ΑΠΟ ΣΤΑΣΗ ΚΟΙΝΟΤΗΤΑ ΠΑΛ. ΦΩΚΑΙΑΣ ΕΩΣ ΣΑΡΩΝΙΔΑ)",
+    "descrEn": "SARONIDA-ANAVISSOS-P.FOKAIA (FROM KOINOTHTA PAL.FOKAIAS TO SARONIDA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1486",
+    "lineId": "124",
+    "descr": "ΓΛΥΦΑΔΑ - ΑΓΙΑ ΤΡΙΑΔΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "GLYFADA - AGIA TRIADA - ST. ARGYROUPOLIS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1027",
+    "lineId": "126",
+    "descr": "ΠΑΛ. ΦΑΛΗΡΟ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PAL. FALIRO - ST. SYNGROU FIX",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "927",
+    "lineId": "128",
+    "descr": "ΓΛΥΦΑΔΑ - ΤΕΡΨΙΘΕΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "GLYFADA - TERPSITHEA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1582",
+    "lineId": "128",
+    "descr": "ΓΛΥΦΑΔΑ - ΤΕΡΨΙΘΕΑ (ΑΠΟ ΣΤΑΣΗ ΛΕΥΚΩΣΙΑΣ ΕΩΣ ΓΛΥΦΑΔΑ)",
+    "descrEn": "GLYFADA - TERPSITHEA (FROM LEYKOSIAS TO GLYFADA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1583",
+    "lineId": "128",
+    "descr": "ΓΛΥΦΑΔΑ - ΤΕΡΨΙΘΕΑ (ΑΠΟ ΓΛΥΦΑΔΑ ΕΩΣ ΣΤΑΣΗ ΛΕΥΚΩΣΙΑΣ )",
+    "descrEn": "GLYFADA - TERPSITHEA (FROM GLYFADA TO LEYKOSIAS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "851",
+    "lineId": "130",
+    "descr": "ΠΕΙΡΑΙΑΣ - Ν. ΣΜΥΡΝΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PEIRAIAS - NEA SMIRNI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1175",
+    "lineId": "131",
+    "descr": "ΑΜΑΞ. ΑΓ. ΔΗΜΗΤΡΙΟΥ - ΣΤ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AMAX. AG. DIMITRIOU - ST. DAFNI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1584",
+    "lineId": "131",
+    "descr": "ΑΜΑΞ. ΑΓ. ΔΗΜΗΤΡΙΟΥ - ΣΤ. ΔΑΦΝΗ (ΕΩΣ ΣΤ.ΔΑΦΝΗ)",
+    "descrEn": "AMAX. AG. DIMITRIOU - ST. DAFNI (TO DAFNI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1031",
+    "lineId": "136",
+    "descr": "ΑΝΩ Ν. ΣΜΥΡΝΗ Β - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ANO N. SMYRNI V - ST. SYGGROY FIX",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1030",
+    "lineId": "137",
+    "descr": "ΑΝΩ Ν. ΣΜΥΡΝΗ Α - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ANO N. SMYRNI A - ST. SYGGROY FIX",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1078",
+    "lineId": "14",
+    "descr": "ΛΑΜΠΡΙΝΗ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΓΗΡΟΚΟΜΕΙΟ",
+    "descrEn": "LAMPRINI - L. ALEXANDRAS - GIROKOMEIO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "937",
+    "lineId": "140",
+    "descr": "ΠΟΛΥΓΩΝΟ - ΓΛΥΦΑΔΑ",
+    "descrEn": "POLIGONO - GLIFADA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1032",
+    "lineId": "141",
+    "descr": "ΣΤ. ΔΑΦΝΗ - ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. DAFNIS - KALAMAKI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1697",
+    "lineId": "141",
+    "descr": "ΣΤ. ΔΑΦΝΗ - ΚΑΛΑΜΑΚΙ (ΑΠΟ ΣΤΑΣΗ ΜΕΤΑΜΟΡΦΩΣΗ)",
+    "descrEn": "ST. DAFNI - KALAMAKI (FROM METAMORFOSI STOP)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1698",
+    "lineId": "141",
+    "descr": "ΣΤ. ΔΑΦΝΗ - ΚΑΛΑΜΑΚΙ (ΕΩΣ ΣΤΑΣΗ ΜΕΤΑΜΟΡΦΩΣΗ)",
+    "descrEn": "ST. DAFNI - KALAMAKI (TO METAMORFOSI STOP)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "942",
+    "lineId": "142",
+    "descr": "ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ - ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. ARGYROYPOLI - KALAMAKI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1074",
+    "lineId": "15",
+    "descr": "ΠΕΤΡΑΛΩΝΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΛ. ΒΕΝΙΖΕΛΟΥ",
+    "descrEn": "PETRALONA - DIKASTIRIA - EL. VENIZELOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1275",
+    "lineId": "15",
+    "descr": "ΠΕΤΡΑΛΩΝΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΛ. ΒΕΝΙΖΕΛΟΥ (ΕΩΣ ΟΜΟΝΟΙΑ)",
+    "descrEn": "PETRALONA - DIKASTIRIA - EL. VENIZELOY (ΤΟ OMONOIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1588",
+    "lineId": "15",
+    "descr": "ΠΕΤΡΑΛΩΝΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΛ. ΒΕΝΙΖΕΛΟΥ (ΑΠΟ ΟΜΟΝΟΙΑ ΕΩΣ ΠΕΤΡΑΛΩΝΑ)",
+    "descrEn": "PETRALONA - DIKASTIRIA - EL. VENIZELOY (FROM OMONOIA TO PETRALONA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1488",
+    "lineId": "154",
+    "descr": "ΠΑΝ/ΜΑ ΒΟΥΛΑΣ - Α. ΓΛΥΦΑΔΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PAN/MA VOULAS - ANO GLYFADA - ST. ARGYROYPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1076",
+    "lineId": "16",
+    "descr": "ΑΓ. ΙΩΑΝΝΗΣ ΡΕΝΤΗΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AG. IOANNIS RENTIS - PEIRAIAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "944",
+    "lineId": "162",
+    "descr": "ΒΟΥΛΑ - ΠΑΝΟΡΑΜΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "VOYLA - PANORAMA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "924",
+    "lineId": "164",
+    "descr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ",
+    "descrEn": "ST. AGIOS DIMITRIOS - K. IL/POLI - ARG/POLI - TERPSITHEA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1589",
+    "lineId": "164",
+    "descr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ (ΑΠΟ ΣΤΑΣΗ ΔΑΡΖΕΝΤΑ)",
+    "descrEn": "ST. AGIOS DIMITRIOS - K. IL/POLI - ARG/POLI-TERPSITHEA (FROM DARZENTA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1590",
+    "lineId": "164",
+    "descr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ (ΑΠΟ ΣΤΑΣΗ ΠΛ.ΑΝΕΞΑΡΤΗΣΙΑΣ ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "ST.AGIOS DIMITRIOS-K.IL/POLI-ARG/POLI-TERPSITHEA (FROM PL.ANEXARTHSIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1591",
+    "lineId": "164",
+    "descr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ (ΤΕΡΨΙΘΕΑ ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "ST.AGIOS DIMITRIOS-K.IL/POLI-ARG/POLI-TERPSITHEA (TO AKADHMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1086",
+    "lineId": "17",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΓΕΩΡΓΙΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PEIRAIAS - AG. GEORGIOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1489",
+    "lineId": "171",
+    "descr": "ΒΑΡΚΙΖΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "VARKIZA - ST. ARGYROUPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1537",
+    "lineId": "171",
+    "descr": "ΒΑΡΚΙΖΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ (ΑΠΟ ΒΑΡΚΙΖΑ ΕΩΣ ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ)",
+    "descrEn": "VARKIZA - ST. ARGYROUPOLI (FROM VARKIZA TO ST. ARGYROUPOLI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1538",
+    "lineId": "171",
+    "descr": "ΒΑΡΚΙΖΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ (ΑΠΟ ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ ΕΩΣ ΒΑΡΚΙΖΑ)",
+    "descrEn": "VARKIZA - ST. ARGYROUPOLI (FROM ST. ARGYROUPOLI TO VARKIZA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1754",
+    "lineId": "171",
+    "descr": "ΒΑΡΚΙΖΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΠΑΡΑΣΚΕΥΗ)",
+    "descrEn": "VARKIZA - ST. ARGYROUPOLI (EVERY FRIDAY DURING THE FARMERS MARKET)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1085",
+    "lineId": "18",
+    "descr": "ΜΟΥΣΕΙΟ - ΧΑΛΑΝΔΡΙ (ΜΕΣΩ ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ)",
+    "descrEn": "MOYSEIO - CHALANDRI (VIA ETHN. ANTISTASEOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1084",
+    "lineId": "19",
+    "descr": "ΜΟΥΣΕΙΟ - ΣΤ. ΧΑΛΑΝΔΡΙΟΥ (ΣΙΔΕΡΑ)",
+    "descrEn": "MOYSEIO - ST. CHALANDRIOY (SIDERA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1381",
+    "lineId": "19Β",
+    "descr": "ΜΟΥΣΕΙΟ - ΧΑΛΑΝΔΡΙ (ΣΙΔΕΡΑ) (ΚΥΚΛΙΚΗ)",
+    "descrEn": "MOYSEIO - CHALANDRI (SIDERA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1070",
+    "lineId": "2",
+    "descr": "ΑΝΩ ΚΥΨΕΛΗ - ΠΑΓΚΡΑΤΙ - ΚΑΙΣΑΡΙΑΝΗ",
+    "descrEn": "ANO KIPSELI - PAGKRATI - KAISARIANH",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1083",
+    "lineId": "20",
+    "descr": "Ν. ΦΑΛΗΡΟ - ΚΑΣΤΕΛΛΑ - ΔΡΑΠΕΤΣΩΝΑ",
+    "descrEn": "N. FALIRO - KASTELLA - DRAPETSONA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1176",
+    "lineId": "201",
+    "descr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΡΓΥΡΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. AG. DIMITRIOS - ARGYROYPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1592",
+    "lineId": "201",
+    "descr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΡΓΥΡΟΥΠΟΛΗ (ΑΠΟ ΑΡΓΥΡΟΥΠΟΛΗ ΣΤΑΣΗ ΜΙΚΡΑΣ ΑΣΙΑΣ)",
+    "descrEn": "ST. AG. DIMITRIOS - ARGYROYPOLI (FROM ARGYROYPOLI -  MIKRAS ASIAS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1598",
+    "lineId": "201",
+    "descr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΡΓΥΡΟΥΠΟΛΗ (ΕΩΣ ΑΡΓΥΡΟΥΠΟΛΗ ΣΤΑΣΗ ΜΙΚΡΑΣ ΑΣΙΑΣ)",
+    "descrEn": "ST. AG. DIMITRIOS - ARGYROYPOLI (TO ARGYROYPOLI -  MIKRAS ASIAS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1790",
+    "lineId": "203",
+    "descr": "ΚΑΡΕΑΣ - ΑΚΑΔΗΜΙΑ (ΑΠΟ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "KAREAS - AKADIMIA (FROM AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1699",
+    "lineId": "203",
+    "descr": "ΚΑΡΕΑΣ - ΑΚΑΔΗΜΙΑ (ΕΠΙΣΤΡΟΦΗ ΜΕΣΩ ΕΚΕΜΣ)",
+    "descrEn": "KAREAS - AKADIMIA (VIA EKEMS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "926",
+    "lineId": "203",
+    "descr": "ΚΑΡΕΑΣ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "KAREAS - AKADIMIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "946",
+    "lineId": "204",
+    "descr": "ΣΤΡ. ΣΑΚΕΤΑ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "STR. SAKETA - AKADIMIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1791",
+    "lineId": "204",
+    "descr": "ΣΤΡ. ΣΑΚΕΤΑ - ΑΚΑΔΗΜΙΑ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "STR. SAKETA - AKADIMIA (TO AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1593",
+    "lineId": "204",
+    "descr": "ΣΤΡ. ΣΑΚΕΤΑ - ΑΚΑΔΗΜΙΑ (ΑΠΟ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "STR. SAKETA - AKADIMIA (FROM AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1594",
+    "lineId": "204Β",
+    "descr": "ΕΚΕΜΣ - ΑΚΑΔΗΜΙΑ (ΑΠΟ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "EKEMS - AKADIMIA (FROM AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1792",
+    "lineId": "204Β",
+    "descr": "ΕΚΕΜΣ - ΑΚΑΔΗΜΙΑ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "EKEMS - AKADIMIA (TO AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1178",
+    "lineId": "204Β",
+    "descr": "ΕΚΕΜΣ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "EKEMS -AKADIMIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1729",
+    "lineId": "205",
+    "descr": "ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "GLYFADA - SOURMENA - TERPSITHEA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1730",
+    "lineId": "205",
+    "descr": "ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ  (ΑΠΟ ΤΕΡΨΙΘΕΑ)",
+    "descrEn": "GLYFADA - SOURMENA - TERPSITHEA (FROM TERPSITHEA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1731",
+    "lineId": "205",
+    "descr": "ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ (ΕΩΣ ΤΕΡΨΙΘΕΑ)",
+    "descrEn": "GLYFADA - SOURMENA - TERPSITHEA (TO TERPSITHEA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1732",
+    "lineId": "205",
+    "descr": "ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ (ΑΠΟ ΣΤΑΣΗ 1η ΤΕΡΨΙΘΕΑΣ)",
+    "descrEn": "GLYFADA - SOURMENA - TERPSITHEA (FROM 1st TERPSITHEAS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1595",
+    "lineId": "206",
+    "descr": "ΑΓ.ΜΑΡΙΝΑ - ΣΤ. ΔΑΦΝΗΣ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "AGIA MARINA - ST. DAFNIS (ΤΟ AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1172",
+    "lineId": "206",
+    "descr": "ΑΓ.ΜΑΡΙΝΑ - ΣΤ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AGIA MARINA - ST. DAFNIS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1720",
+    "lineId": "209",
+    "descr": "ΥΜΗΤΤΟΣ - ΜΕΤΑΜΟΡΦΩΣΗ - ΣΥΝΤΑΓΜΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "YMITTOS-METAMORFOSI - PLATEIA SYNTAGMATOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1082",
+    "lineId": "21",
+    "descr": "ΝΙΚΑΙΑ - Π. ΡΑΛΛΗ - ΟΜΟΝΟΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "NIKAIA - P. RALLI - OMONOIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1721",
+    "lineId": "211",
+    "descr": "ΥΜΗΤΤΟΣ - ΜΕΤΑΜΟΡΦΩΣΗ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "YMITTOS-METAMORFOSI - AKADIMIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "948",
+    "lineId": "212",
+    "descr": "ΣΤ. ΔΑΦΝΗ - ΥΜΗΤΤΟΣ - ΒΥΡΩΝΑΣ - ΚΑΡΕΑΣ",
+    "descrEn": "ST. METRO DAFNI - VYRONAS - KAREAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1363",
+    "lineId": "214",
+    "descr": "ΖΩΟΔΟΧΟΣ ΠΗΓΗ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ZOODOXOS PIGI - AKADIMIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1033",
+    "lineId": "217",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤ. ΔΑΦΝΗ",
+    "descrEn": "PEIRAIAS - AG. DIMITRIOS - ST. DAFNI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1035",
+    "lineId": "218",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΣΤ. ΔΑΦΝΗ",
+    "descrEn": "PEIRAIAS - ST. DAFNI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1036",
+    "lineId": "219",
+    "descr": "ΣΤ. ΚΑΛΛΙΘΕΑ - ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+    "descrEn": "ST. KALLITHEA - AG. DIMITRIOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "949",
+    "lineId": "220",
+    "descr": "ΑΝΩ ΙΛΙΣΙΑ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ANO ILISIA - AKADIMIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1004",
+    "lineId": "221",
+    "descr": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PANEPISTIMIOYPOLI - AKADIMIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1562",
+    "lineId": "221",
+    "descr": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΑΚΑΔΗΜΙΑ (ΕΝΤΟΣ ΠΑΝΕΠΙΣΤΗΜΙΟΥ)",
+    "descrEn": "PANEPISTIMIOYPOLI - AKADIMIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "799",
+    "lineId": "224",
+    "descr": "ΚΑΙΣΑΡΙΑΝΗ - ΕΛ. ΒΕΝΙΖΕΛΟΥ",
+    "descrEn": "KAISARIANI - EL. VENIZELOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "847",
+    "lineId": "227",
+    "descr": "ΑΝΩ ΠΕΤΡΑΛΩΝΑ - ΑΓ. ΑΡΤΕΜΙΟΣ",
+    "descrEn": "ANO PETRALONA - AG. ARTEMIOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1034",
+    "lineId": "229",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤ. ΔΑΦΝΗ",
+    "descrEn": "PEIRAIAS - AG. DIMITRIOS - ST. DAFNI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "975",
+    "lineId": "230",
+    "descr": "ΑΚΡΟΠΟΛΗ - ΖΩΓΡΑΦΟΥ",
+    "descrEn": "AKROPOLI - ZOGRAFOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "950",
+    "lineId": "235",
+    "descr": "ΖΩΓΡΑΦΟΥ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ZOGRAFOY - AKADIMIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1173",
+    "lineId": "237",
+    "descr": "ΑΝΩ ΗΛΙΟΥΠΟΛΗ - ΣΤ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ANO ILIOUPOLI - ST.DAFNIS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1597",
+    "lineId": "237",
+    "descr": "ΑΝΩ ΗΛΙΟΥΠΟΛΗ - ΣΤ. ΔΑΦΝΗΣ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "ANO ILIOUPOLI - ST.DAFNIS (TO AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1081",
+    "lineId": "24",
+    "descr": "ΠΕΤΡΟΥΠΟΛΗ - ΙΛΙΟΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PETROYPOLI - ILION - ST. AG. ANTONIOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "951",
+    "lineId": "242",
+    "descr": "ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΤΕΧΝΕΙΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. KATECHAKI - POLITECHNIOUPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1158",
+    "lineId": "25",
+    "descr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΙΛΙΟΝ - ΚΑΜΑΤΕΡΟ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST.AG.ANTONIOS - ILION - KAMATERO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1605",
+    "lineId": "25",
+    "descr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΙΛΙΟΝ - ΚΑΜΑΤΕΡΟ (ΑΠΟ ΣΤΑΣΗ ΠΑΛ.ΑΦΕΤΗΡΙΑ)",
+    "descrEn": "ST.AG.ANTONIOS - ILION - KAMATERO (FROM PAL.AFETHRIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1369",
+    "lineId": "250",
+    "descr": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΣ (ΕΩΣ ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΣ)",
+    "descrEn": "PANEPISTIMIOUPOLI - ST. EVAGGELISMOS (TO ST. EVAGGELISMOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1469",
+    "lineId": "250",
+    "descr": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΣ (ΑΠΟ ΣΤΑΣΗ ΕΥΑΓΓΕΛΙΣΜΟΣ)",
+    "descrEn": "PANEPISTIMIOUPOLI - ST. EVAGGELISMOS (FROM ST. EVAGGELISMOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "952",
+    "lineId": "250",
+    "descr": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PANEPISTIMIOUPOLI - ST. EVAGGELISMOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1068",
+    "lineId": "3",
+    "descr": "Ν. ΦΙΛΑΔΕΛΦΕΙΑ - ΑΝΩ ΠΑΤΗΣΙΑ - ΝΕΟ ΨΥΧΙΚΟ",
+    "descrEn": "N. FILADELFEIA - ANO PATISIA - NEO PSYCHIKO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "885",
+    "lineId": "300",
+    "descr": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΤΖΑΝΕΙΟ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PL. KARAΪSKAKI - TZANEIO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1599",
+    "lineId": "300",
+    "descr": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΤΖΑΝΕΙΟ (ΑΠΟ ΤΖΑΝΕΙΟ)",
+    "descrEn": "PL. KARAΪSKAKI - TZANEIO (FROM TZANEIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1766",
+    "lineId": "301",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ - ΠΕΝΤΕΛΗ (ΕΩΣ ΤΕΡΜΑ ΚΑΛΛΙΣΙΩΝ)",
+    "descrEn": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1162",
+    "lineId": "301",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ - ΠΕΝΤΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1415",
+    "lineId": "301",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ-ΠΕΝΤΕΛΗ (ΑΠΟ ΤΕΡΜΑ ΚΑΛΛΙΣΙΩΝ)",
+    "descrEn": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI (FROM TERMA KALLISION)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1165",
+    "lineId": "301Β",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ-ΑΝΘΟΥΣΑ-ΠΕΝΤΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1409",
+    "lineId": "302",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΓΕΡΑΚΑΣ (ΕΩΣ ΣΤΑΣΗ Β.ΡΩΤΑ)",
+    "descrEn": "ST. DOYK. PLAKENTIAS - GERAKAS (TO B.ROTA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1039",
+    "lineId": "302",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΓΕΡΑΚΑΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. DOYK. PLAKENTIAS - GERAKAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "953",
+    "lineId": "304",
+    "descr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΒΡΑΥΡΩΝΑ)",
+    "descrEn": "ST. NOMISMATOKOPEIO - ARTEMIS (VRAYRONA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "954",
+    "lineId": "305",
+    "descr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΑΓ. ΝΙΚΟΛΑΟΣ)",
+    "descrEn": "ST. NOMISMATOKOPEIO - ARTEMIS (AG. NIKOLAOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1042",
+    "lineId": "306",
+    "descr": "ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ-ΔΗΜ.ΓΕΡΑΚΑ-ΜΠΑΛΑΝΑ ΓΕΡΑΚΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST.DOYK.PLAKENTIAS-DIM.GERAKA-BALANA GERAKA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1410",
+    "lineId": "306",
+    "descr": "ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ-ΔΗΜ.ΓΕΡΑΚΑ-ΜΠΑΛΑΝΑ ΓΕΡΑΚΑ (ΑΠΟ ΣΤΑΣΗ ΜΑΡΑΘΩΝΟΣ)",
+    "descrEn": "ST.DOYK.PLAKENTIAS-DIM.GERAKA-BALANA GERAKA (FROM MARATHONOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1411",
+    "lineId": "306",
+    "descr": "ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ-ΔΗΜ.ΓΕΡΑΚΑ-ΜΠΑΛΑΝΑ ΓΕΡΑΚΑ (ΕΩΣ ΣΤΑΣΗ ΤΕΡΜΑ-ΜΠΑΛΑΝΑ)",
+    "descrEn": "ST.DOYK.PLAKENTIAS-DIM.GERAKA-BALANA GERAKA (TO TERMA-BALANA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1041",
+    "lineId": "307",
+    "descr": "ΣΤ. Δ.ΠΛΑΚΕΝΤΙΑΣ - ΓΛ. ΝΕΡΑ - ΣΤ.ΠΡΟΑΣΤ. ΚΟΡΩΠΙ",
+    "descrEn": "ST. DOYK. PLAKENTIAS - GL. NERA - PROAST. KOROPIOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "955",
+    "lineId": "308",
+    "descr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΠΑΙΑΝΙΑ - ΚΟΡΩΠΙ",
+    "descrEn": "ST. NOMISMATOKOPEIO - PAIANIA - KOROPI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1525",
+    "lineId": "308",
+    "descr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΠΑΙΑΝΙΑ - ΚΟΡΩΠΙ (ΑΠΟ ΚΟΡΩΠΙ ΕΩΣ ΣΤΑΣΗ ΣΤΑΥΡΟΣ)",
+    "descrEn": "ST. NOMISMATOKOPEIO - PAIANIA - KOROPI (FROM KOROPI TO STAVROS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1518",
+    "lineId": "309",
+    "descr": "ΚΟΡΩΠΙ - ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ - ΚΟΡΩΠΙ (ΑΠΟ ΔΗΜΑΡΧΕΙΟ)",
+    "descrEn": "KOROPI - ST. PROASTIAKOY - KOROPI (FROM DIMARXEIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1519",
+    "lineId": "309",
+    "descr": "ΚΟΡΩΠΙ - ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ - ΚΟΡΩΠΙ (ΕΩΣ ΠΑΡΑΚΡΑΤΗΜΑ)",
+    "descrEn": "KOROPI - ST. PROASTIAKOU - KOROPI (TO PARAKRATIMA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1006",
+    "lineId": "309",
+    "descr": "ΚΟΡΩΠΙ - ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ - ΚΟΡΩΠΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "KOROPI - ST. PROASTIAKOY - KOROPI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1762",
+    "lineId": "309Β",
+    "descr": "ΣΤ. ΚΟΡΩΠΙ - ΜΑΡΚΟΠΟΥΛΟ- ΠΟΡΤΟ ΡΑΦΤΗ - ΑΥΛΑΚΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. KOROPI - MARKOPOULO - PORTO RAFTI - AYLAKI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1763",
+    "lineId": "309Β",
+    "descr": "ΣΤ. ΚΟΡΩΠΙ - ΜΑΡΚΟΠΟΥΛΟ - ΠΟΡΤΟ ΡΑΦΤΗ - ΑΥΛΑΚΙ (ΑΠΟ ΠΟΡΤΟ ΡΑΦΤΗ)",
+    "descrEn": "ST. KOROPI - MARKOPOULO - PORTO RAFTI - AVLAKI (FROM PORTO RAFTI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1724",
+    "lineId": "310",
+    "descr": "Γ* ΜΑΡΑΘΩΝΑΣ (ΜΕΣΩ ΠΑΡΑΛΙΑΣ) - ΝΕΑ ΜΑΚΡΗ - ΡΑΦΗΝΑ - ΜΑΤΙ - ΜΑΡΑΘΩΝΑΣ",
+    "descrEn": "C* MARATHONAS (VIA PARALIA) - NEA MAKRI - RAFINA - MATI - MARATHONAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1681",
+    "lineId": "310",
+    "descr": "ΜΑΡΑΘΩΝΑΣ - ΝΕΑ ΜΑΚΡΗ - ΡΑΦΗΝΑ - ΜΑΤΙ - ΜΑΡΑΘΩΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "MARATHONAS - NEA MAKRI - RAFINA - MATI - MARATHONAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1682",
+    "lineId": "310",
+    "descr": "Β* ΜΑΡΑΘΩΝΑΣ - ΝΕΑ ΜΑΚΡΗ - ΡΑΦΗΝΑ - ΓΡΑΜΜΑΤΙΚΟ",
+    "descrEn": "B MARATHONAS - NEA MAKRI - RAFINA - GRAMMATIKO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1674",
+    "lineId": "310",
+    "descr": "ΓΡΑΜΜΑΤΙΚΟ-ΜΑΡΑΘΩΝΑΣ-ΝΕΑ ΜΑΚΡΗ-ΡΑΦΗΝΑ-ΜΑΤΙ-ΜΑΡΑΘΩΝΑΣ",
+    "descrEn": "GRAMMATIKO-MARATHONAS - NEA MAKRI - RAFINA - MATI - MARATHONAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1688",
+    "lineId": "310",
+    "descr": "ΜΑΡΑΘΩΝΑΣ-ΝΕΑ ΜΑΚΡΗ-ΡΑΦΗΝΑ-ΜΑΤΙ-ΜΑΡΑΘΩΝΑΣ (ΑΠΟ Ν.ΒΟΥΤΖΑ)",
+    "descrEn": "MARATHONAS-NEA MAKRI-RAFINA-MATI-MARATHONAS (FROM N.BOUTZA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1689",
+    "lineId": "310",
+    "descr": "ΜΑΡΑΘΩΝΑΣ - ΝΕΑ ΜΑΚΡΗ - ΡΑΦΗΝΑ  - ΜΑΤΙ - ΜΑΡΑΘΩΝΑΣ (ΕΩΣ Ν.ΒΟΥΤΖΑ)",
+    "descrEn": "MARATHONAS-NEA MAKRI-RAFINA-MATI-MARATHONAS (TO N.BOUTZA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1751",
+    "lineId": "311",
+    "descr": "ΣΤ. ΚΟΡΩΠΙ - ΚΑΛΥΒΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. KOROPI - KALIVIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1755",
+    "lineId": "311",
+    "descr": "ΚΑΛΥΒΙΑ - ΣΤ. ΚΟΡΩΠΙ (ΑΠΟ ΔΗΜΑΡΧΕΙΟ ΚΑΛΥΒΙΩΝ)",
+    "descrEn": "KALIVIA - ST. KOROPI (FROM KALIVIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1690",
+    "lineId": "314",
+    "descr": "Β* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - Ν. ΒΟΥΤΖΑΣ (2ο Γυμνάσιο) (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "descrEn": "B* ST.DOUK.PLAKENTIAS -PALLINI-N.BOUTZAS(2nd GYMNASIO) (VIA PANORAMA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1691",
+    "lineId": "314",
+    "descr": "Γ* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΝΕΑ ΜΑΚΡΗ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "descrEn": "C* ST. DOUK. PLAKENTIAS - PALLINI - N. MAKRI (VIA PANORAMA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1679",
+    "lineId": "314",
+    "descr": "Γ* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΝΕΑ ΜΑΚΡΗ",
+    "descrEn": "C* ST. DOUK. PLAKENTIAS - PALLINI - N. MAKRI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1646",
+    "lineId": "314",
+    "descr": "Β* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - Ν. ΒΟΥΤΖΑΣ (2ο Γυμνάσιο)",
+    "descrEn": "B* ST. DOUK. PLAKENTIAS - PALLINI - N. BOUTZAS (2nd GYMNASIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2002",
+    "lineId": "314",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΡΑΦΗΝΑ",
+    "descrEn": "ST. DOUK. PLAKENTIAS - PALLINI - RAFINA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2003",
+    "lineId": "314",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΡΑΦΗΝΑ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "descrEn": "ST. DOUK. PLAKENTIAS - PALINI - RAFINA (VIA PANORAMA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1005",
+    "lineId": "316",
+    "descr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ",
+    "descrEn": "ST. NOMISMATOKOPEIO - ARTEMIS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1425",
+    "lineId": "319",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΕΚΠΤ. ΧΩΡΙΟ ΣΠΑΤΑ (ΑΠΟ ΓΗΠΕΔΟ ΣΠΑΤΩΝ)",
+    "descrEn": "ST. DOYK. PLAKENTIAS - PALLINI - EKPT. CHORIO SPATA (FROM GIPEDO SPAT)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1426",
+    "lineId": "319",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΕΚΠΤ. ΧΩΡΙΟ ΣΠΑΤΑ (ΕΩΣ ΣΤΑΣΗ ΤΕΡΜΑ)",
+    "descrEn": "ST. DOYK. PLAKENTIAS - PALLINI - EKPT. CHORIO SPATA (TO TERMA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1047",
+    "lineId": "319",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΕΚΠΤ. ΧΩΡΙΟ ΣΠΑΤΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. DOYK. PLAKENTIAS - PALLINI - EKPT. CHORIO SPATA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1768",
+    "lineId": "319",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΕΚΠΤ. ΧΩΡΙΟ ΣΠΑΤΑ (3ο ΓΥΜΝΑΣΙΟ ΠΑΛΛΗΝΗΣ ΠΡΟΣ ΣΠΑΤΑ)",
+    "descrEn": "ST. DOYK. PLAKENTIAS - PALLINI - EKPT. CHORIO SPATA (3RD GYMNASIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1503",
+    "lineId": "319",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΕΚΠΤ. ΧΩΡΙΟ ΣΠΑΤΑ (3ο ΓΥΜΝΑΣΙΟ ΠΑΛΛΗΝΗΣ ΠΡΟΣ ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ)",
+    "descrEn": "ST. DOYK. PLAKENTIAS - PALLINI - EKPT. CHORIO SPATA (3RD GYMNASIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2010",
+    "lineId": "320",
+    "descr": "ΣΤ. ΚΟΡΩΠΙ - ΚΕΡΑΤΕΑ - ΛΑΥΡΙΟ",
+    "descrEn": "ST. KOROPI - KERATEA - LAVRIO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1045",
+    "lineId": "323",
+    "descr": "ΑΓ.ΝΙΚΟΛΑΟΣ -  ΑΓ.ΚΥΡΙΑΚΗ -  ΒΡΑΥΡΩΝΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AGIOS NIKOLAOS - AG.KYRIAKI - VRAVRONA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1129",
+    "lineId": "324",
+    "descr": "ΑΝΘΟΥΣΑ-ΠΑΛΛΗΝΗ-ΚΑΝΤΖΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ANTHOUSA-PALLINI-KANTZA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1223",
+    "lineId": "326",
+    "descr": "ΣΤ. ΚΑΝΤΖΑ - ΣΠΑΤΑ - ΑΡΤΕΜΙΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ARTEMIS - KANTZA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1043",
+    "lineId": "330",
+    "descr": "ΚΟΡΩΠΙ - ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "KOROPI - AGIA MARINA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1517",
+    "lineId": "330",
+    "descr": "ΚΟΡΩΠΙ - ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ 17η ΣΤΑΣΗ ΑΓ. ΜΑΡΙΝΑΣ ΕΩΣ ΚΟΡΩΠΙ)",
+    "descrEn": "KOROPI - AG.MARINA (FROM 17th AG. MARINAS TO KOROPI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1071",
+    "lineId": "4",
+    "descr": "ΑΝΩ ΚΥΨΕΛΗ - ΑΓ. ΑΡΤΕΜΙΟΣ - ΣΤ. ΑΓ. ΙΩΑΝΝΗΣ",
+    "descrEn": "ANO KYPSELI - AG. ARTEMIOS - ST. AG. IOANNIS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1693",
+    "lineId": "400",
+    "descr": "ΠΕΙΡΑΙΑΣ -  ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ (ΝΥΧΤΕΡΙΝΗ)",
+    "descrEn": "PEIRAIAS - ST.DOYK.PLAKENTIAS (NIGHT LINE)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1050",
+    "lineId": "402",
+    "descr": "ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΔΡΟΣΟ",
+    "descrEn": "ST. KATECHAKI - POLYDROSO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1413",
+    "lineId": "405",
+    "descr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΜΕΛΙΣΣΙΑ (ΑΠΟ ΣΤΑΣΗ ΚΛΕΙΟΥΣ)",
+    "descrEn": "ST. CHALANDRIOU - MELISSIA (FROM KLEIOUS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1414",
+    "lineId": "405",
+    "descr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΜΕΛΙΣΣΙΑ (ΕΩΣ ΣΤΑΣΗ ΚΛΕΙΟΥΣ)",
+    "descrEn": "ST. CHALANDRIOU - MELISSIA (TO KLEIOUS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "802",
+    "lineId": "405",
+    "descr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΜΕΛΙΣΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. CHALANDRIOU - MELISSIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1326",
+    "lineId": "406",
+    "descr": "ΠΕΥΚΑΚΙΑ -ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ- ΣΤ.ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PEFKAKIA -ST.DOUK.PLAKENTIAS-ST.NOMISMATOKOPEIO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1327",
+    "lineId": "407",
+    "descr": "ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ- Ν. ΖΩH-ΣΤ.ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST.D.PLAKENTIAS-N.ZOI-ST.NOMISMATOKOPEIO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1357",
+    "lineId": "409",
+    "descr": "ΠΑΠΑΓΟΥ - ΣΤ. ΕΘΝ. ΑΜΥΝΑ  (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PAPAGOY - ST. ETHN. AMYNAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1670",
+    "lineId": "409",
+    "descr": "ΠΑΠΑΓΟΥ - ΣΤ. ΕΘΝ. ΑΜΥΝΑ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "PAPAGOY - ST. ETHN. AMYNAS (TO AKADHMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2013",
+    "lineId": "409",
+    "descr": "ΠΑΠΑΓΟΥ - ΣΤ. ΕΘΝ. ΑΜΥΝΑ (ΑΠΟ ΕΘΝ.ΑΜΥΝΑ)",
+    "descrEn": "PAPAGOY - ST. ETHN. AMYNAS (FROM ST.ETHN.AMYNA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1379",
+    "lineId": "410",
+    "descr": "ΑΝΩ ΜΕΛΙΣΣΙΑ -Ο.Α.Κ.Α. (ΑΠΟ ΣΤΑΣΗ ΚΛΕΙΟΥΣ)",
+    "descrEn": "O.A.K.A. - ANO MELISSIA (FROM KLEIOUS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1380",
+    "lineId": "410",
+    "descr": "Ο.Α.Κ.Α. - ΑΝΩ ΜΕΛΙΣΣΙΑ (ΕΩΣ ΣΤΑΣΗ ΚΛΕΙΟΥΣ)",
+    "descrEn": "O.A.K.A. - ANO MELISSIA (TO KLEIOUS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1190",
+    "lineId": "410",
+    "descr": "Ο.Α.Κ.Α. - ΑΝΩ ΜΕΛΙΣΣΙΑ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΑΓΩΝΑ-ΟΑΚΑ)",
+    "descrEn": "O.A.K.A. - ANO MELISSIA (DUE TO ATHLETIC EVENTS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "846",
+    "lineId": "410",
+    "descr": "Ο.Α.Κ.Α. - ΑΝΩ ΜΕΛΙΣΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "O.A.K.A. - ANO MELISSIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1053",
+    "lineId": "411",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΣΙΣΜΑΝΟΓΛΕΙΟ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. DOUKISSIS PLAKENTIAS - SISMANOGLIO - CHALANDRI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1567",
+    "lineId": "411",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΣΙΣΜΑΝΟΓΛΕΙΟ - ΧΑΛΑΝΔΡΙ (ΑΠΟ ΧΑΛΑΝΔΡΙ)",
+    "descrEn": "ST. DOUKISSIS PLAKENTIAS - SISMANOGLIO - CHALANDRI (FROM CHALANDRI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1576",
+    "lineId": "411",
+    "descr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΣΙΣΜΑΝΟΓΛΕΙΟ - ΧΑΛΑΝΔΡΙ (ΕΩΣ ΧΑΛΑΝΔΡΙ)",
+    "descrEn": "ST. DOUKISSIS PLAKENTIAS - SISMANOGLIO - CHALANDRI (TO CHALANDRI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1602",
+    "lineId": "416",
+    "descr": "ΣΤ.ΕΘΝ.ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΑΠΟ ΠΛ.ΧΟΛΑΡΓΟΥ)",
+    "descrEn": "ST. ETHN.AMYNAS - CHOLARGOS (FROM PL.CHOLARGOU)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1603",
+    "lineId": "416",
+    "descr": "ΣΤ.ΕΘΝ.ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΑΠΟ ΠΛ.ΧΟΛΑΡΓΟΥ ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "ST. ETHN.AMYNAS - CHOLARGOS (FROM PL.CHOLARGOU TO AKADHMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1604",
+    "lineId": "416",
+    "descr": "ΣΤ.ΕΘΝ.ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΕΩΣ ΠΛ.ΧΟΛΑΡΓΟΥ)",
+    "descrEn": "ST. ETHN.AMYNAS - CHOLARGOS (TO PL.CHOLARGOU)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1236",
+    "lineId": "416",
+    "descr": "ΣΤ.ΕΘΝ.ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. ETHN.AMYNAS - CHOLARGOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1237",
+    "lineId": "418",
+    "descr": "ΣΤ. ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ-ΣΧΟΛ. ΧΟΛΑΡΓΟΥ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST.ETHNIKIS AMYNAS-SCHOL. CHOLARGOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1600",
+    "lineId": "418",
+    "descr": "ΣΤ. ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ - ΣΧΟΛ. ΧΟΛΑΡΓΟΥ (ΑΠΟ ΣΤΑΣΗ ΔΗΜΑΡΧΕΙΟ)",
+    "descrEn": "ST.ETHNIKIS AMYNAS-SCHOL. CHOLARGOY (FROM DHMARXEIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1601",
+    "lineId": "418",
+    "descr": "ΣΤ. ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ - ΣΧΟΛ. ΧΟΛΑΡΓΟΥ (ΕΩΣ ΣΤΑΣΗ ΔΗΜΑΡΧΕΙΟ)",
+    "descrEn": "ST.ETHNIKIS AMYNAS-SCHOL. CHOLARGOY (TO DHMARXEIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1164",
+    "lineId": "420",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ  (ΜΕΣΩ ΚΗΦΙΣΟΥ)",
+    "descrEn": "PEIRAIAS - AG. ANARGYROI (VIA KIFISOY)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "967",
+    "lineId": "421",
+    "descr": "ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+    "descrEn": "AGIOI ANARGYROI - AGIA PARASKEVI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1188",
+    "lineId": "444",
+    "descr": "ΣΤ. ΕΙΡΗΝΗ - ΓΑΛΑΤΣΙ - ΣΤ. ΑΝΩ ΠΑΤΗΣΙΑ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΑΓΩΝΑ-ΟΑΚΑ)",
+    "descrEn": "ST. EIRINI - GALATSI - ST. ANO PATISIA (DUE TO ATHLETIC EVENTS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1056",
+    "lineId": "444",
+    "descr": "ΣΤ. ΕΙΡΗΝΗ - ΓΑΛΑΤΣΙ - ΣΤ. ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. EIRINI - GALATSI - ST. ANO PATISIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1055",
+    "lineId": "446",
+    "descr": "ΣΤ. ΑΜΑΡΟΥΣΙΟΥ - ΝΟΣΟΚ. ΠΕΝΤΕΛΗΣ (ΜΕΣΩ ΠΙΚΠΑ)",
+    "descrEn": "ST. AMAROYSIOY - NOSOK. PENTELIS (VIA PIKPA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "976",
+    "lineId": "447",
+    "descr": "ΧΑΛΑΝΔΡΙ - ΑΝΩ ΒΡΙΛΗΣΣΙΑ",
+    "descrEn": "CHALANDRI - ANO BRILHSSIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1059",
+    "lineId": "450",
+    "descr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ",
+    "descrEn": "ST. CHALANDRI - CHALANDRI - N. PENTELI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1060",
+    "lineId": "451",
+    "descr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. CHALANDRI - NEA PENTELI - CHALANDRI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1429",
+    "lineId": "451",
+    "descr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΑΠΟ ΣΤΑΣΗ ΠΛ.ΑΓ.ΣΙΛΑ)",
+    "descrEn": "ST. CHALANDRI - NEA PENTELI -CHALANDRI (FROM PL.AG. SILA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1061",
+    "lineId": "460",
+    "descr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Π. ΠΕΝΤΕΛΗ",
+    "descrEn": "ST. CHALANDRI - CHALANDRI - PALAIA PENTELI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1062",
+    "lineId": "461",
+    "descr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Π. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. CHALANDRI - P. PENTELI - CHALANDRI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1431",
+    "lineId": "461",
+    "descr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Π.ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΑΠΟ ΣΤΡΑΤ/KO ΝΟΣ/MEIO)",
+    "descrEn": "ST. CHALANDRI - P. PENTELI - CHALANDRI (FROM STRAT/KO NOS/MEIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1432",
+    "lineId": "461",
+    "descr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Π.ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΕΩΣ ΣΤΡΑΤ/KO ΝΟΣ/MEIO)",
+    "descrEn": "ST. CHALANDRI - P. PENTELI - CHALANDRI (TO STRAT/KO NOS/MEIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1072",
+    "lineId": "5",
+    "descr": "ΛΑΜΠΡΙΝΗ - ΠΛ. ΣΥΝΤΑΓΜΑΤΟΣ - ΤΖΙΤΖΙΦΙΕΣ",
+    "descrEn": "LAMPRINI - PL. SYNTAGMATOS - TZITZIFIES",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "877",
+    "lineId": "500",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ(ΠΛ.ΠΛΑΤΑΝΟΥ) (ΝΥΧΤΕΡΙΝΗ)",
+    "descrEn": "PEIRAIAS - KIFISIA - (PL.PLATANOU) (NIGHT LINE)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "977",
+    "lineId": "501",
+    "descr": "ΠΕΥΚΗ - ΜΑΡΟΥΣΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PEYKI - MAROYSI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "913",
+    "lineId": "503",
+    "descr": "ΖΗΡΙΝΕΙΟ - ΒΑΡΥΜΠΟΜΠΗ",
+    "descrEn": "ZIRINEIO - VARYMPOMPI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1586",
+    "lineId": "504",
+    "descr": "ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ - ΚΗΦΙΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "THRAKOMAKEDONES  - KIFISIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "914",
+    "lineId": "507",
+    "descr": "ΖΗΡΙΝΕΙΟ - ΡΟΔΟΠΟΛΗ - ΣΤΑΜΑΤΑ",
+    "descrEn": "ZIRINEIO - RODOPOLI - STAMATA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1212",
+    "lineId": "509",
+    "descr": "ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ (ΠΕΥΚΟΦΥΤΟ) - ΚΡΥΟΝΕΡΙ (ΜΕΧΡΙ ΚΥΝΟΥΡΙΑ)",
+    "descrEn": "ZIRINEIO - AG. STEFANOS (PEFKOFYTO) - KRYONERI (VIA KYNOURIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1187",
+    "lineId": "509",
+    "descr": "ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ - ΚΡΥΟΝΕΡΙ",
+    "descrEn": "ZIRINEIO - AG. STEFANOS - KRYONERI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1205",
+    "lineId": "509",
+    "descr": "ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ - ΚΡΥΟΝΕΡΙ (ΜΕΧΡΙ ΚΥΝΟΥΡΙΑ)",
+    "descrEn": "ZIRINEIO - AG. STEFANOS - KRYONERI (VIA KYNOURIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1685",
+    "lineId": "509Β",
+    "descr": "ΖΗΡΙΝΕΙΟ - ΑΦΙΔΝΕΣ - ΠΟΛΥΔΕΝΔΡΙ - ΚΑΠΑΝΔΡΙΤΙ - ΒΑΡΝΑΒΑ",
+    "descrEn": "ZIRINEIO - AFIDNES - POLYDENDRI - KAPANDRITI - BARNABA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1806",
+    "lineId": "510",
+    "descr": "ΖΗΡΙΝΕΙΟ - ΜΑΡΚΟΠΟΥΛΟ - ΣΚΑΛΑ ΩΡΩΠΟΥ",
+    "descrEn": "ZIRINEIO - MARKOPOULO - SKALA OROPOU",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "998",
+    "lineId": "522",
+    "descr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΑΔΑΜΕΣ Α (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. KIFISIA - ADAMES A",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "997",
+    "lineId": "523",
+    "descr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΑΔΑΜΕΣ Β (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. KIFISIA - ADAMES B",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1001",
+    "lineId": "524",
+    "descr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΠΟΛΙΤΕΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. KIFISIA - POLITEIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1000",
+    "lineId": "526",
+    "descr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΚΕΦΑΛΑΡΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. KIFISIA- KEFALARI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "978",
+    "lineId": "527",
+    "descr": "ΠΕΥΚΗ - ΝΕΡΑΤΖΙΩΤΙΣΣΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PEYKI - NERATZIOTISSA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "999",
+    "lineId": "530",
+    "descr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΜΕΛΙΣΣΙΑ - Ν. ΠΕΝΤΕΛΗ",
+    "descrEn": "ST. KIFISIA - MELISSIA - N. PENTELI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "917",
+    "lineId": "535",
+    "descr": "ΖΗΡΙΝΕΙΟ - ΕΥΞΕΙΝΟΣ ΠΟΝΤΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ZIRINEIO - EYXEINOS PONTOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1260",
+    "lineId": "535Α",
+    "descr": "ΖΗΡΙΝΕΙΟ - ΕΥΞΕΙΝΟΣ ΠΟΝΤΟΣ - ΦΡΑΓΜΑ - ΚΑΛΕΤΖΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ZIRINEIO - EYXEINOS PONTOS - KALETZI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "916",
+    "lineId": "536",
+    "descr": "ΖΗΡΙΝΕΙΟ - ΔΙΟΝΥΣΟΣ",
+    "descrEn": "ZIRINEIO - DIONYSOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "904",
+    "lineId": "537",
+    "descr": "ΑΧΑΡΝΑΙ - ΒΑΡΥΜΠΟΜΠΗ",
+    "descrEn": "ACHARNAI - VARYMPOMPI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1480",
+    "lineId": "537",
+    "descr": "ΑΧΑΡΝΑΙ - ΒΑΡΥΜΠΟΜΠΗ (ΜΕΣΩ ΘΡΑΚΟΜΑΚΕΔΟΝΩΝ)",
+    "descrEn": "ACHARNAI - VARYMPOMPI (VIA THRAKOMAKEDONON)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "979",
+    "lineId": "541",
+    "descr": "ΜΕΤΑΜΟΡΦΩΣΗ - ΣΤ. ΑΜΑΡΟΥΣΙΟΥ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "METAMORFOSI - ST. AMAROUSIOU",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1623",
+    "lineId": "543",
+    "descr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΟΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. KIFISIA - NOS. AG. ANARGYROI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1624",
+    "lineId": "543Α",
+    "descr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΟΙ (ΜΕΣΩ ΚΑΛΥΦΤΑΚΗ) (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. KIFISIA - NOS. AG. ANARGYROI (VIA KALIFTAKI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "959",
+    "lineId": "550",
+    "descr": "Π. ΦΑΛΗΡΟ - ΚΗΦΙΣΙΑ",
+    "descrEn": "P. FALIRO - KIFISIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "836",
+    "lineId": "560",
+    "descr": "ΣΤ. ΚΗΦΙΣΙΑ - ΜΟΡΤΕΡΟ - Ν. ΕΡΥΘΡΑΙΑ",
+    "descrEn": "ST. KIFISIA - MORTERO - N. ERYTHRAIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1073",
+    "lineId": "6",
+    "descr": "ΙΠΠΟΚΡΑΤΟΥΣ - ΚΟΣΜΑΣ ΑΙΤΩΛΟΣ - Ν. ΦΙΛΑΔΕΛΦΕΙΑ",
+    "descrEn": "IPPOKRATOUS - KOSMAS AITOLOS - N. FILADELFEIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1796",
+    "lineId": "602",
+    "descr": "Ν. ΙΩΝΙΑ - ΚΑΛΟΓΡΕΖΑ - ΣΤ. ΠΑΝΟΡΜΟΥ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "N. IONIA - KALOGREZA - ST. PANORMOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1797",
+    "lineId": "602",
+    "descr": "Ν. ΙΩΝΙΑ - ΚΑΛΟΓΡΕΖΑ - ΣΤΑΘ. ΠΑΝΟΡΜΟΥ (ΕΩΣ 13η ΚΑΛΟΓΡΕΖΑΣ)",
+    "descrEn": "N. IONIA - KALOGREZA - ST. PANORMOY (TO KALOGREZA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1798",
+    "lineId": "602",
+    "descr": "Ν. ΙΩΝΙΑ - ΚΑΛΟΓΡΕΖΑ - ΣΤΑΘ. ΠΑΝΟΡΜΟΥ (ΑΠΟ ΣΤΑΣΗ ΣΧΟΛΕΙΟ)",
+    "descrEn": "N. IONIA - KALOGREZA - ST. PANORMOY (FROM KALOGREZA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "983",
+    "lineId": "604",
+    "descr": "ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΣΤ. ΜΕΤΑΜΟΡΦΩΣΗΣ - ΝΕΑ ΙΩΝΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "NOS. AG. ANARGYROI - ST. METAMORFOSIS - NEA IONIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "822",
+    "lineId": "605",
+    "descr": "ΠΕΡΙΣΣΟΣ - ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PERISSOS - ANO PATISIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "960",
+    "lineId": "608",
+    "descr": "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ",
+    "descrEn": "GALATSI - AKADIMIA - NEKR. ZOGRAFOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1568",
+    "lineId": "608",
+    "descr": "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ ( ΕΩΣ ΣΤΑΣΗ ΧΑΤΖΗΔΑΚΗ)",
+    "descrEn": "GALATSI - AKADIMIA - NEKR. ZOGRAFOY (TO XATZIDAKI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1558",
+    "lineId": "608",
+    "descr": "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ (ΑΠΟ ΓΑΛΑΤΣΙ ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "GALATSI - AKADIMIA - NEKR. ZOGRAFOY (FROM GALATSI TO AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2016",
+    "lineId": "608",
+    "descr": "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ (ΑΠΟ ΖΩΓΡΑΦΟΥ ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "GALATSI - AKADIMIA - NEKR. ZOGRAFOY (FROM ZOGRAFOY TO AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1638",
+    "lineId": "610",
+    "descr": "ΦΙΛΟΘΕΗ - ΑΜΠΕΛΟΚΗΠΟΙ (ΑΠΟ ΣΤΑΣΗ ΥΓΕΙΟΝΟΜΙΚΟ)",
+    "descrEn": "FILOTHEI - AMPELOKIPOI (FROM YGEIONOMIKO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1639",
+    "lineId": "610",
+    "descr": "ΦΙΛΟΘΕΗ - ΑΜΠΕΛΟΚΗΠΟΙ (ΕΩΣ ΣΤΑΣΗ ΥΓΕΙΟΝΟΜΙΚΟ)",
+    "descrEn": "FILOTHEI - AMPELOKIPOI (TO YGEIONOMIKO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "985",
+    "lineId": "610",
+    "descr": "ΦΙΛΟΘΕΗ - ΑΜΠΕΛΟΚΗΠΟΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "FILOTHEI - AMPELOKIPOI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1063",
+    "lineId": "619",
+    "descr": "ΜΕΤΑΜΟΡΦΩΣΗ - Ν. ΦΙΛΑΔΕΛΦΕΙΑ - ΣΤ. ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "METAMORFOSI - N. FILADELFEIA - ST. ANO PATISIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "935",
+    "lineId": "622",
+    "descr": "ΓΟΥΔΗ - ΑΝΩ ΓΑΛΑΤΣΙ",
+    "descrEn": "GOYDI - ANO GALATSI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "984",
+    "lineId": "640",
+    "descr": "ΤΟΠΙΚΗ ΗΡΑΚΛΕΙΟΥ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "TOPIKI IRAKLEIOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "982",
+    "lineId": "642",
+    "descr": "ΗΡΑΚΛΕΙΟ - ΑΓ. ΝΕΚΤΑΡΙΟΣ - ΠΕΥΚΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "IRAKLEIO - AG. NEKTARIOS - PEYKI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1608",
+    "lineId": "642",
+    "descr": "ΗΡΑΚΛΕΙΟ- ΑΓ. ΝΕΚΤΑΡΙΟΣ - ΠΕΥΚΗ (ΑΠΟ 8η ΠΕΥΚΗΣ)",
+    "descrEn": "IRAKLEIO - AG. NEKTARIOS - PEYKI (FROM 8th PEYKHS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1640",
+    "lineId": "651",
+    "descr": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Α (ΑΠΟ ΣΤ. ΠΑΝΟΡΜΟΥ)",
+    "descrEn": "PSYCHIKO - PANORMOY A (FROM ST. PANORMOY)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1057",
+    "lineId": "651",
+    "descr": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Α (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PSYCHIKO - PANORMOY A",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1007",
+    "lineId": "653",
+    "descr": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Β (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PSYCHIKO - PANORMOY Β",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1613",
+    "lineId": "653",
+    "descr": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Β (ΕΩΣ ΣΤΑΣΗ ΣΧΟΛΕΙΟ)",
+    "descrEn": "PSYCHIKO - PANORMOY Β (ΤΟ SXOLEIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1244",
+    "lineId": "700",
+    "descr": "ΠΕΤΡΟΥΠΟΛΗ (ΑΓ. ΤΡΙΑΔΑ)-ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PETROUPOLI (AG. TRIADA)-ST. ANTHOUPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "987",
+    "lineId": "701",
+    "descr": "ΚΑΜΑΤΕΡΟ - ΙΛΙΟΝ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "KAMATERO - ILION ST. ANTHOYPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1022",
+    "lineId": "702",
+    "descr": "ΤΟΠΙΚΗ ΚΑΜΑΤΕΡΟΥ (ΣΧΟΛΙΚΗ) (ΚΥΚΛΙΚΗ)",
+    "descrEn": "TOPIKI KAMATEROY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1435",
+    "lineId": "703",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΕΛΕΥΘΕΡΙΟΣ (ΜΕΣΩ ΘΗΒΩΝ)",
+    "descrEn": "PEIRAIAS - AG. ANARGYROI - AG. ELEYTHERIOS (VIA THIVON)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1765",
+    "lineId": "703",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΕΛΕΥΘΕΡΙΟΣ (ΝΥΧΤΕΡΙΝΑ ΔΡΟΜΟΛΟΓΙΑ ΣΑΒΒΑΤΟΥ -  ΠΛ.ΚΑΡΑΪΣΚΑΚΗ)",
+    "descrEn": "PEIRAIAS - AG. ANARGYROI - AG. ELEYTHERIOS (SATURDAY AFTER MIDNIGHT)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "823",
+    "lineId": "704",
+    "descr": "ΚΑΜΑΤΕΡΟ - ΠΛ. ΑΓ. ΑΝΑΡΓΥΡΩΝ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "KAMATERO - PL. AG. ANARGYRON",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "986",
+    "lineId": "705",
+    "descr": "ΚΑΜΑΤΕΡΟ - ΙΛΙΟΝ - ΠΛ. ΑΓ. ΑΝΑΡΓΥΡΩΝ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "KAMATERO - ILION - PL. AG. ANARGYRON - ST. ANTHOYPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1247",
+    "lineId": "706",
+    "descr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ-ΙΛΙΟΝ (ΜΕΣΩ Λ. ΑΝ. ΠΑΠΑΝΔΡΕΟΥ)",
+    "descrEn": "ST. AG. ANTONIOS-ILION (VIA L. ANDREA PAPANDREOU)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1712",
+    "lineId": "706",
+    "descr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΙΛΙΟΝ (ΜΕΣΩ Λ. ΑΝ. ΠΑΠΑΝΔΡΕΟΥ) (ΕΩΣ ΣΤΑΣΗ ΕΦΟΡΙΑ)",
+    "descrEn": "ST. AG. ANTONIOS-ILION (VIA L. ANDREA PAPANDREOU) (TO EFORIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1713",
+    "lineId": "706",
+    "descr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΙΛΙΟΝ (ΜΕΣΩ Λ. ΑΝ. ΠΑΠΑΝΔΡΕΟΥ) (ΑΠΟ ΣΤΑΣΗ ΙΔΟΜΕΝΕΩΣ)",
+    "descrEn": "ST. AG. ANTONIOS-ILION (VIA L. ANDREA PAPANDREOU) (FROM IDOMENEOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1131",
+    "lineId": "709",
+    "descr": "ΤΟΠΙΚΟ ΔΡΟΣΟΥΠΟΛΗΣ",
+    "descrEn": "DROSOYPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1384",
+    "lineId": "711",
+    "descr": "ΣΤ. ΑΤΤΙΚΗ - ΖΩΦΡΙΑ",
+    "descrEn": "ST. ATTIKI - ZOFRIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1707",
+    "lineId": "712",
+    "descr": "ΑΧΑΡΝΑΙ - ΕΡΓ. ΠΟΛΥΚΑΤΟΙΚΙΕΣ - Α. ΛΙΟΣΙΑ",
+    "descrEn": "ACHARNAI - ERG. POLYKATOIKIES - A. LIOSIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1719",
+    "lineId": "712",
+    "descr": "ΑΧΑΡΝΑΙ - ΕΡΓ. ΠΟΛΥΚΑΤΟΙΚΙΕΣ - Α. ΛΙΟΣΙΑ (ΕΩΣ ΓΕΦΥΡΑ ΑΤΤΙΚΗΣ ΟΔΟΥ)",
+    "descrEn": "ACHARNAI - ERG. POLYKATOIKIES - A. LIOSIA (TO GEFYRA ATTIKIS ODOU)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "837",
+    "lineId": "719",
+    "descr": "ΚΗΠΟΥΠΟΛΗ - ΠΑΛΑΤΙΑΝΗ - ΣΤ. ΛΑΡΙΣΗΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "KIPOYPOLI - PALATIANI - ST. LARISIS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1373",
+    "lineId": "720",
+    "descr": "ΑΝΑΚΑΣΑ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΣΤ. ΑΤΤΙΚΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ANAKASA - AG. ANARGYROI - ST. ATTIKI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "918",
+    "lineId": "721",
+    "descr": "ΑΧΑΡΝΑΙ - ΚΗΦΙΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ACHARNAI - KIFISIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "867",
+    "lineId": "723",
+    "descr": "ΦΥΛΗ - ΑΝΩ ΛΙΟΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "FYLI - ANO LIOSIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1064",
+    "lineId": "724",
+    "descr": "ΑΧΑΡΝΑΙ (ΜΕΣΟΝΥΧΙ) - Ν. ΙΩΝΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ACHARNAI (MESONYCHI) - N. IONIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1133",
+    "lineId": "725",
+    "descr": "ΑΧΑΡΝΑΙ (ΜΕΣΟΝΥΧΙ) - ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ (ΠΛ.ΑΡΙΣΤΟΤΕΛΟΥΣ)  (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ACHARNAI(MESONYCHI)-THRAKOMAKEDONES (PL.ARISTOTELOUS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1436",
+    "lineId": "725",
+    "descr": "ΑΧΑΡΝΑΙ (ΜΕΣΟΝΥΧΙ) - ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ (ΑΠΟ ΠΛ.ΑΡΙΣΤΟΤΕΛΟΥΣ ΕΩΣ ΜΕΣΟΝΥΧΙ)",
+    "descrEn": "ACHARNAI(MESONYCHI)-THRAKOMAKEDONES (FROM PL.ARISTOTELOUS TO MESONYCHI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1134",
+    "lineId": "726",
+    "descr": "ΑΧΑΡΝΑΙ (ΜΕΣΟΝΥΧΙ) - ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ (BOYNO)   (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ACHARNAI(MESONYCHI)-THRAKOMAKEDONES (MOUNT PARNITHA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1147",
+    "lineId": "727",
+    "descr": "ΜΕΣΟΝΥΧΙ - ΑΓ. ΚΩΝΣΤΑΝΤΙΝΟΣ - ΑΓ.ΠΑΡΑΣΚΕΥΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "MESONYXI - AG.KONSTANTINOS - AG.PARASKEYH",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1378",
+    "lineId": "727",
+    "descr": "ΜΕΣΟΝΥΧΙ - ΑΓ.ΚΩΝΣΤΑΝΤΙΝΟΣ-ΑΓ.ΠΑΡΑΣΚΕΥΗ (ΕΩΣ 6ο ΓΕΝ. ΛΥΚΕΙΟ ΑΧΑΡΝΩΝ - ΠΡΩΙ)",
+    "descrEn": "MESONYXI - AG.KONSTANTINOS - AG.PARASKEYH (ΤΟ 6th GEN.LYKEIO ACHARNAI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1513",
+    "lineId": "727",
+    "descr": "ΜΕΣΟΝΥΧΙ - ΑΓ.ΚΩΝΣΤΑΝΤΙΝΟΣ-ΑΓ.ΠΑΡΑΣΚΕΥΗ (ΕΩΣ 6ο ΓΕΝ. ΛΥΚΕΙΟ ΑΧΑΡΝΩΝ - ΜΕΣΗΜΕΡΙ)",
+    "descrEn": "MESONYXI - AG.KONSTANTINOS - AG.PARASKEYH (ΤΟ 6th GEN.LYKEIO ACHARNAI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1505",
+    "lineId": "728",
+    "descr": "ΑΧΑΡΝΑΙ- ΑΓ.ΠΕΤΡΟΣ- ΑΓ.ΙΩΑΝΝΗΣ-ΠΛΑΤΩΝΑΣ (ΑΠΟ ΣΤΑΣΗ ΣΤΡΟΦΗ ΕΩΣ ΑΧΑΡΝΕΣ)",
+    "descrEn": "ACHARNAI - PLATONAS (FROM STROFH TO ACHARNAI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1510",
+    "lineId": "728",
+    "descr": "ΑΧΑΡΝΑΙ- ΑΓ.ΠΕΤΡΟΣ- ΑΓ.ΙΩΑΝΝΗΣ-ΠΛΑΤΩΝΑΣ (ΑΠΟ ΑΓ.Ι.ΡΩΣΟ ΕΩΣ ΚΑΡΑΒΟ)",
+    "descrEn": "ACHARNAI - PLATONAS (FROM AG.I.ROSO TO ACHARNAI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1438",
+    "lineId": "728",
+    "descr": "ΑΧΑΡΝΑΙ- ΑΓ.ΠΕΤΡΟΣ- ΑΓ.ΙΩΑΝΝΗΣ-ΠΛΑΤΩΝΑΣ (ΑΠΟ ΑΓ.Ι.ΡΩΣΟ ΕΩΣ ΣΤ.ΛΑΡΙΣΗΣ)",
+    "descrEn": "ACHARNAI - PLATONAS (FROM AG.I.ROSO TO ST.LARISIS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "905",
+    "lineId": "728",
+    "descr": "ΑΧΑΡΝΑΙ- ΑΓ.ΠΕΤΡΟΣ- ΑΓ.ΙΩΑΝΝΗΣ-ΠΛΑΤΩΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ACHARNAI - PLATONAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "989",
+    "lineId": "730",
+    "descr": "ΛΟΦΟΣ ΑΞΙΩΜΑΤΙΚΩΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΖΩΟΔ. ΠΗΓΗ",
+    "descrEn": "LOFOS AKSIOMATIKON - ST. AGIOS ANTONIOS - ZOODOCHOS PIGI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1615",
+    "lineId": "730",
+    "descr": "ΛΟΦΟΣ ΑΞΙΩΜΑΤΙΚΩΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΖΩΟΔ. ΠΗΓΗ (ΕΩΣ ΟΜΟΝΟΙΑ)",
+    "descrEn": "LOFOS AKSIOMATIKON - ST. AGIOS ANTONIOS - ZOODOCHOS PIGI (TO OMONOIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "845",
+    "lineId": "731",
+    "descr": "ΑΝΘΟΥΠΟΛΗ - ΣΤ. Μ. ΑΝΘΟΥΠΟΛΗ - ΑΤΤΙΚΟ ΝΟΣ. - ΔΑΣΟΣ",
+    "descrEn": "ANTHOUPOLI - ST. M. ANTHOUPOLI - ATTIKO NOS. - DASOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1546",
+    "lineId": "732",
+    "descr": "ΙΛΙΟΝ - ΑΓ. ΦΑΝΟΥΡΙΟΣ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ILION - AG. FANOYRIOS - AKADHMIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "907",
+    "lineId": "733",
+    "descr": "ΑΧΑΡΝΑΙ - ΑΝΩ ΛΙΟΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ACHARNAI - ANO LIOSIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1560",
+    "lineId": "734",
+    "descr": "ΑΧΑΡΝΑΙ - ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΟΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ACHARNAI - NOS. AG. ANARGYROI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1417",
+    "lineId": "735",
+    "descr": "ΑΧΑΡΝΑΙ - ΖΕΦΥΡΙ - ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ACHARNAI - ZEFYRI - ST. KATO PATISIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1324",
+    "lineId": "740",
+    "descr": "ΟΛΥΜΠ. ΧΩΡΙΟ(ΠΟΛΥΚΛΙΝΙΚΗ) - ΣΚΑ - ΑΧΑΡΝΑΙ - ΑΓ. ΑΝΝΑ (ΜΕΧΡΙ ΟΑΚΑ)",
+    "descrEn": "OLYMP. CHORIO (POLYKLINIKI) - SKA - ACHARNAI (TO OAKA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1325",
+    "lineId": "740",
+    "descr": "ΟΛΥΜΠ. ΧΩΡΙΟ(ΠΟΛΥΚΛΙΝΙΚΗ) - ΣΚΑ - ΑΧΑΡΝΑΙ - ΑΓ. ΑΝΝΑ (ΑΠΟ ΟΑΚΑ)",
+    "descrEn": "OLYMP. CHORIO (POLYKLINIKI) - SKA - ACHARNAI (FROM OAKA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1065",
+    "lineId": "740",
+    "descr": "ΟΛΥΜΠ. ΧΩΡΙΟ(ΠΟΛΥΚΛΙΝΙΚΗ) - ΣΚΑ - ΑΧΑΡΝΑΙ - ΑΓ. ΑΝΝΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "OLYMP. CHORIO (POLYKLINIKI) - SKA - ACHARNAI - AG. ANNA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "990",
+    "lineId": "747",
+    "descr": "ΠΕΤΡΟΥΠΟΛΗ - ΠΑΝΟΡΑΜΑ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PETROYPOLI - PANORAMA - ST. ANTHOYPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1621",
+    "lineId": "747",
+    "descr": "ΠΕΤΡΟΥΠΟΛΗ - ΠΑΝΟΡΑΜΑ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΑΠΟ ΣΤ.ΑΝΘΟΥΠΟΛΗ)",
+    "descrEn": "PETROYPOLI - PANORAMA - ST. ANTHOYPOLI (FROM ST.ANTHOUPOLI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1662",
+    "lineId": "747",
+    "descr": "ΠΕΤΡΟΥΠΟΛΗ - ΠΑΝΟΡΑΜΑ - ΣΤ. ΑΝΘΟΥΠΟΛΗ  (ΔΙΕΛΕΥΣΗ ΑΠΟ ΑΜΑΞΟΣΤΑΣΙΟ ΔΗΜΟΥ ΠΕΤΡΟΥΠΟΛΗΣ)",
+    "descrEn": "PETROYPOLI - PANORAMA - ST. ANTHOYPOLI (VIA AMAXOSTASIO PETROYPOLIS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "835",
+    "lineId": "748",
+    "descr": "ΧΡΥΣΟΥΠΟΛΗ - ΑΝΘΟΥΠΟΛΗ - ΣΤ. ΠΕΡΙΣΤΕΡΙ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "CHRYSOYPOLI - ANTHOYPOLI - ST. PERISTERI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1259",
+    "lineId": "749",
+    "descr": "ΟΙΚΙΣΜΟΣ ΓΕΝΝΗΜΑΤΑ-ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "OIKISMOS GENNIMATA-ST. PROASTIAKOU",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1382",
+    "lineId": "750",
+    "descr": "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ  (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΠΑΡΑΣΚΕΥΗ)",
+    "descrEn": "ATTIKO NOSOKOMEIO - ST. METRO AIGALEO - NIKAIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "886",
+    "lineId": "750",
+    "descr": "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ",
+    "descrEn": "ATTIKO NOSOKOMEIO - ST. METRO AIGALEO - NIKAIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "909",
+    "lineId": "752",
+    "descr": "ΑΧΑΡΝΑΙ - ΑΓ. ΙΩΑΝΝΗΣ - ΑΓ. ΠΕΤΡΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ACHARNAI - AG. IOANNIS - AG. PETROS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1484",
+    "lineId": "752",
+    "descr": "ΑΧΑΡΝΑΙ - ΑΓ. ΙΩΑΝΝΗΣ - ΑΓ. ΠΕΤΡΟΣ (ΑΠΟ ΣΤΑΣΗ ΣΤΡΟΦΗ)",
+    "descrEn": "ACHARNAI - AG. IOANNIS - AG. PETROS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1144",
+    "lineId": "755",
+    "descr": "ΑΧΑΡΝΑΙ-ΚΟΚΚΙΝΟΣ ΜΥΛΟΣ-ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AXARNAI-KOKKINOS MYLOS-ST.KATO PATHSIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1550",
+    "lineId": "755Β",
+    "descr": "ΑΧΑΡΝΑΙ-ΚΟΚΚΙΝΟΣ ΜΥΛΟΣ-ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ ΜΕΣΩ ΧΑΡΑΥΓΗΣ)",
+    "descrEn": "AXARNAI-KOKKINOS MYLOS-ST.KATO PATHSIA (VIA HARAVGI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1723",
+    "lineId": "790",
+    "descr": "ΓΛΥΦΑΔΑ - ΠΕΡΙΣΤΕΡΙ (ΑΝΘΟΥΠΟΛΗ) ΝΥΧΤΕΡΙΝΗ",
+    "descrEn": "GLYFADA - PERISTERI (ANTHOYPOLI) (NIGHT LINE)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1397",
+    "lineId": "800",
+    "descr": "ΝΙΚΑΙΑ - ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "NIKAIA ST.NIKAIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1114",
+    "lineId": "801",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΠΑΛΑΣΚΑ",
+    "descrEn": "PEIRAIAS - PALASKA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1354",
+    "lineId": "803",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΔΑΣΟΣ ΧΑΪΔΑΡΙΟΥ",
+    "descrEn": "PEIRAIAS - DASOS HAIDARIOU",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1476",
+    "lineId": "805",
+    "descr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΝΕΟΚΤΙΣΤΑ (ΑΠΟ ΣΤΑΣΗ ΑΓ.ΣΩΤΗΡΑΣ ΕΩΣ ΝΕΟΚΤΙΣΤΑ)",
+    "descrEn": "ASPROPYRGOS - NEOKTISTA (FROM AG.SOTHRAS TO NEOKTISTA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "995",
+    "lineId": "805",
+    "descr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΝΕΟΚΤΙΣΤΑ",
+    "descrEn": "ASPROPYRGOS - NEOKTISTA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1401",
+    "lineId": "806",
+    "descr": "ΣΧΙΣΤΟ - ΚΑΡΑΒΑΣ  - ΣΤ. ΚΟΡΥΔΑΛΛΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "SXISTO - KARABAS - ST. KORYDALLOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1616",
+    "lineId": "806",
+    "descr": "ΣΧΙΣΤΟ - ΚΑΡΑΒΑΣ  - ΣΤ. ΚΟΡΥΔΑΛΛΟΣ (ΑΠΟ ΠΛ.ΕΛΕΥΘΕΡΙΑΣ ΕΩΣ ΟΜΟΝΟΙΑ )",
+    "descrEn": "SXISTO - KARABAS - ST. KORYDALLOS (FROM PL.ELEYTHERIAS TO OMONOIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "861",
+    "lineId": "807",
+    "descr": "ΑΝΩ ΚΟΡΥΔΑΛΛΟΣ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ANO KORYDALLOS - ST. METRO AIGALEO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1402",
+    "lineId": "809",
+    "descr": "ΣΧΙΣΤO - ΣΤ.ΝΙΚΑΙΑ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "SXISTO - ST.METRO NIKAIA - ST.KORYDALLOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1620",
+    "lineId": "809",
+    "descr": "ΣΧΙΣΤO - ΣΤ.ΝΙΚΑΙΑ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ (ΑΠΟ ΣΤΑΣΗ ΗΠΕΙΡΟΥ ΕΩΣ ΓΟΥΝΑΡΗ)",
+    "descrEn": "SXISTO - ST.METRO NIKAIA - ST.KORYDALLOS (FROM HPEIROY TO GOYNARH)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1650",
+    "lineId": "810",
+    "descr": "ΣΧΙΣΤΟ - ΣΤ. ΚΟΡΥΔΑΛΛΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "SCHISTO - ST. KORYDALLOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1654",
+    "lineId": "810",
+    "descr": "ΣΧΙΣΤΟ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ  (ΕΩΣ ΓΟΥΝΑΡΗ-ΠΕΙΡΑΙΑΣ)",
+    "descrEn": "SCHISTO - ST.KORYDALLOS  (TO GOYNARH-PEIRAIAS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1453",
+    "lineId": "811",
+    "descr": "ΧΑΪΔΑΡΙ - ΣΤ. ΑΓΙΑ ΜΑΡΙΝΑ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΤΕΤΑΡΤΗ)",
+    "descrEn": "CHAIDARI - ST. AGIA MARINA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1627",
+    "lineId": "811",
+    "descr": "ΧΑΪΔΑΡΙ - ΣΤ. ΑΓΙΑ ΜΑΡΙΝΑ (ΕΩΣ ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ)",
+    "descrEn": "CHAIDARI - ST. AGIA MARINA (TO PL. KOYMOYNDOYROY)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "862",
+    "lineId": "811",
+    "descr": "ΧΑΪΔΑΡΙ - ΣΤ. ΑΓΙΑ ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "CHAIDARI - ST. AGIA MARINA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "808",
+    "lineId": "813",
+    "descr": "ΑΒΕΡΩΦ - ΠΡΟΥΣΣΗΣ",
+    "descrEn": "AVEROF - PROYSSIS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1652",
+    "lineId": "814",
+    "descr": "ΣΧΙΣΤΟ ΚΑΡΑΒΑΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "SCHISTO KARAVAS - PEIRAIAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "934",
+    "lineId": "815",
+    "descr": "ΓΟΥΔΗ - ΤΑΥΡΟΣ",
+    "descrEn": "GOYDI - TAYROS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1037",
+    "lineId": "816",
+    "descr": "ΤΑΥΡΟΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+    "descrEn": "TAYROS - AG. DIMITRIOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "812",
+    "lineId": "817",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ",
+    "descrEn": "ELEYSINA - MANDRA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1010",
+    "lineId": "818",
+    "descr": "ΛΙΜ. ΠΕΡΑΜΑΤΟΣ - ΑΝΩ ΠΕΡΑΜΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "LIM. PERAMATOS - ANO PERAMA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1628",
+    "lineId": "818",
+    "descr": "ΛΙΜ. ΠΕΡΑΜΑΤΟΣ - ΑΝΩ ΠΕΡΑΜΑ (ΑΠΟ ΣΤΑΣΗ ΣΧΟΛΕΙΟ)",
+    "descrEn": "LIM. PERAMATOS - ANO PERAMA (FROM SXOLEIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "890",
+    "lineId": "819",
+    "descr": "ΠΕΡΑΜΑ - ΝΕΚΡ. ΣΧΙΣΤΟΥ",
+    "descrEn": "PERAMA - NEKR. SCHISTOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1399",
+    "lineId": "820",
+    "descr": "ΚΕΡΑΤΣΙΝΙ - ΣΤ.ΝΙΚΑΙΑ - ΔΡΑΠΕΤΣΩΝΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "KERATSINI - ST.NIKAIA -  DRAPETSONA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "899",
+    "lineId": "821",
+    "descr": "ΑΓΙΑ ΑΝΑΣΤΑΣΙΑ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AGIA ANASTASIA - ST. AG. ANTONIOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1209",
+    "lineId": "822",
+    "descr": "ΣΤ.ΑΓ.ΑΝΤΩΝΙΟΣ - ΝΕΑ ΖΩΗ (ΑΠΟ ΑΛΣΟΣ ΝΕΑ ΖΩΗ ΕΩΣ ΟΜΟΝΟΙΑ)",
+    "descrEn": "ST.AG.ANTONIOS - NEA ZOI (N.ZOI TO OMONOIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1210",
+    "lineId": "822",
+    "descr": "ΣΤ.ΑΓ.ΑΝΤΩΝΙΟΣ - ΝΕΑ ΖΩΗ (ΑΠΟ ΑΛΣΟΣ ΝΕΑ ΖΩΗ ΕΩΣ ΣΤ. ΑΓ.ΑΝΤΩΝΙΟΣ)",
+    "descrEn": "ST.AG.ANTONIOS - NEA ZOI (N.ZOI TO ST.AG.ANTONIOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1211",
+    "lineId": "822",
+    "descr": "ΣΤ.ΑΓ.ΑΝΤΩΝΙΟΣ - ΝΕΑ ΖΩΗ (ΑΠΟ ΣΤ. ΑΓ.ΑΝΤΩΝΙΟΣ ΕΩΣ ΑΛΣΟΣ ΝΕΑ ΖΩΗ)",
+    "descrEn": "ST.AG.ANTONIOS - NEA ZOI (ST.AG.ANTONIOS TO N.ZOI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1067",
+    "lineId": "822",
+    "descr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΝΕΑ ΖΩΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST.AG.ANTONIOS - NEA ZOI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1066",
+    "lineId": "823",
+    "descr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΑΓ. ΒΑΣΙΛΕΙΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. AG. ANTONIOS - AG. VASILEIOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1629",
+    "lineId": "823",
+    "descr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΑΓ. ΒΑΣΙΛΕΙΟΣ (ΑΠΟ ΑΓ.ΒΑΣΙΛΕΙΟ)",
+    "descrEn": "ST. AG. ANTONIOS - AG. VASILEIOS (FROM AG.VASILEIO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1631",
+    "lineId": "824",
+    "descr": "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Α (ΑΠΟ ΠΛ. ΚΑΡΑΪΣΚΑΚΗ)",
+    "descrEn": "NEAPOLI - AG. ANTONIOS - PEIRAIAS A (FROM PL. KARAISKAKH)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "878",
+    "lineId": "824",
+    "descr": "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)",
+    "descrEn": "NEAPOLI - AG. ANTONIOS - PEIRAIAS A",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "857",
+    "lineId": "825",
+    "descr": "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)",
+    "descrEn": "NEAPOLI - AG. ANTONIOS - PEIRAIAS B",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1406",
+    "lineId": "826",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΜΗΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PEIRAIAS - AG. MINAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1632",
+    "lineId": "826",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΜΗΝΑΣ (ΑΠΟ ΣΤΑΣΗ 1η ΑΓ. ΜΗΝΑ)",
+    "descrEn": "PEIRAIAS - AG. MINAS (FROM 1st AG. MINA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1633",
+    "lineId": "826",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΜΗΝΑΣ (ΕΩΣ ΣΤΑΣΗ 3η ΑΓ. ΜΗΝΑ)",
+    "descrEn": "PEIRAIAS - AG. MINAS (TO 3rd AG. MINA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1715",
+    "lineId": "827",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΣΠΡΑ ΧΩΜΑΤΑ - ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PEIRAIAS - ASPRA CHOMATA - ST. NIKAIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1400",
+    "lineId": "828",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΘΗΒΩΝ - ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PEIRAIAS - THIVON - ST.NIKAIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1661",
+    "lineId": "829",
+    "descr": "ΠΑΔΑ ΑΡΧΑΙΟΣ ΕΛΑΙΩΝΑΣ - ΣΤ.ΑΙΓΑΛΕΩ - ΠΑΔΑ ΑΛΣΟΣ ΑΙΓΑΛΕΩ (ΕΩΣ ΣΤΑΣΗ ΤΕΡΜΑ)",
+    "descrEn": "PADA AR. ELAIONAS - ST. AIGALEO - PADA ALSOS AIGALEO(TO TERMA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1636",
+    "lineId": "829",
+    "descr": "ΠΑΔΑ ΑΡΧΑΙΟΣ ΕΛΑΙΩΝΑΣ - ΣΤ.ΑΙΓΑΛΕΩ - ΠΑΔΑ ΑΛΣΟΣ ΑΙΓΑΛΕΩ (ΑΠΟ ΠΑΔΑ ΑΛΣΟΣ ΑΙΓΑΛΕΩ)",
+    "descrEn": "PADA AR. ELAIONAS - ST. AIGALEO - PADA ALSOS AIGALEO(FROM PADA ALSOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1643",
+    "lineId": "829",
+    "descr": "ΠΑΔΑ ΑΡΧΑΙΟΣ ΕΛΑΙΩΝΑΣ - ΣΤ.ΑΙΓΑΛΕΩ - ΠΑΔΑ ΑΛΣΟΣ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PADA ARCHAIOS ELEONAS -ST. AIGALEO - PADA ALSOS AIGALEO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1648",
+    "lineId": "830",
+    "descr": "ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ. ΚΟΡΥΔΑΛΛΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AG. VARVARA -ST. KORYDALLOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1655",
+    "lineId": "830",
+    "descr": "ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ (ΑΠΟ ΓΟΥΝΑΡΗ-ΠΕΙΡΑΙΑΣ)",
+    "descrEn": "AG.VARVARA - ST.KORYDALLOS (FROM GOYNARH-PEIRAIAS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1656",
+    "lineId": "830",
+    "descr": "ΑΓ.ΒΑΡΒΑΡΑ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ (ΕΩΣ ΓΟΥΝΑΡΗ-ΠΕΙΡΑΙΑΣ)",
+    "descrEn": "AG.VARVARA - ST.KORYDALLOS (TO GOYNARH-PEIRAIAS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1228",
+    "lineId": "831",
+    "descr": "ΠΕΙΡΑΙΑΣ-ΑΙΓΑΛΕΩ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΔΕΥΤΕΡΑ)",
+    "descrEn": "PEIRAIAS - AIGALEO (EVERY MONDAY DURING THE FARMERS MARKET)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "874",
+    "lineId": "831",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΙΓΑΛΕΩ",
+    "descrEn": "PEIRAIAS - AIGALEO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1137",
+    "lineId": "832",
+    "descr": "ΕΥΓΕΝΕΙΑ-ΧΑΡΑΥΓΗ-ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)",
+    "descrEn": "EYGENEIA-CHARAYGI-PEIRAIAS A",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1197",
+    "lineId": "833",
+    "descr": "ΕΥΓΕΝΕΙΑ-ΧΑΡΑΥΓΗ-ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)",
+    "descrEn": "EYGENEIA-CHARAYGI-PEIRAIAS B",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1758",
+    "lineId": "836",
+    "descr": "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΠΑΛΑΣΚΑ",
+    "descrEn": "PL. KOYMOYNDOYROY - PALASKA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1611",
+    "lineId": "837",
+    "descr": "ΑΓΙΑ ΒΑΡΒΑΡΑ - ΣΤ.ΑΓ.ΒΑΡΒΑΡΑ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ (ΕΩΣ ΟΜΟΝΟΙΑ)",
+    "descrEn": "AGIA VARVARA - ST. AG.VARVARA - ST.AG.MARINA (TO OMONOIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1404",
+    "lineId": "837",
+    "descr": "ΑΓΙΑ ΒΑΡΒΑΡΑ - ΣΤ.ΑΓ.ΒΑΡΒΑΡΑ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AGIA VARVARA - ST. AG.VARVARA - ST.AG.MARINA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1716",
+    "lineId": "838",
+    "descr": "ΟΜΟΝΟΙΑ - ΡΕΝΤΗΣ - ΠΑΛ. ΚΟΚΚΙΝΙΑ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "OMONOIA - RENTIS - PAL. KOKKINIA - PEIRAIAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1443",
+    "lineId": "841",
+    "descr": "ΠΕΡΑΜΑ - ΣΤ. ΝΙΚΑΙΑ (ΑΠΟ ΝΕΡΟ ΕΩΣ ΠΕΡΑΜΑ)",
+    "descrEn": "PERAMA - ST. NIKAIA (NERO TO PERAMA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1440",
+    "lineId": "841",
+    "descr": "ΠΕΡΑΜΑ - ΣΤ. ΝΙΚΑΙΑ (ΑΠΟ ΟΜΟΝΟΙΑ ΕΩΣ ΠΕΡΑΜΑ)",
+    "descrEn": "PERAMA - ST. NIKAIA (OMONOIA TO PERAMA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1396",
+    "lineId": "841",
+    "descr": "ΠΕΡΑΜΑ - ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PERAMA - ST. NIKAIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1395",
+    "lineId": "842",
+    "descr": "ΠΕΡΑΜΑ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PERAMA - ST. KORYDALLOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1442",
+    "lineId": "842",
+    "descr": "ΠΕΡΑΜΑ - ΣΤ. ΚΟΡΥΔΑΛΛΟΣ (ΑΠΟ ΟΜΟΝΟΙΑ ΕΩΣ ΠΕΡΑΜΑ)",
+    "descrEn": "PERAMA - ST. KORYDALLOS (OMONOIA TO PERAMA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "969",
+    "lineId": "843",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΠΕΡΑΜΑ",
+    "descrEn": "PEIRAIAS - PERAMA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "872",
+    "lineId": "845",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (ΜΕΣΩ ΘΗΒΩΝ)",
+    "descrEn": "PEIRAIAS - ELEYSINA (VIA THIVON)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1657",
+    "lineId": "846",
+    "descr": "ΝΕΑΠΟΛΗ - ΣΤ.ΝΙΚΑΙΑ (ΕΩΣ ΓΟΥΝΑΡΗ-ΠΕΙΡΑΙΑΣ)",
+    "descrEn": "NEAPOLI -  ST.NIKAIA (TO GOYNARH-PEIRAIAS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1649",
+    "lineId": "846",
+    "descr": "ΝΕΑΠΟΛΗ -  ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "NEAPOLI -  ST. NIKAIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1651",
+    "lineId": "848",
+    "descr": "ΝΕΑΠΟΛΗ - ΧΑΡΑΥΓΗ",
+    "descrEn": "NEAPOLI - CHARAYGI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "875",
+    "lineId": "852",
+    "descr": "ΝΕΑΠΟΛΗ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "NEAPOLI - ST. METRO AIGALEO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "827",
+    "lineId": "855",
+    "descr": "ΨΑΡΙ - ΑΣΠΡΟΠΥΡΓΟΣ - ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ",
+    "descrEn": "PSARI - ASPROPYRGOS - LOFOS KYRILLOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1477",
+    "lineId": "855",
+    "descr": "ΨΑΡΙ - ΑΣΠΡΟΠΥΡΓΟΣ - ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ (ΑΠΟ ΑΣΠΡΟΠΥΡΓΟ ΕΩΣ ΛΟΦΟ ΚΥΡΙΛΛΟΥ)",
+    "descrEn": "PSARI - ASPROPYRGOS - LOFOS KYRILLOY (ASPROPYRGOS TO LOFOS KYRILLOY)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "879",
+    "lineId": "856",
+    "descr": "ΑΙΓΑΛΕΩ - ΥΜΗΤΤΟΣ - ΔΑΦΝΗ",
+    "descrEn": "AIGALEO - YMITTOS - DAFNI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1013",
+    "lineId": "859",
+    "descr": "ΠΕΙΡΑΙΑΣ-ΔΕΞΑΜΕΝΕΣ-ΝΕΟΣ ΜΩΛΟΣ ΔΡΑΠΕΤΣΩΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PEIRAIAS - DEXAMENES - N.MOLOS DRAPETSONAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1014",
+    "lineId": "860",
+    "descr": "Π. ΦΑΛΗΡΟ - ΓΕΝ. ΚΡΑΤΙΚΟ ΝΙΚΑΙΑΣ - ΣΧΙΣΤΟ ΚΕΡΑΤΣΙΝΙΟΥ",
+    "descrEn": "P. FALIRO - GEN. KRATIKO NIKAIAS - SCHISTO KERATSINIOY",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "820",
+    "lineId": "861",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ (ΟΙΚΙΣΜΟΣ ΤΙΤΑΝ)",
+    "descrEn": "ELEYSINA - MANDRA (OIKISMOS TITAN)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1617",
+    "lineId": "861Β",
+    "descr": "ΕΛΕΥΣΙΝΑ – ΜΑΝΔΡΑ - ΒΙΛΙΑ - ΕΡΥΘΡΕΣ",
+    "descrEn": "ELEYSINA - MANDRA - VILIA - ERYTHRES",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "996",
+    "lineId": "862",
+    "descr": "ΠΑΡΑΛΙΑ - ΑΝΩ ΕΛΕΥΣΙΝΑ",
+    "descrEn": "PARALIA - ANO ELEYSINA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "810",
+    "lineId": "863",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΘΡΙΑΣΙΟ ΝΟΣ. - ΜΑΝΔΡΑ",
+    "descrEn": "ELEYSINA - THRIASIO NOS. - MANDRA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "814",
+    "lineId": "864",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΒΙΟΜΗΧΑΝΙΚΗ ΠΕΡΙΟΧΗ ΜΑΓΟΥΛΑΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ELEYSINA - VIOMICHANIKI ZONI MAGOYLAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1270",
+    "lineId": "865",
+    "descr": "ΑΜΑΞΟΣΤΑΣΙΟ ΒΟΤΑΝΙΚΟΥ - ΜΑΝΔΡΑ",
+    "descrEn": "DEPOT VOTANIKOU  - MANDRA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1367",
+    "lineId": "866",
+    "descr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ASPROPYRGOS - ST. AG. MARINA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1497",
+    "lineId": "866",
+    "descr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΣΤ. ΑΓ. ΜΑΡΙΝΑ ΕΩΣ ΑΣΠΡΟΠΥΡΓΟ)",
+    "descrEn": "ASPROPYRGOS - ST. AG. MARINA (FROM AG.MARINA TO ASPROPYRGOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1498",
+    "lineId": "866",
+    "descr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΑΣΠΡΟΠΥΡΓΟ ΕΩΣ ΣΤ. ΑΓ. ΜΑΡΙΝΑ)",
+    "descrEn": "ASPROPYRGOS - ST. AG. MARINA (FROM ASPROPYRGOS TO AG.MARINA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1499",
+    "lineId": "866",
+    "descr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΠΛ.ΚΟΥΜΟΥΝΔΟΥΡΟΥ ΕΩΣ ΑΣΠΡΟΠΥΡΓΟ)",
+    "descrEn": "ASPROPYRGOS - ST. AG. MARINA (FROM PL.KOUMOUNDOUROU TO ASPROPYRGOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1504",
+    "lineId": "866",
+    "descr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΨΑΡΙ ΕΩΣ ΑΣΠΡΟΠΥΡΓΟ)",
+    "descrEn": "ASPROPYRGOS - ST. AG. MARINA (FROM PSARI TO ASPROPYRGOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2012",
+    "lineId": "868",
+    "descr": "ΣΤ. ΑΓ. ΜΑΡΙΝΑ - ΘΡΙΑΣΙΟ - ΜΑΝΔΡΑ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΠΑΡΑΣΚΕΥΗ)",
+    "descrEn": "ST. AG. MARINA - THRIASIO - MANDRA (FRIDAYS DURING THE FARMERS MARKET)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2004",
+    "lineId": "868",
+    "descr": "ΣΤ. ΑΓ. ΜΑΡΙΝΑ - ΘΡΙΑΣΙΟ ΝΟΣΟΚΟΜΕΙΟ - ΜΑΝΔΡΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. AG. MARINA - THRIASIO - MANDRA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2005",
+    "lineId": "868",
+    "descr": "ΣΤ. ΑΓ. ΜΑΡΙΝΑ - ΘΡΙΑΣΙΟ - ΜΑΝΔΡΑ (ΑΠΟ ΔΗΜΑΡΧΕΙΟ ΜΑΝΔΡΑΣ ΕΩΣ ΣΤ. ΑΓ. ΜΑΡΙΝΑ)",
+    "descrEn": "ST. AG .MARINA - THRIASIO - MANDRA (FROM DIMARCHEIO MANDRA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2006",
+    "lineId": "868",
+    "descr": "ΣΤ. ΑΓ. ΜΑΡΙΝΑ - ΘΡΙΑΣΙΟ - ΜΑΝΔΡΑ (ΑΠΟ ΣΤ.ΑΓ.ΜΑΡΙΝΑ ΕΩΣ ΙΟΝΙΚΗ ΜΑΝΔΡΑΣ)",
+    "descrEn": "ST.AG. MARINA - THRIASIO - MANDRA (FROM ST.AG.MARINA TO IONIKI MANDRA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2009",
+    "lineId": "870",
+    "descr": "ΣΤ. ΑΓ. ΜΑΡΙΝΑ - ΜΕΓΑΡΑ",
+    "descrEn": "ST. AG. MARINA - MEGARA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2011",
+    "lineId": "870",
+    "descr": "ΣΤ. ΑΓ. ΜΑΡΙΝΑ - ΜΕΓΑΡΑ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΠΑΡΑΣΚΕΥΗ)",
+    "descrEn": "ST. AG. MARINA - MEGARA (EVERY FRIDAY DURING THE FARMERS MARKET)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "854",
+    "lineId": "871",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (ΜΕΣΩ Λ. ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ)",
+    "descrEn": "PEIRAIAS - ELEYSINA (VIA L. ETHN. ANTISTASEOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1117",
+    "lineId": "871Τ",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΣΧΙΣΤΟ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PEIRAIAS - SCHISTO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1544",
+    "lineId": "871Τ",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΣΧΙΣΤΟ (ΕΩΣ ΕΛΕΥΣΙΝΑ)",
+    "descrEn": "PEIRAIAS - SCHISTO (TO ELEYSINA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1495",
+    "lineId": "876",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΣΤ.ΑΓ.ΜΑΡΙΝΑ ΕΩΣ ΕΛΕΥΣΙΝΑ)",
+    "descrEn": "ELEYSINA - ST. AG. MARINA (FROM ST.AG.MARINA TO ELEYSINA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1479",
+    "lineId": "876",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΠΛ.ΚΟΥΜΟΥΝΔΟΥΡΟΥ ΕΩΣ ΕΛΕΥΣΙΝΑ)",
+    "descrEn": "ELEYSINA - ST. AG.MARINA (FROM PL.KOUMOUNDOUROU TO ELEYSINA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1481",
+    "lineId": "876",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ (ΑΠΟ ΜΑΝΔΡΑ - ΕΛΕΥΣΙΝΑ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ - ΕΛΕΥΣΙΝΑ)",
+    "descrEn": "ELEYSINA - ST.AG.MARINA (FROM MANDRA-ELEYSINA-ST.AG.MARINA-ELEYSINA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1483",
+    "lineId": "876",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ  ΕΛΕΥΣΙΝΑ ΕΩΣ ΣΤ.ΑΓ.ΜΑΡΙΝΑ)",
+    "descrEn": "ELEYSINA - ST. AG. MARINA (FROM  ELEYSINA TO ST.AG.MARINA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "991",
+    "lineId": "876",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ELEYSINA - ST. AG. MARINA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "911",
+    "lineId": "878",
+    "descr": "ΑΧΑΡΝΑΙ - ΕΛΕΥΣΙΝΑ",
+    "descrEn": "ACHARNAI - ELEYSINA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1445",
+    "lineId": "878",
+    "descr": "ΑΧΑΡΝΑΙ - ΕΛΕΥΣΙΝΑ (ΑΠΟ ΜΕΣΟΝΥΧΙ)",
+    "descrEn": "ACHARNAI - ELEYSINA (FROM MESONYCHI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "912",
+    "lineId": "879",
+    "descr": "ΑΧΑΡΝΑΙ - ΘΡΙΑΣΙΟ ΝΟΣΟΚΟΜΕΙΟ - ΕΛΕΥΣΙΝΑ",
+    "descrEn": "ACHARNAI - THRIASIO NOSOKOMEIO - ELEYSINA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "813",
+    "lineId": "881",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΑΣΠΡΟΠΥΡΓΟΣ - ΡΟΥΠΑΚΙ",
+    "descrEn": "ELEYSINA - ASPROPYRGOS - ROYPAKI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1491",
+    "lineId": "881",
+    "descr": "ΕΛΕΥΣΙΝΑ - ΑΣΠΡΟΠΥΡΓΟΣ - ΡΟΥΠΑΚΙ (ΜΕΣΩ ΚΟΙΜΗΤΗΡΙΟΥ)",
+    "descrEn": "ELEYSINA - ASPROPYRGOS - ROYPAKI (VIA KOIMHTHRIOU)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1262",
+    "lineId": "890",
+    "descr": "ΣΤ. ΑΓ. ΜΑΡΙΝΑ - ΝΑΥΠΗΓΕΙΑ ΣΚΑΡΑΜΑΓΚΑ",
+    "descrEn": "ST. AG. MARINA - NAFPIGIA SKARAMAGKA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1183",
+    "lineId": "891",
+    "descr": "ΑΓ. ΒΑΡΒΑΡΑ - ΑΙΓΑΛΕΩ - ΠΕΡΙΣΤΕΡΙ - ΣΤΑΘ. ΑΤΤΙΚΗΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AG. BARBARA - AIGALEO - PERISTERI - STATH. ATTIKIS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "844",
+    "lineId": "892",
+    "descr": "ΑΓ. ΒΑΡΒΑΡΑ - ΧΑΪΔΑΡΙ - ΑΓ. ΑΝΑΡΓΥΡΟΙ-ΙΛΙΟΝ",
+    "descrEn": "AG. VARVARA - CHAIDARI - AG. ANARGYROI-ILION",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1015",
+    "lineId": "904",
+    "descr": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΣΤ. ΠΕΙΡΑΙΑ - ΦΡΕΑΤΤΥΔΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PL. KARAΪSKAKI - ST. PEIRAIA - FREATΤYDA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "882",
+    "lineId": "906",
+    "descr": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΚΑΛΛΙΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "PL. KARAΪSKAKI - KALLIPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1641",
+    "lineId": "909",
+    "descr": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ (ΑΠΟ ΣΤΑΣΗ ΠΑΛ. ΤΕΡΜΑ - ΑΓ. ΣΟΦΙΑ)",
+    "descrEn": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑ (FROM PAL. TERMA - AG. SOFIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1642",
+    "lineId": "909",
+    "descr": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ (ΔΕ-ΠΕ 20:00-23:59  ΠΑ-ΚΥ 18:00-23:59)",
+    "descrEn": "AG. VASILEIOS - AG. SOFIA - KRAT. NIKAIAS (MO-TH 20:00-23:59, FR-SU 18",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1653",
+    "lineId": "909",
+    "descr": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ",
+    "descrEn": "AG. VASILEIOS - AG. SOFIA - KRAT. NIKAIAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1614",
+    "lineId": "910",
+    "descr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΤΖΙΤΖΙΦΙΕΣ (ΕΩΣ ΣΤΑΣΗ ΠΕΙΣΙΣΤΡΑΤΟΥ)",
+    "descrEn": "ST. SYGGROY FIX - TZITZIFIES (ΤΟ PEISISTRATOY)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1612",
+    "lineId": "910",
+    "descr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΤΖΙΤΖΙΦΙΕΣ (ΑΠΟ ΣΤΑΣΗ ΠΕΙΣΙΣΤΡΑΤΟΥ)",
+    "descrEn": "ST. SYGGROY FIX - TZITZIFIES (FROM PEISISTRATOY)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "961",
+    "lineId": "910",
+    "descr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΤΖΙΤΖΙΦΙΕΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. SYGGROY FIX - TZITZIFIES",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1017",
+    "lineId": "911",
+    "descr": "ΣΤΑΘ. ΚΑΛΛΙΘΕΑΣ - ΙΔΡ. ΤΥΦΛΩΝ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "STATH. KALLITHEAS - IDR. TYFLON",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1471",
+    "lineId": "911Α",
+    "descr": "ΣΤΑΘ. ΚΑΛΛΙΘΕΑΣ - ΙΔΡ. ΤΥΦΛΩΝ -Π.Ε ΝΟΤΙΟΥ ΤΟΜΕΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "STATH. KALLITHEAS - IDR. TYFLON -P.E NOTIOY TOMEA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1782",
+    "lineId": "912",
+    "descr": "ΝΕΟ ΦΑΛΗΡΟ - ΚΕΠΑ",
+    "descrEn": "NEO FALIRO - KEPA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1634",
+    "lineId": "914",
+    "descr": "ΟΜΟΝΟΙΑ - ΛΑΧΑΝΑΓΟΡΑ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΕΩΣ ΣΤΑΣΗ ΜΕΤΑΜΟΡΦΩΣΕΩΣ)",
+    "descrEn": "OMONOIA - LACHANAGORA - PAL. KOKKINIA (TO METAMORFOSEOS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "883",
+    "lineId": "914",
+    "descr": "ΟΜΟΝΟΙΑ - ΛΑΧΑΝΑΓΟΡΑ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "OMONOIA - LACHANAGORA - PAL. KOKKINIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1018",
+    "lineId": "915",
+    "descr": "ΛΟΦΟΣ ΒΩΚΟΥ - ΠΡ. ΗΛΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "LOFOS VOKOY - PR. ILIAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1635",
+    "lineId": "915",
+    "descr": "ΛΟΦΟΣ ΒΩΚΟΥ - ΠΡ. ΗΛΙΑΣ (ΕΩΣ ΣΤΑΣΗ ΙΕΡΟΥ ΛΟΧΟΥ)",
+    "descrEn": "LOFOS VOKOY - PR. ILIAS (TO IEROY LOXOY)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1566",
+    "lineId": "Α1",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΒΟΥΛΑ (ΑΠΟ ΕΚΚΛΗΣΙΑ ΒΑΡΗΣ ΕΩΣ ΠΕΙΡΑΙΑ)",
+    "descrEn": "PEIRAIAS - VOYLA (FROM EKKLISIA VARIS TO PEIRAIAS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "962",
+    "lineId": "Α1",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΒΟΥΛΑ",
+    "descrEn": "PEIRAIAS - VOYLA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1020",
+    "lineId": "Α10",
+    "descr": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ",
+    "descrEn": "STATHMOS LARISIS - ACHARNAI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1446",
+    "lineId": "Α10",
+    "descr": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ (ΑΠΟ ΣΤΑΣΗ ΚΑΡΑΒΟΣ)",
+    "descrEn": "STATHMOS LARISIS - ACHARNAI (FROM KARABOS STOP)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1739",
+    "lineId": "Α11",
+    "descr": "ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "descrEn": "PL. VATHI - ILION - PETROYPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "866",
+    "lineId": "Α13",
+    "descr": "ΟΜΟΝΟΙΑ - ΚΗΠΟΥΠΟΛΗ",
+    "descrEn": "OMONOIA - KIPOYPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "840",
+    "lineId": "Α15",
+    "descr": "ΣΤ. ΛΑΡΙΣΗΣ - ΔΑΣΟΣ",
+    "descrEn": "ST. LARISIS - DASOS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1421",
+    "lineId": "Α2",
+    "descr": "ΑΚΑΔΗΜΙΑ - ΒΟΥΛΑ (ΜΕΣΩ Λ. ΑΜΦΙΘΕΑΣ)",
+    "descrEn": "AKADIMIA - VOULA (VIA L. AMFITHEAS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1541",
+    "lineId": "Α2",
+    "descr": "ΑΚΑΔΗΜΙΑ - ΒΟΥΛΑ (ΑΠΟ ΕΚΚΛΗΣΙΑ ΒΑΡΗΣ ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "descrEn": "AKADIMIA - VOULA (FROM EKKLISIA VARIS TO AKADIMIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1542",
+    "lineId": "Α2",
+    "descr": "ΑΚΑΔΗΜΙΑ - ΒΟΥΛΑ (ΑΠΟ ΑΚΑΔΗΜΙΑ ΕΩΣ ΕΚΚΛΗΣΙΑ ΒΑΡΗΣ)",
+    "descrEn": "AKADIMIA - VOULA (FROM AKADIMIA TO EKKLISIA VARIS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1422",
+    "lineId": "Α3",
+    "descr": "ΑΚΑΔΗΜΙΑ - ΓΛΥΦΑΔΑ (ΜΕΣΩ Λ. ΒΟΥΛΙΑΓΜΕΝΗΣ)",
+    "descrEn": "AKADIMIA - GLYFADA (VIA L. VOULIAGMENIS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1058",
+    "lineId": "Α5",
+    "descr": "ΑΚΑΔΗΜΙΑ - ΑΓ. ΠΑΡΑΣΚΕΥΗ - ΑΝΘΟΥΣΑ",
+    "descrEn": "AKADIMIA - AG. PARASKEYI - ANTHOYSA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "965",
+    "lineId": "Α7",
+    "descr": "ΣΤΟΥΡΝΑΡΗ - ΚΗΦΙΣΙΑ (ΠΛΑΤΕΙΑ ΠΛΑΤΑΝΟΥ)",
+    "descrEn": "STOYRNARI - KIFISIA (PLATEIA PLATANOU)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1663",
+    "lineId": "Α7",
+    "descr": "ΣΤΟΥΡΝΑΡΗ - ΚΗΦΙΣΙΑ (ΠΛΑΤΕΙΑ ΠΛΑΤΑΝΟΥ) (ΑΠΟ ΣΤΑΣΗ 1η ΚΡΥΟΝΕΡΙΟΥ)",
+    "descrEn": "STOYRNARI - KIFISIA (PLATEIA PLATANOU) (FROM 1st KRYONERIOY)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1665",
+    "lineId": "Α7",
+    "descr": "ΣΤΟΥΡΝΑΡΗ - ΚΗΦΙΣΙΑ (ΠΛΑΤΕΙΑ ΠΛΑΤΑΝΟΥ) (ΕΩΣ ΣΤΑΣΗ 2η ΚΡΥΟΝΕΡΙΟΥ)",
+    "descrEn": "STOYRNARI - KIFISIA (PLATEIA PLATANOU) (TO 2nd KRYONERIOY)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "833",
+    "lineId": "Α8",
+    "descr": "ΠΟΛΥΤΕΧΝΕΙΟ - Ν. ΙΩΝΙΑ - ΜΑΡΟΥΣΙ",
+    "descrEn": "POLYTEXNEIO - N. IONIA - MAROUSI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1184",
+    "lineId": "Α8",
+    "descr": "ΠΟΛΥΤΕΧΝΕΙΟ - Ν. ΙΩΝΙΑ - ΜΑΡΟΥΣΙ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΑΓΩΝΑ-ΟΑΚΑ)",
+    "descrEn": "POLYTEXNEIO - N. IONIA - MAROUSI (DUE TO ATHLETIC EVENTS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "871",
+    "lineId": "Β1",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΝΩ ΓΛΥΦΑΔΑ",
+    "descrEn": "PEIRAIAS - ANO GLYFADA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1021",
+    "lineId": "Β10",
+    "descr": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ (ΜΕΣΩ ΑΡΙΣΤΟΤΕΛΟΥΣ)",
+    "descrEn": "STATHMOS LARISIS - ACHARNAI (VIA ARISTOTELOYS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1740",
+    "lineId": "Β11",
+    "descr": "ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ",
+    "descrEn": "PL. VATHI - ILION - PETROYPOLI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1448",
+    "lineId": "Β12",
+    "descr": "ΣΤ. ΑΤΤΙΚΗ - ΑΝΩ ΛΙΟΣΙΑ (ΠΑΝΟΡΑΜΑ) (ΑΠΟ ΜΑΡΝΗ ΕΩΣ ΑΝΩ ΛΙΟΣΙΑ)",
+    "descrEn": "ST. ATTIKI -  ANO LIOSIA (PANORAMA) (FROM MARNI TO ANO LIOSIA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1386",
+    "lineId": "Β12",
+    "descr": "ΣΤ. ΑΤΤΙΚΗ - ΑΝΩ ΛΙΟΣΙΑ (ΠΑΝΟΡΑΜΑ)",
+    "descrEn": "ST. ATTIKI -  ANO LIOSIA (PANORAMA)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "903",
+    "lineId": "Β15",
+    "descr": "ΣΤ. ΛΑΡΙΣΗΣ - ΠΑΛΑΤΑΚΙ",
+    "descrEn": "ST. LARISIS - PALATAKI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1450",
+    "lineId": "Β2",
+    "descr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΑΓ.ΚΟΣΜΑΣ (ΜΕΣΩ ΠΑΡΑΛΙΑΚΗΣ) (ΚΥΚΛΙΚΗ)",
+    "descrEn": "ST. SYGGROY FIX - AGIOS KOSMAS (VIA PARALIAKI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1783",
+    "lineId": "Β2",
+    "descr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΑΓ. ΚΟΣΜΑΣ (ΜΕΣΩ ΠΑΡΑΛΙΑΚΗΣ) (5η ΑΛΙΜΟΥ ΕΩΣ ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ)",
+    "descrEn": "ST. SYGGROY FIX - AGIOS KOSMAS (FROM 5h ALIMOU TO ST. SYGGROY FIX)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1784",
+    "lineId": "Β2",
+    "descr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΑΓ. ΚΟΣΜΑΣ (ΜΕΣΩ ΠΑΡΑΛΙΑΚΗΣ) (ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ ΕΩΣ 5η ΑΛΙΜΟΥ)",
+    "descrEn": "SYGGROY FIX - AGIOS KOSMAS (FROM ST. SYGGROY FIX TO 5h ALIMOY)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1024",
+    "lineId": "Β5",
+    "descr": "ΣΤ. ΛΑΡΙΣΗΣ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+    "descrEn": "ST. LARISIS - L. ALEXANDRAS - AG. PARASKEYI",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1023",
+    "lineId": "Β9",
+    "descr": "ΧΑΛΚΟΚΟΝΔΥΛΗ - ΜΕΤΑΜΟΡΦΩΣΗ - Ν. ΚΗΦΙΣΙΑ",
+    "descrEn": "CHALKOKONDYLI - METAMORFOSI - N. KIFISIA",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "832",
+    "lineId": "Γ12",
+    "descr": "ΚΑΜΑΤΕΡΟ - ΑΓ. ΝΙΚΟΛΑΟΣ - ΙΛΙΟΝ - ΠΟΛΥΤΕΧΝΕΙΟ (ΚΥΚΛΙΚΗ)",
+    "descrEn": "KAMATERO - AG. NIKOLAOS - ILION - POLYTECHNEIO",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1383",
+    "lineId": "Ε14",
+    "descr": "ΣΥΝΤΑΓΜΑ - Ο.Α.Κ.Α. - ΥΠ. ΠΑΙΔΕΙΑΣ (EXPRESS)",
+    "descrEn": "SYNTAGMA - O.A.K.A. - YP. PAIDEIAS (EXPRESS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1203",
+    "lineId": "Ε90",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ (ΣΧΟΛΙΚΗ EXPRESS)",
+    "descrEn": "PEIRAIAS - PANEPISTIMIOYPOLI (SCHOLIKI EXPRESS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "993",
+    "lineId": "Χ14",
+    "descr": "ΣΥΝΤΑΓΜΑ - ΚΗΦΙΣΙΑ (EXPRESS-ΝΥΧΤΕΡΙΝΗ)",
+    "descrEn": "SYNTAGMA - KIFISIA (EXPRESS-NIGHTLINE)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "2018",
+    "lineId": "Χ25",
+    "descr": "ΣΤ. ΜΕΤΡΟ ΚΑΤΕΧΑΚΗ - ΣΤ. ΜΕΤΡΟ ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ",
+    "descrEn": "ST. KATEHAKI - ST. DOYK. PLAKENTIAS",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1521",
+    "lineId": "Χ93",
+    "descr": "ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ - ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ (EXPRESS)",
+    "descrEn": "ST. YPER. LEOF. KIFISOU - AEROLIMENAS ATHINON (EXPRESS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1025",
+    "lineId": "Χ95",
+    "descr": "ΣΥΝΤΑΓΜΑ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)",
+    "descrEn": "SYNTAGMA - AEROL. ATHINON (EXPRESS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "892",
+    "lineId": "Χ96",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΕΡ/ΝΑΣ ΑΘΗΝΩΝ (EXPRESS)",
+    "descrEn": "PEIRAIAS - AEROLIMENAS ATHINON (EXPRESS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1153",
+    "lineId": "Χ96",
+    "descr": "ΠΕΙΡΑΙΑΣ - ΑΕΡ/ΝΑΣ ΑΘΗΝΩΝ (EXPRESS)-ΝΥΧΤΕΡΙΝΗ",
+    "descrEn": "PEIRAIAS - AEROLIMENAS ATHINON (EXPRESS) (LATE AND NIGHT HOURS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1547",
+    "lineId": "Χ97",
+    "descr": "ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ - ΣΤ. ΕΛΛΗΝΙΚΟ (EXPRESS) (ΚΥΚΛΙΚΗ)",
+    "descrEn": "AEROL. ATHINON - ST. ELLINIKO (EXPRESS)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1549",
+    "lineId": "Χ97",
+    "descr": "ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ - ΣΤ. ΕΛΛΗΝΙΚΟ (EXPRESS) (ΑΠΟ ΣΤ. ΕΛΛΗΝΙΚΟ)",
+    "descrEn": "AEROL. ATHINON - ST. ELLINIKO (EXPRESS) (FROM ST. ELLINIKO)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1552",
+    "lineId": "Χ97",
+    "descr": "ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ - ΣΤ. ΕΛΛΗΝΙΚΟ (EXPRESS) - ΝΥΧΤΕΡΙΝΗ (ΑΠΟ ΣΤ.ΔΑΦΝΗ)",
+    "descrEn": "AEROL. ATHINON - ST. ELLINIKO (EXPRESS) (NIGHTLINE - FROM ST. DAFNI)",
+    "city": "athens",
+    "type": "bus"
+  },
+  {
+    "lineCode": "1553",
+    "lineId": "Χ97",
+    "descr": "ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ - ΣΤ. ΕΛΛΗΝΙΚΟ (EXPRESS) ΝΥΧΤΕΡΙΝΗ (ΕΩΣ ΣΤ. ΔΑΦΝΗ)",
+    "descrEn": "AEROL. ATHINON - ST. ELLINIKO (EXPRESS) (NIGHTLINE - TO DAFNI)",
+    "city": "athens",
+    "type": "bus"
+  }
+]

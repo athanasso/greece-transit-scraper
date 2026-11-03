@@ -1,0 +1,171 @@
+{
+  "version": "2026.11.1",
+  "updatedAt": "2026-11-03T14:00:00.000Z",
+  "timetables": [
+    {
+      "id": "line1",
+      "code": "M1",
+      "name": "Line 1 (Green) - ISAP",
+      "nameEl": "Γραμμή 1 (Πράσινη) - ΗΣΑΠ",
+      "routeDescr": "Piraeus ↔ Kifisia",
+      "routeDescrEl": "Πειραιάς ↔ Κηφισιά",
+      "color": "#008751",
+      "type": "metro",
+      "city": "athens",
+      "operatingHours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:30"
+      },
+      "frequencies": {
+        "peak": "6 min (07:00-10:00, 14:00-17:30)",
+        "daytime": "7.5 min (10:00-14:00, 17:30-20:30)",
+        "night": "10.5 - 15 min (20:30-00:30)",
+        "weekend": "10.5 - 12.5 min"
+      },
+      "notes": "First train 05:00 from Piraeus & Kifisia. Last full trip 00:30.",
+      "notesEl": "Πρώτο δρομολόγιο 05:00 από Πειραιά και Κηφισιά. Τελευταίο πλήρες 00:30."
+    },
+    {
+      "id": "line2",
+      "code": "M2",
+      "name": "Line 2 (Red)",
+      "nameEl": "Γραμμή 2 (Κόκκινη)",
+      "routeDescr": "Anthoupoli ↔ Elliniko",
+      "routeDescrEl": "Ανθούπολη ↔ Ελληνικό",
+      "color": "#DA291C",
+      "type": "metro",
+      "city": "athens",
+      "operatingHours": {
+        "firstTrain": "05:30",
+        "lastTrain": "00:05 (00:20 Syntagma)",
+        "lastTrainWeekend": "01:30 (02:00 Syntagma, Fri/Sat)"
+      },
+      "frequencies": {
+        "peak": "4 - 4.5 min (07:00-10:00, 13:30-17:30)",
+        "daytime": "5 min (10:00-13:30, 17:30-20:30)",
+        "night": "9 - 11 min (20:30-00:30)",
+        "weekend": "7 - 10 min (Fri/Sat night extension: 15 min)"
+      },
+      "notes": "Night service extension on Friday & Saturday until 02:00.",
+      "notesEl": "Νυχτερινή παράταση λειτουργίας Παρασκευή & Σάββατο έως τις 02:00."
+    },
+    {
+      "id": "line3",
+      "code": "M3",
+      "name": "Line 3 (Blue)",
+      "nameEl": "Γραμμή 3 (Μπλε)",
+      "routeDescr": "Dimotiko Theatro ↔ D. Plakentias / Airport",
+      "routeDescrEl": "Δημοτικό Θέατρο ↔ Δ. Πλακεντίας / Αεροδρόμιο",
+      "color": "#0072CE",
+      "type": "metro",
+      "city": "athens",
+      "operatingHours": {
+        "firstTrain": "05:30 (Airport: 06:10)",
+        "lastTrain": "00:05 (00:20 Syntagma)",
+        "lastTrainWeekend": "01:30 (02:00 Syntagma, Fri/Sat)"
+      },
+      "frequencies": {
+        "peak": "4 - 4.5 min (07:00-10:00, 13:30-17:30)",
+        "daytime": "5 min (10:00-13:30, 17:30-20:30)",
+        "night": "9 - 11 min (20:30-00:30)",
+        "weekend": "7 - 10 min (Fri/Sat night extension: 15 min)",
+        "airport": "Every 36 min (05:30 - 23:30)"
+      },
+      "notes": "Direct Airport trains every 36 minutes. Fri/Sat night extension to 02:00.",
+      "notesEl": "Απευθείας συρμοί για Αεροδρόμιο ανά 36 λεπτά. Παρασκευή/Σάββατο λειτουργία έως τις 02:00."
+    },
+    {
+      "id": "t6",
+      "code": "T6",
+      "name": "Tram T6 (Green)",
+      "nameEl": "Τραμ T6 (Πράσινη γραμμή)",
+      "routeDescr": "Syntagma ↔ Pikrodafni",
+      "routeDescrEl": "Σύνταγμα ↔ Πικροδάφνη",
+      "color": "#E87722",
+      "type": "tram",
+      "city": "athens",
+      "operatingHours": {
+        "firstTrain": "05:30",
+        "lastTrain": "01:00 (Fri/Sat until ~02:30)"
+      },
+      "frequencies": {
+        "peak": "12 min",
+        "daytime": "12 - 15 min",
+        "night": "15 min",
+        "weekend": "15 min"
+      },
+      "notes": "Interchange with Line 2 & Line 3 at Syntagma.",
+      "notesEl": "Μετεπιβίβαση με Μετρό Γραμμές 2 & 3 στο Σύνταγμα."
+    },
+    {
+      "id": "t7",
+      "code": "T7",
+      "name": "Tram T7 (Blue)",
+      "nameEl": "Τραμ T7 (Μπλε γραμμή)",
+      "routeDescr": "Agia Triada Piraeus ↔ Asklepieio Voulas",
+      "routeDescrEl": "Αγία Τριάδα Πειραιά ↔ Ασκληπιείο Βούλας",
+      "color": "#00A3E0",
+      "type": "tram",
+      "city": "athens",
+      "operatingHours": {
+        "firstTrain": "05:30",
+        "lastTrain": "01:00"
+      },
+      "frequencies": {
+        "peak": "12 min",
+        "daytime": "12 - 15 min",
+        "night": "15 min",
+        "weekend": "15 min"
+      },
+      "notes": "Coastal route connecting Piraeus to Voula.",
+      "notesEl": "Παραλιακή διαδρομή που συνδέει Πειραιά με Βούλα."
+    },
+    {
+      "id": "thessMetro",
+      "code": "M1",
+      "name": "Thessaloniki Metro Line 1",
+      "nameEl": "Μετρό Θεσσαλονίκης Γραμμή 1",
+      "routeDescr": "New Railway Station ↔ Nea Elvetia",
+      "routeDescrEl": "Νέος Σιδηροδρομικός Σταθμός ↔ Νέα Ελβετία",
+      "color": "#0072CE",
+      "type": "metro",
+      "city": "thessaloniki",
+      "operatingHours": {
+        "firstTrain": "05:30",
+        "lastTrain": "00:30"
+      },
+      "frequencies": {
+        "peak": "3.5 - 5 min",
+        "daytime": "5 - 7 min",
+        "night": "10 min",
+        "weekend": "6 - 8 min"
+      },
+      "notes": "Automated driverless metro system.",
+      "notesEl": "Υπερσύγχρονο αυτόματο σύστημα χωρίς οδηγό."
+    },
+    {
+      "id": "line4",
+      "code": "M4",
+      "name": "Line 4 (Orange) - Under Construction",
+      "nameEl": "Γραμμή 4 (Πορτοκαλί) - Υπό Κατασκευή",
+      "routeDescr": "Alsos Veikou ↔ Goudi (15 stations)",
+      "routeDescrEl": "Άλσος Βεΐκου ↔ Γουδή (15 σταθμοί)",
+      "color": "#F68B1F",
+      "type": "metro",
+      "city": "athens",
+      "status": "construction",
+      "operatingHours": {
+        "firstTrain": "TBD",
+        "lastTrain": "TBD"
+      },
+      "frequencies": {
+        "peak": "Automatic driverless operation (expected ~90 sec headway)",
+        "daytime": "Expected ~2-3 min",
+        "night": "TBD",
+        "weekend": "TBD"
+      },
+      "notes": "Currently under construction by AVAX - Ghella - Alstom consortium. 12.8 km driverless metro with 15 underground stations.",
+      "notesEl": "Υπό κατασκευή από την κοινοπραξία AVAX - Ghella - Alstom. Γραμμή 12,8 χλμ χωρίς οδηγό με 15 υπόγειους σταθμούς."
+    }
+  ]
+}
