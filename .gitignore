@@ -12,3 +12,4 @@ venv/
 *.min.json.gz
 tag.txt
 release_notes.md
+
