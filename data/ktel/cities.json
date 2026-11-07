@@ -1,0 +1,2597 @@
+[
+  {
+    "id": "achilleio",
+    "nameEl": "Αχίλλειο",
+    "nameEn": "Achilleio",
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "afissos",
+    "nameEl": "Άφησσος",
+    "nameEn": "Afissos",
+    "homeOperatorId": "magnisias",
+    "lat": 39.27224,
+    "lon": 23.16465,
+    "coordsVerified": true
+  },
+  {
+    "id": "afytos",
+    "nameEl": "Άφυτος",
+    "nameEn": "Afytos",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "14"
+    }
+  },
+  {
+    "id": "agia_paraskevi_chalkidikis",
+    "nameEl": "Αγία Παρασκευή",
+    "nameEn": "Agia Paraskevi",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "9"
+    }
+  },
+  {
+    "id": "agia_triada_pilio",
+    "nameEl": "Αγία Τριάδα Πηλίου",
+    "nameEn": "Agia Triada (Pelion)",
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "agios_ioannis_chalkidikis",
+    "nameEl": "Άγιος Ιωάννης",
+    "nameEn": "Agios Ioannis",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "3"
+    }
+  },
+  {
+    "id": "agios_ioannis_pilio",
+    "nameEl": "Άγιος Ιωάννης Πηλίου",
+    "nameEn": "Agios Ioannis (Pelion)",
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "agios_lavrentios",
+    "nameEl": "Άγιος Λαυρέντιος",
+    "nameEn": "Agios Lavrentios",
+    "homeOperatorId": "magnisias",
+    "lat": 39.36162,
+    "lon": 23.05949,
+    "coordsVerified": true
+  },
+  {
+    "id": "agios_mamas",
+    "nameEl": "Άγιος Μάμας",
+    "nameEn": "Agios Mamas",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "4"
+    }
+  },
+  {
+    "id": "agios_nikolaos",
+    "nameEl": "Άγιος Νικόλαος",
+    "nameEn": "Agios Nikolaos",
+    "lat": 35.1905,
+    "lon": 25.7164,
+    "coordsVerified": true,
+    "homeOperatorId": "irakleiou_lasithiou",
+    "major": true
+  },
+  {
+    "id": "agios_nikolaos_chalkidikis",
+    "nameEl": "Άγιος Νικόλαος Χαλκιδικής",
+    "nameEn": "Agios Nikolaos (Chalkidiki)",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "6"
+    }
+  },
+  {
+    "id": "agios_panteleimon",
+    "nameEl": "Άγιος Παντελεήμων",
+    "nameEn": "Agios Panteleimon",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "8"
+    }
+  },
+  {
+    "id": "agios_pavlos",
+    "nameEl": "Άγιος Παύλος",
+    "nameEn": "Agios Pavlos",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "10"
+    }
+  },
+  {
+    "id": "agios_prodromos",
+    "nameEl": "Άγιος Πρόδρομος",
+    "nameEn": "Agios Prodromos",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "11"
+    }
+  },
+  {
+    "id": "agios_vlasios",
+    "nameEl": "Άγιος Βλάσιος",
+    "nameEn": "Agios Vlasios",
+    "homeOperatorId": "magnisias",
+    "lat": 39.34157,
+    "lon": 23.06711,
+    "coordsVerified": true,
+    "major": false
+  },
+  {
+    "id": "agrinio",
+    "nameEl": "Αγρίνιο",
+    "nameEn": "Agrinio",
+    "lat": 38.60876,
+    "lon": 21.41325,
+    "homeOperatorId": "aitoloakarnanias",
+    "major": true
+  },
+  {
+    "id": "aidipsos",
+    "nameEl": "Αιδηψός",
+    "nameEn": "Aidipsos",
+    "lat": 38.85866,
+    "lon": 23.05018,
+    "homeOperatorId": "evias",
+    "major": true
+  },
+  {
+    "id": "aigio",
+    "nameEl": "Αίγιο",
+    "nameEn": "Aigio",
+    "lat": 38.2354,
+    "lon": 22.07905,
+    "homeOperatorId": "achaias",
+    "major": true
+  },
+  {
+    "id": "akrata",
+    "nameEl": "Ακράτα",
+    "nameEn": "Akrata",
+    "lat": 38.1575,
+    "lon": 22.3136,
+    "coordsVerified": true,
+    "homeOperatorId": "achaias",
+    "major": true
+  },
+  {
+    "id": "alexandria",
+    "nameEl": "Αλεξάνδρεια",
+    "nameEn": "Alexandria",
+    "lat": 40.6083,
+    "lon": 22.45468,
+    "homeOperatorId": "imathias",
+    "major": true
+  },
+  {
+    "id": "alexandroupoli",
+    "nameEl": "Αλεξανδρούπολη",
+    "nameEn": "Alexandroupoli",
+    "lat": 40.84615,
+    "lon": 25.87525,
+    "homeOperatorId": "evrou",
+    "major": true
+  },
+  {
+    "id": "aliveri",
+    "nameEl": "Αλιβέρι",
+    "nameEn": "Aliveri",
+    "lat": 38.40714,
+    "lon": 24.04081,
+    "homeOperatorId": "evias"
+  },
+  {
+    "id": "almyros",
+    "nameEl": "Αλμυρός",
+    "nameEn": "Almyros",
+    "lat": 39.1928,
+    "lon": 22.76871,
+    "homeOperatorId": "magnisias",
+    "major": true
+  },
+  {
+    "id": "amaliapoli",
+    "nameEl": "Αμαλιάπολη",
+    "nameEn": "Amaliapoli",
+    "homeOperatorId": "magnisias",
+    "lat": 39.16731,
+    "lon": 22.88901,
+    "coordsVerified": true
+  },
+  {
+    "id": "amfilochia",
+    "nameEl": "Αμφιλοχία",
+    "nameEn": "Amfilochia",
+    "lat": 38.8635,
+    "lon": 21.18371,
+    "homeOperatorId": "aitoloakarnanias",
+    "major": true
+  },
+  {
+    "id": "amfissa",
+    "nameEl": "Άμφισσα",
+    "nameEn": "Amfissa",
+    "lat": 38.52261,
+    "lon": 22.386,
+    "homeOperatorId": "fokidas",
+    "major": true
+  },
+  {
+    "id": "amyntaio",
+    "nameEl": "Αμύνταιο",
+    "nameEn": "Amyntaio",
+    "lat": 40.68978,
+    "lon": 21.68081,
+    "homeOperatorId": "florinas",
+    "major": true
+  },
+  {
+    "id": "ano_gatzea",
+    "nameEl": "Άνω Γατζέα",
+    "nameEn": "Ano Gatzea",
+    "homeOperatorId": "magnisias",
+    "lat": 39.31933,
+    "lon": 23.09403,
+    "coordsVerified": true
+  },
+  {
+    "id": "antirrio",
+    "nameEl": "Αντίρριο",
+    "nameEn": "Antirrio",
+    "lat": 38.3326,
+    "lon": 21.7614,
+    "coordsVerified": true,
+    "homeOperatorId": "aitoloakarnanias",
+    "major": true
+  },
+  {
+    "id": "arachova",
+    "nameEl": "Αράχωβα",
+    "nameEn": "Arachova",
+    "lat": 38.48,
+    "lon": 22.584,
+    "coordsVerified": true,
+    "homeOperatorId": "livadeias"
+  },
+  {
+    "id": "argalasti",
+    "nameEl": "Αργαλαστή",
+    "nameEn": "Argalasti",
+    "homeOperatorId": "magnisias",
+    "lat": 39.22599,
+    "lon": 23.21945,
+    "coordsVerified": true
+  },
+  {
+    "id": "argos",
+    "nameEl": "Άργος",
+    "nameEn": "Argos",
+    "lat": 37.6312,
+    "lon": 22.7281,
+    "homeOperatorId": "argolidas",
+    "major": true
+  },
+  {
+    "id": "argos_orestiko",
+    "nameEl": "Άργος Ορεστικό",
+    "nameEn": "Argos Orestiko",
+    "lat": 40.4519,
+    "lon": 21.2553,
+    "homeOperatorId": "kastorias"
+  },
+  {
+    "id": "argostoli",
+    "nameEl": "Αργοστόλι",
+    "nameEn": "Argostoli",
+    "lat": 38.1759,
+    "lon": 20.4889,
+    "homeOperatorId": "kefallonias",
+    "major": true
+  },
+  {
+    "id": "aridaia",
+    "nameEl": "Αριδαία",
+    "nameEn": "Aridaia",
+    "lat": 40.97468,
+    "lon": 22.06569,
+    "homeOperatorId": "pellas",
+    "major": true
+  },
+  {
+    "id": "armenistis",
+    "nameEl": "Αρμενιστής",
+    "nameEn": "Armenistis",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "15"
+    }
+  },
+  {
+    "id": "arnaia",
+    "nameEl": "Αρναία",
+    "nameEn": "Arnaia",
+    "lat": 40.4936,
+    "lon": 23.5933,
+    "threepi": {
+      "chalkidikis": "16"
+    },
+    "homeOperatorId": "chalkidikis"
+  },
+  {
+    "id": "arta",
+    "nameEl": "Άρτα",
+    "nameEn": "Arta",
+    "lat": 39.15951,
+    "lon": 20.99561,
+    "homeOperatorId": "artas",
+    "major": true
+  },
+  {
+    "id": "astros",
+    "nameEl": "Άστρος",
+    "nameEn": "Astros",
+    "lat": 37.40681,
+    "lon": 22.72421,
+    "homeOperatorId": "arkadias",
+    "major": true
+  },
+  {
+    "id": "atalanti",
+    "nameEl": "Αταλάντη",
+    "nameEn": "Atalanti",
+    "lat": 38.65336,
+    "lon": 23.00011,
+    "coordsVerified": true,
+    "homeOperatorId": "livadeias",
+    "major": true
+  },
+  {
+    "id": "athens",
+    "nameEl": "Αθήνα",
+    "nameEn": "Athens",
+    "lat": 37.99864,
+    "lon": 23.69889,
+    "homeOperatorId": "attikis",
+    "major": true
+  },
+  {
+    "id": "chalkida",
+    "nameEl": "Χαλκίδα",
+    "nameEn": "Chalkida",
+    "lat": 38.45752,
+    "lon": 23.61183,
+    "homeOperatorId": "evias",
+    "major": true
+  },
+  {
+    "id": "chania",
+    "nameEl": "Χανιά",
+    "nameEn": "Chania",
+    "lat": 35.51213,
+    "lon": 24.01685,
+    "homeOperatorId": "chanion_rethymnou",
+    "major": true
+  },
+  {
+    "id": "chloi",
+    "nameEl": "Χλόη",
+    "nameEn": "Chloi",
+    "homeOperatorId": "magnisias",
+    "lat": 39.40204,
+    "lon": 22.73096,
+    "coordsVerified": true
+  },
+  {
+    "id": "chrysoupoli",
+    "nameEl": "Χρυσούπολη",
+    "nameEn": "Chrysoupoli",
+    "lat": 40.9881,
+    "lon": 24.7022,
+    "coordsVerified": true,
+    "homeOperatorId": "kavalas"
+  },
+  {
+    "id": "corfu",
+    "nameEl": "Κέρκυρα",
+    "nameEn": "Corfu",
+    "lat": 39.61574,
+    "lon": 19.91195,
+    "homeOperatorId": "kerkyras",
+    "major": true
+  },
+  {
+    "id": "corinth",
+    "nameEl": "Κόρινθος",
+    "nameEn": "Corinth",
+    "lat": 37.93854,
+    "lon": 22.92738,
+    "coordsVerified": true,
+    "homeOperatorId": "korinthias",
+    "major": true
+  },
+  {
+    "id": "delphi",
+    "nameEl": "Δελφοί",
+    "nameEn": "Delphi",
+    "lat": 38.47812,
+    "lon": 22.49653,
+    "homeOperatorId": "fokidas",
+    "major": true
+  },
+  {
+    "id": "derveni",
+    "nameEl": "Δερβένι",
+    "nameEn": "Derveni",
+    "lat": 38.1333,
+    "lon": 22.4167,
+    "coordsVerified": true,
+    "homeOperatorId": "korinthias",
+    "major": true
+  },
+  {
+    "id": "diakopto",
+    "nameEl": "Διακοπτό",
+    "nameEn": "Diakopto",
+    "lat": 38.18451,
+    "lon": 22.19592,
+    "homeOperatorId": "achaias",
+    "major": true
+  },
+  {
+    "id": "didymoteicho",
+    "nameEl": "Διδυμότειχο",
+    "nameEn": "Didymoteicho",
+    "lat": 41.35208,
+    "lon": 26.495,
+    "homeOperatorId": "evrou",
+    "major": true
+  },
+  {
+    "id": "dimitsana",
+    "nameEl": "Δημητσάνα",
+    "nameEn": "Dimitsana",
+    "lat": 37.5961,
+    "lon": 22.0417,
+    "coordsVerified": true,
+    "homeOperatorId": "arkadias"
+  },
+  {
+    "id": "dionysiou",
+    "nameEl": "Διονυσίου",
+    "nameEn": "Dionysiou",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "35"
+    }
+  },
+  {
+    "id": "domokos",
+    "nameEl": "Δομοκός",
+    "nameEn": "Domokos",
+    "lat": 39.1277,
+    "lon": 22.30903,
+    "homeOperatorId": "fthiotidos",
+    "major": true
+  },
+  {
+    "id": "drakeia",
+    "nameEl": "Δράκεια",
+    "nameEn": "Drakeia",
+    "homeOperatorId": "magnisias",
+    "lat": 39.37552,
+    "lon": 23.04808,
+    "coordsVerified": true
+  },
+  {
+    "id": "drama",
+    "nameEl": "Δράμα",
+    "nameEn": "Drama",
+    "lat": 41.1444,
+    "lon": 24.14767,
+    "homeOperatorId": "dramas",
+    "major": true
+  },
+  {
+    "id": "drymonas",
+    "nameEl": "Δρυμώνας",
+    "nameEn": "Drymonas",
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "edessa",
+    "nameEl": "Έδεσσα",
+    "nameEn": "Edessa",
+    "lat": 40.79901,
+    "lon": 22.05038,
+    "homeOperatorId": "pellas",
+    "major": true
+  },
+  {
+    "id": "elafonisi",
+    "nameEl": "Ελαφονήσι",
+    "nameEn": "Elafonisi",
+    "lat": 35.2719,
+    "lon": 23.54,
+    "homeOperatorId": "chanion_rethymnou"
+  },
+  {
+    "id": "elaiochoria",
+    "nameEl": "Ελαιοχώρια",
+    "nameEn": "Elaiochoria",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "47"
+    }
+  },
+  {
+    "id": "elassona",
+    "nameEl": "Ελασσόνα",
+    "nameEn": "Elassona",
+    "lat": 39.8939,
+    "lon": 22.1889,
+    "homeOperatorId": "larisas",
+    "major": true
+  },
+  {
+    "id": "elati",
+    "nameEl": "Ελάτη",
+    "nameEn": "Elati",
+    "lat": 39.50093,
+    "lon": 21.53908,
+    "homeOperatorId": "trikalon"
+  },
+  {
+    "id": "eleftherochori_magnisias",
+    "nameEl": "Ελευθεροχώρι",
+    "nameEn": "Eleftherochori",
+    "homeOperatorId": "magnisias",
+    "major": false
+  },
+  {
+    "id": "eleftheroupoli",
+    "nameEl": "Ελευθερούπολη",
+    "nameEn": "Eleftheroupoli",
+    "lat": 40.9136,
+    "lon": 24.2575,
+    "homeOperatorId": "kavalas"
+  },
+  {
+    "id": "elia_chalkidikis",
+    "nameEl": "Ελιά",
+    "nameEn": "Elia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "49"
+    }
+  },
+  {
+    "id": "epidavros",
+    "nameEl": "Επίδαυρος",
+    "nameEn": "Epidavros",
+    "lat": 37.59649,
+    "lon": 23.07534,
+    "homeOperatorId": "argolidas"
+  },
+  {
+    "id": "eretria",
+    "nameEl": "Ερέτρια",
+    "nameEn": "Eretria",
+    "lat": 38.39302,
+    "lon": 23.79241,
+    "homeOperatorId": "evias"
+  },
+  {
+    "id": "farsala",
+    "nameEl": "Φάρσαλα",
+    "nameEn": "Farsala",
+    "lat": 39.2953,
+    "lon": 22.3869,
+    "homeOperatorId": "larisas",
+    "coordsVerified": true,
+    "major": true
+  },
+  {
+    "id": "feres",
+    "nameEl": "Φέρες",
+    "nameEn": "Feres",
+    "lat": 40.88804,
+    "lon": 26.17322,
+    "homeOperatorId": "evrou",
+    "major": true
+  },
+  {
+    "id": "florina",
+    "nameEl": "Φλώρινα",
+    "nameEn": "Florina",
+    "lat": 40.7811,
+    "lon": 21.4097,
+    "homeOperatorId": "florinas",
+    "major": true
+  },
+  {
+    "id": "fourka",
+    "nameEl": "Φούρκα",
+    "nameEn": "Fourka",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "160"
+    }
+  },
+  {
+    "id": "galarinos",
+    "nameEl": "Γαλάρινος",
+    "nameEn": "Galarinos",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "24"
+    }
+  },
+  {
+    "id": "galatas",
+    "nameEl": "Γαλατάς",
+    "nameEn": "Galatas",
+    "lat": 37.49647,
+    "lon": 23.44814,
+    "coordsVerified": true,
+    "homeOperatorId": "aiginas"
+  },
+  {
+    "id": "galatista",
+    "nameEl": "Γαλάτιστα",
+    "nameEn": "Galatista",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "25"
+    }
+  },
+  {
+    "id": "galaxidi",
+    "nameEl": "Γαλαξείδι",
+    "nameEn": "Galaxidi",
+    "lat": 38.37504,
+    "lon": 22.38026,
+    "homeOperatorId": "fokidas",
+    "major": true
+  },
+  {
+    "id": "gerakini",
+    "nameEl": "Γερακινή",
+    "nameEn": "Gerakini",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "26"
+    }
+  },
+  {
+    "id": "geroplatanos",
+    "nameEl": "Γεροπλάτανος",
+    "nameEn": "Geroplatanos",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "27"
+    }
+  },
+  {
+    "id": "giannitsa",
+    "nameEl": "Γιαννιτσά",
+    "nameEn": "Giannitsa",
+    "lat": 40.78363,
+    "lon": 22.4111,
+    "homeOperatorId": "pellas",
+    "major": true
+  },
+  {
+    "id": "glyfa",
+    "nameEl": "Γλύφα",
+    "nameEn": "Glyfa",
+    "homeOperatorId": "magnisias",
+    "lat": 38.95311,
+    "lon": 22.9666,
+    "coordsVerified": true,
+    "major": true
+  },
+  {
+    "id": "gomati",
+    "nameEl": "Γομάτι",
+    "nameEn": "Gomati",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "33"
+    }
+  },
+  {
+    "id": "goumenissa",
+    "nameEl": "Γουμένισσα",
+    "nameEn": "Goumenissa",
+    "lat": 40.946,
+    "lon": 22.452,
+    "homeOperatorId": "kilkis",
+    "major": true
+  },
+  {
+    "id": "grevena",
+    "nameEl": "Γρεβενά",
+    "nameEn": "Grevena",
+    "lat": 40.0856,
+    "lon": 21.4418,
+    "homeOperatorId": "grevenon",
+    "major": true
+  },
+  {
+    "id": "gythio",
+    "nameEl": "Γύθειο",
+    "nameEn": "Gythio",
+    "lat": 36.76049,
+    "lon": 22.56058,
+    "homeOperatorId": "lakonias",
+    "major": true
+  },
+  {
+    "id": "hania_pilio",
+    "nameEl": "Χάνια",
+    "nameEn": "Hania (Pelion)",
+    "lat": 39.4072,
+    "lon": 23.0498,
+    "coordsVerified": true,
+    "homeOperatorId": "magnisias",
+    "major": false
+  },
+  {
+    "id": "hanioti",
+    "nameEl": "Χανιώτη",
+    "nameEn": "Hanioti",
+    "lat": 40.0011,
+    "lon": 23.57519,
+    "threepi": {
+      "chalkidikis": "163"
+    },
+    "coordsVerified": true,
+    "homeOperatorId": "chalkidikis"
+  },
+  {
+    "id": "heraklia",
+    "nameEl": "Ηράκλεια",
+    "nameEn": "Heraklia",
+    "homeOperatorId": "serron",
+    "lat": 41.1846,
+    "lon": 23.2811,
+    "coordsVerified": true
+  },
+  {
+    "id": "heraklion",
+    "nameEl": "Ηράκλειο",
+    "nameEn": "Heraklion",
+    "lat": 35.3393,
+    "lon": 25.14106,
+    "homeOperatorId": "irakleiou_lasithiou",
+    "major": true
+  },
+  {
+    "id": "hersonissos",
+    "nameEl": "Χερσόνησος",
+    "nameEn": "Hersonissos",
+    "lat": 35.3147,
+    "lon": 25.3856,
+    "homeOperatorId": "irakleiou_lasithiou",
+    "major": true
+  },
+  {
+    "id": "ierapetra",
+    "nameEl": "Ιεράπετρα",
+    "nameEn": "Ierapetra",
+    "lat": 35.01482,
+    "lon": 25.74376,
+    "homeOperatorId": "irakleiou_lasithiou",
+    "major": true
+  },
+  {
+    "id": "ierissos",
+    "nameEl": "Ιερισσός",
+    "nameEn": "Ierissos",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "54"
+    }
+  },
+  {
+    "id": "igoumenitsa",
+    "nameEl": "Ηγουμενίτσα",
+    "nameEn": "Igoumenitsa",
+    "lat": 39.495,
+    "lon": 20.26274,
+    "homeOperatorId": "thesprotias",
+    "major": true
+  },
+  {
+    "id": "ioannina",
+    "nameEl": "Ιωάννινα",
+    "nameEn": "Ioannina",
+    "lat": 39.6746,
+    "lon": 20.84684,
+    "homeOperatorId": "ioanninon",
+    "major": true
+  },
+  {
+    "id": "istiaia",
+    "nameEl": "Ιστιαία",
+    "nameEn": "Istiaia",
+    "lat": 38.95645,
+    "lon": 23.15155,
+    "homeOperatorId": "evias"
+  },
+  {
+    "id": "itea",
+    "nameEl": "Ιτέα",
+    "nameEn": "Itea",
+    "lat": 38.4355,
+    "lon": 22.42295,
+    "homeOperatorId": "fokidas",
+    "major": true
+  },
+  {
+    "id": "kala_nera",
+    "nameEl": "Καλά Νερά",
+    "nameEn": "Kala Nera",
+    "homeOperatorId": "magnisias",
+    "lat": 39.3053,
+    "lon": 23.12067,
+    "coordsVerified": true,
+    "major": false
+  },
+  {
+    "id": "kalamata",
+    "nameEl": "Καλαμάτα",
+    "nameEn": "Kalamata",
+    "lat": 37.04731,
+    "lon": 22.11418,
+    "homeOperatorId": "messinias",
+    "major": true
+  },
+  {
+    "id": "kalambaka",
+    "nameEl": "Καλαμπάκα",
+    "nameEn": "Kalambaka",
+    "lat": 39.70501,
+    "lon": 21.62303,
+    "homeOperatorId": "trikalon",
+    "major": true
+  },
+  {
+    "id": "kalamitsi",
+    "nameEl": "Καλαμίτσι",
+    "nameEn": "Kalamitsi",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "57"
+    }
+  },
+  {
+    "id": "kalandra",
+    "nameEl": "Καλάνδρα",
+    "nameEn": "Kalandra",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "58"
+    }
+  },
+  {
+    "id": "kalavryta",
+    "nameEl": "Καλάβρυτα",
+    "nameEn": "Kalavryta",
+    "lat": 38.0317,
+    "lon": 22.1108,
+    "homeOperatorId": "achaias"
+  },
+  {
+    "id": "kallithea",
+    "nameEl": "Καλλιθέα",
+    "nameEn": "Kallithea",
+    "lat": 39.9446,
+    "lon": 23.4108,
+    "coordsVerified": true,
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "61"
+    }
+  },
+  {
+    "id": "kalyves_chalkidikis",
+    "nameEl": "Καλύβες",
+    "nameEn": "Kalyves",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "63"
+    }
+  },
+  {
+    "id": "kanalia",
+    "nameEl": "Κανάλια",
+    "nameEn": "Kanalia",
+    "homeOperatorId": "magnisias",
+    "lat": 39.49846,
+    "lon": 22.88621,
+    "coordsVerified": true
+  },
+  {
+    "id": "karditsa",
+    "nameEl": "Καρδίτσα",
+    "nameEn": "Karditsa",
+    "lat": 39.36393,
+    "lon": 21.9368,
+    "homeOperatorId": "karditsas",
+    "major": true
+  },
+  {
+    "id": "karpenisi",
+    "nameEl": "Καρπενήσι",
+    "nameEn": "Karpenisi",
+    "lat": 38.91187,
+    "lon": 21.80212,
+    "homeOperatorId": "evritanias",
+    "major": true
+  },
+  {
+    "id": "karystos",
+    "nameEl": "Κάρυστος",
+    "nameEn": "Karystos",
+    "lat": 38.02679,
+    "lon": 24.42187,
+    "homeOperatorId": "evias"
+  },
+  {
+    "id": "kassandreia",
+    "nameEl": "Κασσάνδρεια",
+    "nameEn": "Kassandreia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "66"
+    }
+  },
+  {
+    "id": "kassandrino",
+    "nameEl": "Κασσανδρινό",
+    "nameEn": "Kassandrino",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "67"
+    }
+  },
+  {
+    "id": "kastoria",
+    "nameEl": "Καστοριά",
+    "nameEn": "Kastoria",
+    "lat": 40.52155,
+    "lon": 21.26035,
+    "homeOperatorId": "kastorias",
+    "major": true
+  },
+  {
+    "id": "katerini",
+    "nameEl": "Κατερίνη",
+    "nameEn": "Katerini",
+    "lat": 40.26343,
+    "lon": 22.53185,
+    "homeOperatorId": "pierias",
+    "major": true
+  },
+  {
+    "id": "katigiorgis",
+    "nameEl": "Κατηγιώργης",
+    "nameEn": "Katigiorgis",
+    "homeOperatorId": "magnisias",
+    "lat": 39.17287,
+    "lon": 23.34256,
+    "coordsVerified": true
+  },
+  {
+    "id": "kato_achaia",
+    "nameEl": "Κάτω Αχαΐα",
+    "nameEn": "Kato Achaia",
+    "lat": 38.13739,
+    "lon": 21.55137,
+    "homeOperatorId": "achaias",
+    "major": true
+  },
+  {
+    "id": "kavala",
+    "nameEl": "Καβάλα",
+    "nameEn": "Kavala",
+    "lat": 40.93575,
+    "lon": 24.40828,
+    "homeOperatorId": "kavalas",
+    "major": true
+  },
+  {
+    "id": "keramidi",
+    "nameEl": "Κεραμίδι",
+    "nameEn": "Keramidi",
+    "homeOperatorId": "magnisias",
+    "lat": 39.57324,
+    "lon": 22.91115,
+    "coordsVerified": true
+  },
+  {
+    "id": "keramoti",
+    "nameEl": "Κεραμωτή",
+    "nameEn": "Keramoti",
+    "lat": 40.8567,
+    "lon": 24.7036,
+    "coordsVerified": true,
+    "homeOperatorId": "kavalas"
+  },
+  {
+    "id": "kiato",
+    "nameEl": "Κιάτο",
+    "nameEn": "Kiato",
+    "lat": 37.99113,
+    "lon": 22.74147,
+    "homeOperatorId": "korinthias",
+    "major": true
+  },
+  {
+    "id": "kilkis",
+    "nameEl": "Κιλκίς",
+    "nameEn": "Kilkis",
+    "lat": 40.99284,
+    "lon": 22.87309,
+    "homeOperatorId": "kilkis",
+    "major": true
+  },
+  {
+    "id": "kissamos",
+    "nameEl": "Κίσσαμος",
+    "nameEn": "Kissamos",
+    "lat": 35.4942,
+    "lon": 23.6556,
+    "homeOperatorId": "chanion_rethymnou",
+    "major": true
+  },
+  {
+    "id": "kokkina",
+    "nameEl": "Κόκκινα",
+    "nameEn": "Kokkina",
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "komotini",
+    "nameEl": "Κομοτηνή",
+    "nameEn": "Komotini",
+    "lat": 41.11425,
+    "lon": 25.40275,
+    "homeOperatorId": "rodopis",
+    "major": true
+  },
+  {
+    "id": "konitsa",
+    "nameEl": "Κόνιτσα",
+    "nameEn": "Konitsa",
+    "lat": 40.0481,
+    "lon": 20.7503,
+    "homeOperatorId": "ioanninon"
+  },
+  {
+    "id": "koropi_pilio",
+    "nameEl": "Κορώπη Πηλίου",
+    "nameEn": "Koropi (Pelion)",
+    "homeOperatorId": "magnisias",
+    "major": false
+  },
+  {
+    "id": "kozani",
+    "nameEl": "Κοζάνη",
+    "nameEn": "Kozani",
+    "lat": 40.30048,
+    "lon": 21.79789,
+    "homeOperatorId": "kozanis",
+    "major": true
+  },
+  {
+    "id": "kranidi",
+    "nameEl": "Κρανίδι",
+    "nameEn": "Kranidi",
+    "lat": 37.37805,
+    "lon": 23.16073,
+    "homeOperatorId": "argolidas"
+  },
+  {
+    "id": "kria_vrisi",
+    "nameEl": "Κρύα Βρύση",
+    "nameEn": "Kria Vrisi",
+    "lat": 40.68609,
+    "lon": 22.29287,
+    "homeOperatorId": "pellas",
+    "major": true
+  },
+  {
+    "id": "krimni",
+    "nameEl": "Κρημνή",
+    "nameEn": "Krimni",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "69"
+    }
+  },
+  {
+    "id": "krini_chalkidikis",
+    "nameEl": "Κρήνη",
+    "nameEn": "Krini",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "91"
+    }
+  },
+  {
+    "id": "kryopigi",
+    "nameEl": "Κρυοπηγή",
+    "nameEn": "Kryopigi",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "71"
+    }
+  },
+  {
+    "id": "kymi",
+    "nameEl": "Κύμη",
+    "nameEn": "Kymi",
+    "lat": 38.63446,
+    "lon": 24.10274,
+    "homeOperatorId": "evias"
+  },
+  {
+    "id": "kyparissia",
+    "nameEl": "Κυπαρισσία",
+    "nameEn": "Kyparissia",
+    "lat": 37.25151,
+    "lon": 21.66953,
+    "homeOperatorId": "messinias",
+    "major": true
+  },
+  {
+    "id": "lagomandra",
+    "nameEl": "Λαγομάνδρα",
+    "nameEn": "Lagomandra",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "73"
+    }
+  },
+  {
+    "id": "lakkoma",
+    "nameEl": "Λάκκωμα",
+    "nameEn": "Lakkoma",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "74"
+    }
+  },
+  {
+    "id": "lamia",
+    "nameEl": "Λαμία",
+    "nameEn": "Lamia",
+    "lat": 38.88763,
+    "lon": 22.44601,
+    "homeOperatorId": "fthiotidos",
+    "major": true
+  },
+  {
+    "id": "larisa",
+    "nameEl": "Λάρισα",
+    "nameEn": "Larisa",
+    "lat": 39.63831,
+    "lon": 22.41607,
+    "coordsVerified": true,
+    "homeOperatorId": "larisas",
+    "major": true
+  },
+  {
+    "id": "lefkada",
+    "nameEl": "Λευκάδα",
+    "nameEn": "Lefkada",
+    "lat": 38.8261,
+    "lon": 20.7118,
+    "homeOperatorId": "lefkadas",
+    "major": true
+  },
+  {
+    "id": "lefkimmi",
+    "nameEl": "Λευκίμμη",
+    "nameEn": "Lefkimmi",
+    "lat": 39.4267,
+    "lon": 20.0739,
+    "homeOperatorId": "kerkyras"
+  },
+  {
+    "id": "leonidio",
+    "nameEl": "Λεωνίδιο",
+    "nameEn": "Leonidio",
+    "lat": 37.16584,
+    "lon": 22.85975,
+    "homeOperatorId": "arkadias",
+    "major": true
+  },
+  {
+    "id": "leptokarya",
+    "nameEl": "Λεπτοκαρυά",
+    "nameEn": "Leptokarya",
+    "lat": 40.05918,
+    "lon": 22.56386,
+    "coordsVerified": true,
+    "homeOperatorId": "pierias",
+    "major": true
+  },
+  {
+    "id": "lidoriki",
+    "nameEl": "Λιδωρίκι",
+    "nameEn": "Lidoriki",
+    "lat": 38.52784,
+    "lon": 22.20486,
+    "homeOperatorId": "fokidas"
+  },
+  {
+    "id": "litochoro",
+    "nameEl": "Λιτόχωρο",
+    "nameEn": "Litochoro",
+    "lat": 40.10245,
+    "lon": 22.50182,
+    "coordsVerified": true,
+    "homeOperatorId": "pierias",
+    "major": true
+  },
+  {
+    "id": "livadeia",
+    "nameEl": "Λιβαδειά",
+    "nameEn": "Livadeia",
+    "lat": 38.44308,
+    "lon": 22.87888,
+    "homeOperatorId": "livadeias",
+    "major": true
+  },
+  {
+    "id": "loutra_agiou_nikolaou",
+    "nameEl": "Λουτρά Αγίου Νικολάου",
+    "nameEn": "Loutra Agiou Nikolaou",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "76"
+    }
+  },
+  {
+    "id": "loutraki",
+    "nameEl": "Λουτράκι",
+    "nameEn": "Loutraki",
+    "lat": 37.9751,
+    "lon": 22.977,
+    "coordsVerified": true,
+    "homeOperatorId": "korinthias",
+    "major": true
+  },
+  {
+    "id": "makrinitsa",
+    "nameEl": "Μακρινίτσα",
+    "nameEn": "Makrinitsa",
+    "lat": 39.4083,
+    "lon": 23.005,
+    "major": false,
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "makryrrachi",
+    "nameEl": "Μακρυρράχη",
+    "nameEn": "Makryrrachi",
+    "homeOperatorId": "magnisias",
+    "lat": 39.42529,
+    "lon": 23.12448,
+    "coordsVerified": true
+  },
+  {
+    "id": "malia",
+    "nameEl": "Μάλια",
+    "nameEn": "Malia",
+    "lat": 35.2897,
+    "lon": 25.4592,
+    "homeOperatorId": "irakleiou_lasithiou",
+    "major": true
+  },
+  {
+    "id": "marathousa",
+    "nameEl": "Μαραθούσα",
+    "nameEn": "Marathousa",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "80"
+    }
+  },
+  {
+    "id": "matala",
+    "nameEl": "Μάταλα",
+    "nameEn": "Matala",
+    "lat": 34.9956,
+    "lon": 24.7497,
+    "homeOperatorId": "irakleiou_lasithiou"
+  },
+  {
+    "id": "megali_panagia",
+    "nameEl": "Μεγάλη Παναγία",
+    "nameEn": "Megali Panagia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "79"
+    }
+  },
+  {
+    "id": "megalo_monastiri",
+    "nameEl": "Μεγάλο Μοναστήρι",
+    "nameEn": "Megalo Monastiri",
+    "homeOperatorId": "magnisias",
+    "lat": 39.43879,
+    "lon": 22.67808,
+    "coordsVerified": true
+  },
+  {
+    "id": "megalo_perivolaki",
+    "nameEl": "Μεγάλο Περιβολάκι",
+    "nameEn": "Megalo Perivolaki",
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "megalopoli",
+    "nameEl": "Μεγαλόπολη",
+    "nameEn": "Megalopoli",
+    "lat": 37.40235,
+    "lon": 22.13128,
+    "homeOperatorId": "arkadias"
+  },
+  {
+    "id": "megara",
+    "nameEl": "Μέγαρα",
+    "nameEn": "Megara",
+    "lat": 37.98522,
+    "lon": 23.35129,
+    "homeOperatorId": "salaminas",
+    "major": true
+  },
+  {
+    "id": "messolonghi",
+    "nameEl": "Μεσολόγγι",
+    "nameEn": "Messolonghi",
+    "lat": 38.37426,
+    "lon": 21.43371,
+    "homeOperatorId": "aitoloakarnanias",
+    "major": true
+  },
+  {
+    "id": "metamorfosi_chalkidikis",
+    "nameEl": "Μεταμόρφωση",
+    "nameEn": "Metamorfosi",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "83"
+    }
+  },
+  {
+    "id": "metangitsi",
+    "nameEl": "Μεταγγίτσι",
+    "nameEn": "Metangitsi",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "82"
+    }
+  },
+  {
+    "id": "metsovo",
+    "nameEl": "Μέτσοβο",
+    "nameEn": "Metsovo",
+    "lat": 39.75986,
+    "lon": 21.17009,
+    "homeOperatorId": "ioanninon",
+    "major": true
+  },
+  {
+    "id": "mikines",
+    "nameEl": "Μυκήνες",
+    "nameEn": "Mycenae",
+    "lat": 37.73076,
+    "lon": 22.75449,
+    "homeOperatorId": "argolidas"
+  },
+  {
+    "id": "milies",
+    "nameEl": "Μηλιές",
+    "nameEn": "Milies",
+    "lat": 39.3297,
+    "lon": 23.1507,
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "milina",
+    "nameEl": "Μηλίνα",
+    "nameEn": "Milina",
+    "homeOperatorId": "magnisias",
+    "lat": 39.17126,
+    "lon": 23.22044,
+    "coordsVerified": true
+  },
+  {
+    "id": "moires",
+    "nameEl": "Μοίρες",
+    "nameEn": "Moires",
+    "lat": 35.0556,
+    "lon": 24.8728,
+    "homeOperatorId": "irakleiou_lasithiou"
+  },
+  {
+    "id": "monemvasia",
+    "nameEl": "Μονεμβασιά",
+    "nameEn": "Monemvasia",
+    "lat": 36.6867,
+    "lon": 23.03915,
+    "homeOperatorId": "lakonias"
+  },
+  {
+    "id": "nafpaktos",
+    "nameEl": "Ναύπακτος",
+    "nameEn": "Nafpaktos",
+    "lat": 38.3925,
+    "lon": 21.8275,
+    "coordsVerified": true,
+    "homeOperatorId": "aitoloakarnanias",
+    "major": true
+  },
+  {
+    "id": "nafplio",
+    "nameEl": "Ναύπλιο",
+    "nameEn": "Nafplio",
+    "lat": 37.56592,
+    "lon": 22.80688,
+    "coordsVerified": true,
+    "homeOperatorId": "argolidas",
+    "major": true
+  },
+  {
+    "id": "naoussa",
+    "nameEl": "Νάουσα",
+    "nameEn": "Naoussa",
+    "lat": 40.6336,
+    "lon": 22.07129,
+    "homeOperatorId": "imathias",
+    "major": true
+  },
+  {
+    "id": "nea_agchialos",
+    "nameEl": "Νέα Αγχίαλος",
+    "nameEn": "Nea Agchialos",
+    "lat": 39.27607,
+    "lon": 22.81884,
+    "homeOperatorId": "magnisias",
+    "major": true
+  },
+  {
+    "id": "nea_flogita",
+    "nameEl": "Νέα Φλογητά",
+    "nameEn": "Nea Flogita",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "106"
+    }
+  },
+  {
+    "id": "nea_fokaia",
+    "nameEl": "Νέα Φώκαια",
+    "nameEn": "Nea Fokaia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "108"
+    }
+  },
+  {
+    "id": "nea_gonia",
+    "nameEl": "Νέα Γωνιά",
+    "nameEn": "Nea Gonia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "88"
+    }
+  },
+  {
+    "id": "nea_irakleia",
+    "nameEl": "Νέα Ηράκλεια",
+    "nameEn": "Nea Irakleia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "89"
+    }
+  },
+  {
+    "id": "nea_kallikrateia",
+    "nameEl": "Νέα Καλλικράτεια",
+    "nameEn": "Nea Kallikrateia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "90"
+    }
+  },
+  {
+    "id": "nea_moudania",
+    "nameEl": "Νέα Μουδανιά",
+    "nameEn": "Nea Moudania",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "94"
+    }
+  },
+  {
+    "id": "nea_peramos",
+    "nameEl": "Νέα Πέραμος",
+    "nameEn": "Nea Peramos",
+    "lat": 40.8394,
+    "lon": 24.3031,
+    "coordsVerified": true,
+    "homeOperatorId": "kavalas"
+  },
+  {
+    "id": "nea_plagia",
+    "nameEl": "Νέα Πλάγια",
+    "nameEn": "Nea Plagia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "96"
+    }
+  },
+  {
+    "id": "nea_potidaia",
+    "nameEl": "Νέα Ποτίδαια",
+    "nameEn": "Nea Potidaia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "97"
+    }
+  },
+  {
+    "id": "nea_roda",
+    "nameEl": "Νέα Ρόδα",
+    "nameEn": "Nea Roda",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "99"
+    }
+  },
+  {
+    "id": "nea_skioni",
+    "nameEl": "Νέα Σκιώνη",
+    "nameEn": "Nea Skioni",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "101"
+    }
+  },
+  {
+    "id": "nea_tenedos",
+    "nameEl": "Νέα Τένεδος",
+    "nameEn": "Nea Tenedos",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "103"
+    }
+  },
+  {
+    "id": "nea_triglia",
+    "nameEl": "Νέα Τρίγλια",
+    "nameEn": "Nea Triglia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "104"
+    }
+  },
+  {
+    "id": "nea_zichni",
+    "nameEl": "Νέα Ζίχνη",
+    "nameEn": "Nea Zichni",
+    "lat": 41.02271,
+    "lon": 23.83525,
+    "homeOperatorId": "serron",
+    "major": true
+  },
+  {
+    "id": "nemea",
+    "nameEl": "Νεμέα",
+    "nameEn": "Nemea",
+    "lat": 37.81819,
+    "lon": 22.66339,
+    "homeOperatorId": "korinthias",
+    "major": true
+  },
+  {
+    "id": "neochoraki_chalkidikis",
+    "nameEl": "Νεοχωράκι",
+    "nameEn": "Neochoraki",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "109"
+    }
+  },
+  {
+    "id": "neochori_chalkidikis",
+    "nameEl": "Νεοχώρι",
+    "nameEn": "Neochori",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "110"
+    }
+  },
+  {
+    "id": "neochori_pilio",
+    "nameEl": "Νεοχώρι Πηλίου",
+    "nameEn": "Neochori (Pelion)",
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "neos_marmaras",
+    "nameEl": "Νέος Μαρμαράς",
+    "nameEn": "Neos Marmaras",
+    "lat": 40.0967,
+    "lon": 23.7806,
+    "threepi": {
+      "chalkidikis": "93"
+    },
+    "homeOperatorId": "chalkidikis"
+  },
+  {
+    "id": "nestorio",
+    "nameEl": "Νεστόριο",
+    "nameEn": "Nestorio",
+    "lat": 40.41674,
+    "lon": 21.05726,
+    "homeOperatorId": "kastorias"
+  },
+  {
+    "id": "nevrokopi",
+    "nameEl": "Κάτω Νευροκόπι",
+    "nameEn": "Kato Nevrokopi",
+    "lat": 41.3461,
+    "lon": 23.8569,
+    "homeOperatorId": "dramas"
+  },
+  {
+    "id": "nigrita",
+    "nameEl": "Νιγρίτα",
+    "nameEn": "Nigrita",
+    "lat": 40.9067,
+    "lon": 23.4953,
+    "homeOperatorId": "serron"
+  },
+  {
+    "id": "nikiti",
+    "nameEl": "Νικήτη",
+    "nameEn": "Nikiti",
+    "lat": 40.2156,
+    "lon": 23.6647,
+    "threepi": {
+      "chalkidikis": "111"
+    },
+    "homeOperatorId": "chalkidikis"
+  },
+  {
+    "id": "ntoumpia",
+    "nameEl": "Ντούμπια",
+    "nameEn": "Ntoumpia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "37"
+    }
+  },
+  {
+    "id": "nydri",
+    "nameEl": "Νυδρί",
+    "nameEn": "Nydri",
+    "lat": 38.71232,
+    "lon": 20.71453,
+    "homeOperatorId": "lefkadas"
+  },
+  {
+    "id": "olympia",
+    "nameEl": "Αρχαία Ολυμπία",
+    "nameEn": "Ancient Olympia",
+    "lat": 37.6383,
+    "lon": 21.63,
+    "coordsVerified": true,
+    "homeOperatorId": "ileias"
+  },
+  {
+    "id": "olynthos",
+    "nameEl": "Όλυνθος",
+    "nameEn": "Olynthos",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "114"
+    }
+  },
+  {
+    "id": "omalos",
+    "nameEl": "Ομαλός",
+    "nameEn": "Omalos",
+    "lat": 35.3361,
+    "lon": 23.9028,
+    "homeOperatorId": "chanion_rethymnou"
+  },
+  {
+    "id": "orestiada",
+    "nameEl": "Ορεστιάδα",
+    "nameEn": "Orestiada",
+    "lat": 41.50458,
+    "lon": 26.53048,
+    "homeOperatorId": "evrou",
+    "major": true
+  },
+  {
+    "id": "ormos_panagias",
+    "nameEl": "Όρμος Παναγίας",
+    "nameEn": "Ormos Panagias",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "115"
+    }
+  },
+  {
+    "id": "ormylia",
+    "nameEl": "Ορμύλια",
+    "nameEn": "Ormylia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "116"
+    }
+  },
+  {
+    "id": "ouranoupoli",
+    "nameEl": "Ουρανούπολη",
+    "nameEn": "Ouranoupoli",
+    "lat": 40.3286,
+    "lon": 23.9806,
+    "threepi": {
+      "chalkidikis": "117"
+    },
+    "homeOperatorId": "chalkidikis"
+  },
+  {
+    "id": "palaiochora_chalkidikis",
+    "nameEl": "Παλαιοχώρα",
+    "nameEn": "Palaiochora",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "119"
+    }
+  },
+  {
+    "id": "palaiochori_chalkidikis",
+    "nameEl": "Παλαιοχώρι",
+    "nameEn": "Palaiochori",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "120"
+    }
+  },
+  {
+    "id": "palaiokastro_chalkidikis",
+    "nameEl": "Παλαιόκαστρο",
+    "nameEn": "Palaiokastro",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "118"
+    }
+  },
+  {
+    "id": "paleochora",
+    "nameEl": "Παλαιόχωρα",
+    "nameEn": "Paleochora",
+    "lat": 35.2278,
+    "lon": 23.6814,
+    "homeOperatorId": "chanion_rethymnou"
+  },
+  {
+    "id": "paliouri",
+    "nameEl": "Παλιούρι",
+    "nameEn": "Paliouri",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "121"
+    }
+  },
+  {
+    "id": "paralia",
+    "nameEl": "Παραλία",
+    "nameEn": "Paralia",
+    "lat": 40.27,
+    "lon": 22.596,
+    "coordsVerified": true,
+    "homeOperatorId": "pierias"
+  },
+  {
+    "id": "paralia_dionysiou",
+    "nameEl": "Παραλία Διονυσίου",
+    "nameEn": "Paralia Dionysiou",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "124"
+    }
+  },
+  {
+    "id": "paralia_fourkas",
+    "nameEl": "Παραλία Φούρκας",
+    "nameEn": "Paralia Fourkas",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "126"
+    }
+  },
+  {
+    "id": "paralia_triglias",
+    "nameEl": "Παραλία Τρίγλιας",
+    "nameEn": "Paralia Triglias",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "125"
+    }
+  },
+  {
+    "id": "paranesti",
+    "nameEl": "Παρανέστι",
+    "nameEn": "Paranesti",
+    "lat": 41.26597,
+    "lon": 24.50171,
+    "homeOperatorId": "dramas"
+  },
+  {
+    "id": "parga",
+    "nameEl": "Πάργα",
+    "nameEn": "Parga",
+    "lat": 39.28493,
+    "lon": 20.42822,
+    "homeOperatorId": "thesprotias",
+    "major": true
+  },
+  {
+    "id": "patra",
+    "nameEl": "Πάτρα",
+    "nameEn": "Patra",
+    "lat": 38.25126,
+    "lon": 21.73677,
+    "homeOperatorId": "achaias",
+    "major": true
+  },
+  {
+    "id": "pefkochori",
+    "nameEl": "Πευκοχώρι",
+    "nameEn": "Pefkochori",
+    "lat": 39.9958,
+    "lon": 23.63,
+    "threepi": {
+      "chalkidikis": "129"
+    },
+    "homeOperatorId": "chalkidikis"
+  },
+  {
+    "id": "perivlepto",
+    "nameEl": "Περίβλεπτο",
+    "nameEn": "Perivlepto",
+    "homeOperatorId": "magnisias",
+    "lat": 39.30885,
+    "lon": 22.68819,
+    "coordsVerified": true
+  },
+  {
+    "id": "pertouli",
+    "nameEl": "Περτούλι",
+    "nameEn": "Pertouli",
+    "lat": 39.5547,
+    "lon": 21.4708,
+    "homeOperatorId": "trikalon"
+  },
+  {
+    "id": "petralona",
+    "nameEl": "Πετράλωνα",
+    "nameEn": "Petralona",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "127"
+    }
+  },
+  {
+    "id": "philippi",
+    "nameEl": "Φίλιπποι",
+    "nameEn": "Philippi",
+    "lat": 41.02545,
+    "lon": 24.3415,
+    "homeOperatorId": "kavalas"
+  },
+  {
+    "id": "photolivos",
+    "nameEl": "Φωτολίβος",
+    "nameEn": "Photolivos",
+    "lat": 41.06115,
+    "lon": 24.04522,
+    "coordsVerified": true,
+    "homeOperatorId": "dramas"
+  },
+  {
+    "id": "pinakates",
+    "nameEl": "Πινακάτες",
+    "nameEn": "Pinakates",
+    "homeOperatorId": "magnisias",
+    "lat": 39.33641,
+    "lon": 23.1174,
+    "coordsVerified": true
+  },
+  {
+    "id": "plakes",
+    "nameEl": "Πλάκες",
+    "nameEn": "Plakes",
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "plana",
+    "nameEl": "Πλανά",
+    "nameEn": "Plana",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "130"
+    }
+  },
+  {
+    "id": "platamonas",
+    "nameEl": "Πλαταμώνας",
+    "nameEn": "Platamonas",
+    "lat": 39.97873,
+    "lon": 22.62849,
+    "homeOperatorId": "pierias",
+    "major": true
+  },
+  {
+    "id": "platanias_pilio",
+    "nameEl": "Πλατανιάς",
+    "nameEn": "Platanias",
+    "homeOperatorId": "magnisias",
+    "lat": 39.14102,
+    "lon": 23.27441,
+    "coordsVerified": true
+  },
+  {
+    "id": "platanitsi",
+    "nameEl": "Πλατανίτσι",
+    "nameEn": "Platanitsi",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "175"
+    }
+  },
+  {
+    "id": "polychrono",
+    "nameEl": "Πολύχρονο",
+    "nameEn": "Polychrono",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "132"
+    }
+  },
+  {
+    "id": "polygyros",
+    "nameEl": "Πολύγυρος",
+    "nameEn": "Polygyros",
+    "lat": 40.3789,
+    "lon": 23.4439,
+    "threepi": {
+      "chalkidikis": "131"
+    },
+    "homeOperatorId": "chalkidikis",
+    "major": true
+  },
+  {
+    "id": "polykastro",
+    "nameEl": "Πολύκαστρο",
+    "nameEn": "Polykastro",
+    "lat": 40.99121,
+    "lon": 22.59782,
+    "homeOperatorId": "kilkis"
+  },
+  {
+    "id": "portaria",
+    "nameEl": "Πορταριά",
+    "nameEn": "Portaria",
+    "lat": 39.3897,
+    "lon": 22.9947,
+    "major": false,
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "portaria_chalkidikis",
+    "nameEl": "Πορταριά Χαλκιδικής",
+    "nameEn": "Portaria (Chalkidiki)",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "133"
+    }
+  },
+  {
+    "id": "porto_koufo",
+    "nameEl": "Πόρτο Κουφό",
+    "nameEn": "Porto Koufo",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "134"
+    }
+  },
+  {
+    "id": "posidi",
+    "nameEl": "Ποσείδι",
+    "nameEn": "Posidi",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "135"
+    }
+  },
+  {
+    "id": "preveza",
+    "nameEl": "Πρέβεζα",
+    "nameEn": "Preveza",
+    "lat": 38.97093,
+    "lon": 20.74761,
+    "homeOperatorId": "prevezas",
+    "major": true
+  },
+  {
+    "id": "promyri",
+    "nameEl": "Προμύρι",
+    "nameEn": "Promyri",
+    "homeOperatorId": "magnisias",
+    "lat": 39.19031,
+    "lon": 23.28643,
+    "coordsVerified": true
+  },
+  {
+    "id": "prosotsani",
+    "nameEl": "Προσοτσάνη",
+    "nameEn": "Prosotsani",
+    "lat": 41.1817,
+    "lon": 23.9636,
+    "homeOperatorId": "dramas"
+  },
+  {
+    "id": "psakoudia",
+    "nameEl": "Ψακούδια",
+    "nameEn": "Psakoudia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "164"
+    }
+  },
+  {
+    "id": "pteleos",
+    "nameEl": "Πτελεός",
+    "nameEn": "Pteleos",
+    "homeOperatorId": "magnisias",
+    "lat": 39.0516,
+    "lon": 22.95201,
+    "coordsVerified": true
+  },
+  {
+    "id": "ptolemaida",
+    "nameEl": "Πτολεμαΐδα",
+    "nameEn": "Ptolemaida",
+    "lat": 40.5144,
+    "lon": 21.693,
+    "homeOperatorId": "kozanis",
+    "major": true
+  },
+  {
+    "id": "pyli",
+    "nameEl": "Πύλη",
+    "nameEn": "Pyli",
+    "lat": 39.45981,
+    "lon": 21.62425,
+    "homeOperatorId": "trikalon"
+  },
+  {
+    "id": "pyrgadikia",
+    "nameEl": "Πυργαδίκια",
+    "nameEn": "Pyrgadikia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "2"
+    }
+  },
+  {
+    "id": "pyrgos",
+    "nameEl": "Πύργος",
+    "nameEn": "Pyrgos",
+    "lat": 37.67218,
+    "lon": 21.44392,
+    "coordsVerified": true,
+    "homeOperatorId": "ileias",
+    "major": true
+  },
+  {
+    "id": "rethymno",
+    "nameEl": "Ρέθυμνο",
+    "nameEn": "Rethymno",
+    "lat": 35.36768,
+    "lon": 24.46919,
+    "homeOperatorId": "chanion_rethymnou",
+    "major": true
+  },
+  {
+    "id": "riza_chalkidikis",
+    "nameEl": "Ρίζα",
+    "nameEn": "Riza",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "138"
+    }
+  },
+  {
+    "id": "sana",
+    "nameEl": "Σάνα",
+    "nameEn": "Sana",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "139"
+    }
+  },
+  {
+    "id": "sarti",
+    "nameEl": "Σάρτη",
+    "nameEn": "Sarti",
+    "lat": 40.0908,
+    "lon": 23.9747,
+    "threepi": {
+      "chalkidikis": "140"
+    },
+    "homeOperatorId": "chalkidikis"
+  },
+  {
+    "id": "serres",
+    "nameEl": "Σέρρες",
+    "nameEn": "Serres",
+    "lat": 41.07732,
+    "lon": 23.54246,
+    "homeOperatorId": "serron",
+    "major": true
+  },
+  {
+    "id": "servia",
+    "nameEl": "Σέρβια",
+    "nameEn": "Servia",
+    "lat": 40.18475,
+    "lon": 21.99696,
+    "homeOperatorId": "kozanis",
+    "major": true
+  },
+  {
+    "id": "sesklo",
+    "nameEl": "Σέσκλο",
+    "nameEn": "Sesklo",
+    "homeOperatorId": "magnisias",
+    "lat": 39.35446,
+    "lon": 22.83364,
+    "coordsVerified": true
+  },
+  {
+    "id": "sfakia",
+    "nameEl": "Χώρα Σφακίων",
+    "nameEn": "Chora Sfakion",
+    "lat": 35.2017,
+    "lon": 24.1417,
+    "homeOperatorId": "chanion_rethymnou"
+  },
+  {
+    "id": "siatista",
+    "nameEl": "Σιάτιστα",
+    "nameEn": "Siatista",
+    "lat": 40.26016,
+    "lon": 21.55098,
+    "coordsVerified": true,
+    "homeOperatorId": "kozanis",
+    "major": true
+  },
+  {
+    "id": "sidirokastro",
+    "nameEl": "Σιδηρόκαστρο",
+    "nameEn": "Sidirokastro",
+    "lat": 41.2356,
+    "lon": 23.3908,
+    "coordsVerified": true,
+    "homeOperatorId": "serron"
+  },
+  {
+    "id": "simantra",
+    "nameEl": "Σήμαντρα",
+    "nameEn": "Simantra",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "100"
+    }
+  },
+  {
+    "id": "siteia",
+    "nameEl": "Σητεία",
+    "nameEn": "Siteia",
+    "lat": 35.21983,
+    "lon": 26.10657,
+    "homeOperatorId": "irakleiou_lasithiou",
+    "major": true
+  },
+  {
+    "id": "siviri",
+    "nameEl": "Σίβηρη",
+    "nameEn": "Siviri",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "142"
+    }
+  },
+  {
+    "id": "skydra",
+    "nameEl": "Σκύδρα",
+    "nameEn": "Skydra",
+    "lat": 40.75686,
+    "lon": 22.15342,
+    "homeOperatorId": "pellas",
+    "major": true
+  },
+  {
+    "id": "sofiko",
+    "nameEl": "Σοφικό",
+    "nameEn": "Sofiko",
+    "lat": 37.78945,
+    "lon": 23.06221,
+    "homeOperatorId": "korinthias",
+    "major": true
+  },
+  {
+    "id": "soufli",
+    "nameEl": "Σουφλί",
+    "nameEn": "Soufli",
+    "lat": 41.1922,
+    "lon": 26.30338,
+    "homeOperatorId": "evrou",
+    "major": true
+  },
+  {
+    "id": "sougia",
+    "nameEl": "Σούγια",
+    "nameEn": "Sougia",
+    "lat": 35.2553,
+    "lon": 23.8089,
+    "homeOperatorId": "chanion_rethymnou"
+  },
+  {
+    "id": "sozopoli",
+    "nameEl": "Σωζόπολη",
+    "nameEn": "Sozopoli",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "151"
+    }
+  },
+  {
+    "id": "sparti",
+    "nameEl": "Σπάρτη",
+    "nameEn": "Sparti",
+    "lat": 37.07679,
+    "lon": 22.43751,
+    "homeOperatorId": "lakonias",
+    "major": true
+  },
+  {
+    "id": "sperchiada",
+    "nameEl": "Σπερχειάδα",
+    "nameEn": "Sperchiada",
+    "lat": 38.9197,
+    "lon": 22.1331,
+    "homeOperatorId": "fthiotidos"
+  },
+  {
+    "id": "stageira",
+    "nameEl": "Στάγειρα",
+    "nameEn": "Stageira",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "144"
+    }
+  },
+  {
+    "id": "stanos",
+    "nameEl": "Στανός",
+    "nameEn": "Stanos",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "145"
+    }
+  },
+  {
+    "id": "stratoni",
+    "nameEl": "Στρατώνι",
+    "nameEn": "Stratoni",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "147"
+    }
+  },
+  {
+    "id": "stratoniki",
+    "nameEl": "Στρατονίκη",
+    "nameEn": "Stratoniki",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "146"
+    }
+  },
+  {
+    "id": "stylida",
+    "nameEl": "Στυλίδα",
+    "nameEn": "Stylida",
+    "lat": 38.91393,
+    "lon": 22.61499,
+    "coordsVerified": true,
+    "homeOperatorId": "fthiotidos",
+    "major": true
+  },
+  {
+    "id": "syki",
+    "nameEl": "Συκή",
+    "nameEn": "Syki",
+    "homeOperatorId": "magnisias",
+    "lat": 39.28482,
+    "lon": 23.26067,
+    "coordsVerified": true
+  },
+  {
+    "id": "sykia",
+    "nameEl": "Συκιά",
+    "nameEn": "Sykia",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "148"
+    }
+  },
+  {
+    "id": "syllata",
+    "nameEl": "Σύλλατα",
+    "nameEn": "Syllata",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "149"
+    }
+  },
+  {
+    "id": "taxiarchis",
+    "nameEl": "Ταξιάρχης",
+    "nameEn": "Taxiarchis",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "153"
+    }
+  },
+  {
+    "id": "thessaloniki",
+    "nameEl": "Θεσσαλονίκη",
+    "nameEn": "Thessaloniki",
+    "lat": 40.65464,
+    "lon": 22.90223,
+    "threepi": {
+      "chalkidikis": "53"
+    },
+    "homeOperatorId": "thessalonikis",
+    "major": true
+  },
+  {
+    "id": "thiva",
+    "nameEl": "Θήβα",
+    "nameEn": "Thiva",
+    "lat": 38.32007,
+    "lon": 23.31756,
+    "coordsVerified": true,
+    "homeOperatorId": "thivas",
+    "major": true
+  },
+  {
+    "id": "tolo",
+    "nameEl": "Τολό",
+    "nameEn": "Tolo",
+    "lat": 37.52048,
+    "lon": 22.85914,
+    "homeOperatorId": "argolidas"
+  },
+  {
+    "id": "toroni",
+    "nameEl": "Τορώνη",
+    "nameEn": "Toroni",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "155"
+    }
+  },
+  {
+    "id": "trikala",
+    "nameEl": "Τρίκαλα",
+    "nameEn": "Trikala",
+    "lat": 39.55609,
+    "lon": 21.76788,
+    "coordsVerified": true,
+    "homeOperatorId": "trikalon",
+    "major": true
+  },
+  {
+    "id": "trikeri",
+    "nameEl": "Τρίκερι",
+    "nameEn": "Trikeri",
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "tripoli",
+    "nameEl": "Τρίπολη",
+    "nameEn": "Tripoli",
+    "lat": 37.50829,
+    "lon": 22.3861,
+    "homeOperatorId": "arkadias",
+    "major": true
+  },
+  {
+    "id": "trypiti",
+    "nameEl": "Τρυπητή (για Αμμουλιανή)",
+    "nameEn": "Trypiti (for Ammouliani)",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "158"
+    }
+  },
+  {
+    "id": "tsagarada",
+    "nameEl": "Τσαγκαράδα",
+    "nameEn": "Tsagarada",
+    "lat": 39.3875,
+    "lon": 23.1856,
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "vasiliki",
+    "nameEl": "Βασιλική",
+    "nameEn": "Vasiliki",
+    "lat": 38.62758,
+    "lon": 20.60872,
+    "coordsVerified": true,
+    "homeOperatorId": "lefkadas"
+  },
+  {
+    "id": "vatopedi",
+    "nameEl": "Βατοπέδι",
+    "nameEn": "Vatopedi",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "20"
+    }
+  },
+  {
+    "id": "vavdos",
+    "nameEl": "Βάβδος",
+    "nameEn": "Vavdos",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "17"
+    }
+  },
+  {
+    "id": "velestino",
+    "nameEl": "Βελεστίνο",
+    "nameEn": "Velestino",
+    "lat": 39.38723,
+    "lon": 22.76648,
+    "homeOperatorId": "magnisias",
+    "major": true
+  },
+  {
+    "id": "veria",
+    "nameEl": "Βέροια",
+    "nameEn": "Veria",
+    "lat": 40.51019,
+    "lon": 22.21654,
+    "homeOperatorId": "imathias",
+    "major": true
+  },
+  {
+    "id": "volos",
+    "nameEl": "Βόλος",
+    "nameEn": "Volos",
+    "lat": 39.36118,
+    "lon": 22.93276,
+    "homeOperatorId": "magnisias",
+    "major": true
+  },
+  {
+    "id": "vourvourou",
+    "nameEl": "Βουρβουρού",
+    "nameEn": "Vourvourou",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "22"
+    }
+  },
+  {
+    "id": "vrasta",
+    "nameEl": "Βραστά",
+    "nameEn": "Vrasta",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "23"
+    }
+  },
+  {
+    "id": "vyzitsa",
+    "nameEl": "Βυζίτσα",
+    "nameEn": "Vyzitsa",
+    "homeOperatorId": "magnisias",
+    "lat": 39.33391,
+    "lon": 23.13179,
+    "coordsVerified": true
+  },
+  {
+    "id": "xanthi",
+    "nameEl": "Ξάνθη",
+    "nameEn": "Xanthi",
+    "lat": 41.13386,
+    "lon": 24.89198,
+    "homeOperatorId": "xanthis",
+    "major": true
+  },
+  {
+    "id": "xylokastro",
+    "nameEl": "Ξυλόκαστρο",
+    "nameEn": "Xylokastro",
+    "lat": 38.07243,
+    "lon": 22.61832,
+    "homeOperatorId": "korinthias",
+    "major": true
+  },
+  {
+    "id": "zacharo",
+    "nameEl": "Ζαχάρω",
+    "nameEn": "Zacharo",
+    "lat": 37.48416,
+    "lon": 21.64716,
+    "homeOperatorId": "ileias",
+    "major": true
+  },
+  {
+    "id": "zagora",
+    "nameEl": "Ζαγορά",
+    "nameEn": "Zagora",
+    "lat": 39.4497,
+    "lon": 23.1019,
+    "homeOperatorId": "magnisias"
+  },
+  {
+    "id": "zakynthos",
+    "nameEl": "Ζάκυνθος",
+    "nameEn": "Zakynthos",
+    "lat": 37.7869,
+    "lon": 20.8997,
+    "homeOperatorId": "zakynthou",
+    "major": true
+  },
+  {
+    "id": "zografou_chalkidikis",
+    "nameEl": "Ζωγράφου",
+    "nameEn": "Zografou",
+    "homeOperatorId": "chalkidikis",
+    "threepi": {
+      "chalkidikis": "50"
+    }
+  }
+]

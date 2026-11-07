@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "achaias",
+    "nameEn": "KTEL Achaia",
+    "nameEl": "ΚΤΕΛ Αχαΐας",
+    "prefecture": "Achaia",
+    "homeCityId": "patra",
+    "bookingUrl": "https://ktelbus.gr/ach/ticketweb/",
+    "schedulesUrl": "https://www.ktelachaias.gr",
+    "timetablesUrl": "https://www.ktelachaias.gr/%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%ce%bb%cf%8c%ce%b3%ce%b9%ce%b1/",
+    "regionEl": "Δυτική Ελλάδα",
+    "regionEn": "Western Greece",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "aiginas",
+    "nameEn": "KTEL Aegina",
+    "nameEl": "ΚΤΕΛ Αίγινας",
+    "prefecture": "Aegina",
+    "homeCityId": "aigina",
+    "bookingUrl": null,
+    "schedulesUrl": "https://www.aeginaportal.gr/ktel.html",
+    "timetablesUrl": "https://www.aeginaportal.gr/ktel.html",
+    "regionEl": "Αττική",
+    "regionEn": "Attica",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "aitoloakarnanias",
+    "nameEn": "KTEL Aetolia-Acarnania",
+    "nameEl": "ΚΤΕΛ Αιτωλοακαρνανίας",
+    "prefecture": "Aetolia-Acarnania",
+    "homeCityId": "agrinio",
+    "bookingUrl": "https://ktelbus.gr/ait/ticketweb/",
+    "schedulesUrl": "https://www.ktel-aitolnias.gr",
+    "timetablesUrl": "https://www.ktel-aitolnias.gr",
+    "regionEl": "Δυτική Ελλάδα",
+    "regionEn": "Western Greece",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "androu",
+    "nameEn": "KTEL Andros",
+    "nameEl": "ΚΤΕΛ Άνδρου",
+    "prefecture": "Andros",
+    "homeCityId": "andros",
+    "bookingUrl": null,
+    "schedulesUrl": "https://ktelandrou.gr",
+    "timetablesUrl": "https://ktelandrou.gr/%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%ce%bb%cf%8c%ce%b3%ce%b9%ce%b1/",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "arkadias",
+    "nameEn": "KTEL Arcadia",
+    "nameEl": "ΚΤΕΛ Αρκαδίας",
+    "prefecture": "Arcadia",
+    "homeCityId": "tripoli",
+    "bookingUrl": "https://ktelbus.gr/ark/ticketweb/",
+    "schedulesUrl": "https://www.ktelarkadias.gr",
+    "timetablesUrl": "https://ktelarkadias.gr/%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%b1-%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%b1/",
+    "regionEl": "Πελοπόννησος",
+    "regionEn": "Peloponnese",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "argolidas",
+    "nameEn": "KTEL Argolida",
+    "nameEl": "ΚΤΕΛ Αργολίδας",
+    "prefecture": "Argolis",
+    "homeCityId": "nafplio",
+    "bookingUrl": "https://ktelbus.gr/arg/ticketweb/",
+    "schedulesUrl": "https://www.ktelargolida.gr",
+    "timetablesUrl": "https://www.ktelargolida.gr/%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%ce%bb%cf%8c%ce%b3%ce%b9%ce%b1-%ce%b3%ce%b5%ce%bd%ce%b9%ce%ba%ce%ad%cf%82-%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%af%ce%b5%cf%82/",
+    "regionEl": "Πελοπόννησος",
+    "regionEn": "Peloponnese",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "artas",
+    "nameEn": "KTEL Arta",
+    "nameEl": "ΚΤΕΛ Άρτας",
+    "prefecture": "Arta",
+    "homeCityId": "arta",
+    "bookingUrl": "https://ktelbus.gr/art/ticketweb/",
+    "schedulesUrl": "https://www.ktelartas.gr",
+    "timetablesUrl": "https://www.ktelartas.gr/%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%ce%bb%cf%8c%ce%b3%ce%b9%ce%b1/",
+    "regionEl": "Ήπειρος",
+    "regionEn": "Epirus",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "attikis",
+    "nameEn": "KTEL Attica",
+    "nameEl": "ΚΤΕΛ Αττικής",
+    "prefecture": "Attica",
+    "homeCityId": "athens",
+    "bookingUrl": null,
+    "schedulesUrl": "https://www.ktelattikis.gr",
+    "timetablesUrl": "https://www.ktelattikis.gr",
+    "regionEl": "Αττική",
+    "regionEn": "Attica",
+    "bookingSystem": "unknown",
+    "intercity": false
+  },
+  {
+    "id": "kefallonias",
+    "nameEn": "KTEL Cephalonia",
+    "nameEl": "ΚΤΕΛ Κεφαλλονιάς",
+    "prefecture": "Cephalonia",
+    "homeCityId": "argostoli",
+    "bookingUrl": "https://eticket.ktelkefalonias.gr/",
+    "schedulesUrl": "https://www.ktelkefalonias.gr",
+    "timetablesUrl": "https://www.ktelkefalonias.gr/dromologia/topika-dromologia",
+    "regionEl": "Ιόνια Νησιά",
+    "regionEn": "Ionian Islands",
+    "bookingSystem": "eticket",
+    "intercity": true
+  },
+  {
+    "id": "chalkidikis",
+    "nameEn": "KTEL Chalkidiki",
+    "nameEl": "ΚΤΕΛ Χαλκιδικής",
+    "prefecture": "Chalkidiki",
+    "homeCityId": "polygyros",
+    "bookingUrl": "https://eticket.ktel-chalkidikis.gr/",
+    "schedulesUrl": "https://www.ktel-chalkidikis.gr",
+    "timetablesUrl": "https://ktel-chalkidikis.gr/destinations.html",
+    "regionEl": "Κεντρική Μακεδονία",
+    "regionEn": "Central Macedonia",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "thessaloniki": {
+        "nameEl": "Σταθμός ΚΤΕΛ Χαλκιδικής (9ο χλμ. Θεσσαλονίκης–Ν. Μουδανιών)",
+        "nameEn": "KTEL Chalkidiki station (9th km Thessaloniki–N. Moudania road)",
+        "hintEl": "Όχι από το ΚΤΕΛ Μακεδονία: το αστικό 45 συνδέει τους δύο σταθμούς μέσω κέντρου (Εγνατία).",
+        "hintEn": "Not KTEL Makedonia: city bus 45 links the two stations via the centre (Egnatia)."
+      }
+    }
+  },
+  {
+    "id": "chanion_rethymnou",
+    "nameEn": "KTEL Chania-Rethymno",
+    "nameEl": "ΚΤΕΛ Χανίων-Ρεθύμνου",
+    "prefecture": "Chania-Rethymno",
+    "homeCityId": "chania",
+    "bookingUrl": "https://www.e-ktel.com/en/services/online-ticket-reservation?view=search",
+    "schedulesUrl": "https://www.e-ktel.com",
+    "timetablesUrl": "https://www.e-ktel.com/services/dromologia",
+    "regionEl": "Κρήτη",
+    "regionEn": "Crete",
+    "bookingSystem": "eticket",
+    "intercity": true
+  },
+  {
+    "id": "chiou",
+    "nameEn": "KTEL Chios",
+    "nameEl": "ΚΤΕΛ Χίου",
+    "prefecture": "Chios",
+    "homeCityId": "chios",
+    "bookingUrl": null,
+    "schedulesUrl": "https://ktelchios.gr",
+    "timetablesUrl": "https://ktelchios.gr/route/",
+    "regionEl": "Βόρειο Αιγαίο",
+    "regionEn": "North Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "kerkyras",
+    "nameEn": "KTEL Corfu",
+    "nameEl": "ΚΤΕΛ Κέρκυρας",
+    "prefecture": "Corfu",
+    "homeCityId": "corfu",
+    "bookingUrl": "https://ktelbus.gr/ker/ticketweb/",
+    "schedulesUrl": "https://www.ktelkerkyras.gr",
+    "timetablesUrl": "https://ktelkerkyras.gr/itinerary/",
+    "regionEl": "Ιόνια Νησιά",
+    "regionEn": "Ionian Islands",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "korinthias",
+    "nameEn": "KTEL Corinth",
+    "nameEl": "ΚΤΕΛ Κορινθίας",
+    "prefecture": "Corinth",
+    "homeCityId": "corinth",
+    "bookingUrl": "https://ktelbus.gr/kor/ticketweb/",
+    "schedulesUrl": "https://www.ktelkorinthias.gr",
+    "timetablesUrl": "https://www.ktelkorinthias.gr",
+    "regionEl": "Πελοπόννησος",
+    "regionEn": "Peloponnese",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "dramas",
+    "nameEn": "KTEL Drama",
+    "nameEl": "ΚΤΕΛ Δράμας",
+    "prefecture": "Drama",
+    "homeCityId": "drama",
+    "bookingUrl": "https://kteldramas.e-ticketing.gr/",
+    "schedulesUrl": "https://kteldramas.gr",
+    "timetablesUrl": "https://kteldramas.gr",
+    "regionEl": "Ανατολική Μακεδονία και Θράκη",
+    "regionEn": "Eastern Macedonia & Thrace",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "ileias",
+    "nameEn": "KTEL Elis",
+    "nameEl": "ΚΤΕΛ Ηλείας",
+    "prefecture": "Elis",
+    "homeCityId": "pyrgos",
+    "bookingUrl": "https://online.ktelileias.gr/gr/",
+    "schedulesUrl": "https://www.ktelileias.gr",
+    "timetablesUrl": "https://ktelileias.gr/dromologia/",
+    "regionEl": "Δυτική Ελλάδα",
+    "regionEn": "Western Greece",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "evias",
+    "nameEn": "KTEL Euboea",
+    "nameEl": "ΚΤΕΛ Εύβοιας",
+    "prefecture": "Euboea",
+    "homeCityId": "chalkida",
+    "bookingUrl": "https://ktelbus.gr/evv/ticketweb/",
+    "schedulesUrl": "https://www.ktelevias.gr",
+    "timetablesUrl": "https://ktelevias.gr/%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%b1/",
+    "regionEl": "Στερεά Ελλάδα",
+    "regionEn": "Central Greece",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "evritanias",
+    "nameEn": "KTEL Eurytania",
+    "nameEl": "ΚΤΕΛ Ευρυτανίας",
+    "prefecture": "Eurytania",
+    "homeCityId": "karpenisi",
+    "bookingUrl": "https://ktelbus.gr/evry/ticketweb/",
+    "schedulesUrl": "https://ktelevrytanias.gr",
+    "timetablesUrl": "https://ktelevrytanias.gr/%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%ce%bb%cf%8c%ce%b3%ce%b9%ce%b1/",
+    "regionEl": "Στερεά Ελλάδα",
+    "regionEn": "Central Greece",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "evrou",
+    "nameEn": "KTEL Evros",
+    "nameEl": "ΚΤΕΛ Έβρου",
+    "prefecture": "Evros",
+    "homeCityId": "alexandroupoli",
+    "bookingUrl": "https://eticket.ktelevrou.gr/",
+    "schedulesUrl": "https://www.ktelevrou.gr",
+    "timetablesUrl": "https://www.ktelevrou.gr/destinations.html",
+    "regionEl": "Ανατολική Μακεδονία και Θράκη",
+    "regionEn": "Eastern Macedonia & Thrace",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "florinas",
+    "nameEn": "KTEL Florina",
+    "nameEl": "ΚΤΕΛ Φλώρινας",
+    "prefecture": "Florina",
+    "homeCityId": "florina",
+    "bookingUrl": "https://ktelflorinas.e-ticketing.gr/Pages/Destinations.aspx",
+    "schedulesUrl": "https://ktel-florinas.gr",
+    "timetablesUrl": "https://ktel-florinas.gr/dromologia/",
+    "regionEl": "Δυτική Μακεδονία",
+    "regionEn": "Western Macedonia",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "grevenon",
+    "nameEn": "KTEL Grevena",
+    "nameEl": "ΚΤΕΛ Γρεβενών",
+    "prefecture": "Grevena",
+    "homeCityId": "grevena",
+    "bookingUrl": "https://ktelbus.gr/gre/ticketweb/",
+    "schedulesUrl": "https://ktelgrevenon.gr",
+    "timetablesUrl": "https://ktelgrevenon.gr/%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%ce%bb%cf%8c%ce%b3%ce%b9%ce%b1/%cf%85%cf%80%ce%b5%cf%81%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ad%cf%82-%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%ad%cf%82/",
+    "regionEl": "Δυτική Μακεδονία",
+    "regionEn": "Western Macedonia",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "irakleiou_lasithiou",
+    "nameEn": "KTEL Heraklion-Lasithi",
+    "nameEl": "ΚΤΕΛ Ηρακλείου-Λασιθίου",
+    "prefecture": "Heraklion-Lasithi",
+    "homeCityId": "heraklion",
+    "bookingUrl": "https://www.ktelherlas.gr/el",
+    "schedulesUrl": "https://www.ktelherlas.gr",
+    "timetablesUrl": "https://www.ktelherlas.gr",
+    "regionEl": "Κρήτη",
+    "regionEn": "Crete",
+    "bookingSystem": "eticket",
+    "intercity": true
+  },
+  {
+    "id": "imathias",
+    "nameEn": "KTEL Imathia",
+    "nameEl": "ΚΤΕΛ Ημαθίας",
+    "prefecture": "Imathia",
+    "homeCityId": "veria",
+    "bookingUrl": "https://ktelbus.gr/ima/ticketweb/",
+    "schedulesUrl": "https://ktelnimathias.gr",
+    "timetablesUrl": "https://www.ktelnimathias.gr/dromologia/",
+    "regionEl": "Κεντρική Μακεδονία",
+    "regionEn": "Central Macedonia",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "ioanninon",
+    "nameEn": "KTEL Ioannina",
+    "nameEl": "ΚΤΕΛ Ιωαννίνων",
+    "prefecture": "Ioannina",
+    "homeCityId": "ioannina",
+    "bookingUrl": "https://eticket.ktelioannina.gr/",
+    "schedulesUrl": "https://ktelioannina.gr",
+    "timetablesUrl": "https://ktelioannina.gr/destinations.html",
+    "regionEl": "Ήπειρος",
+    "regionEn": "Epirus",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "iou",
+    "nameEn": "KTEL Ios",
+    "nameEl": "ΚΤΕΛ Ίου",
+    "prefecture": "Ios",
+    "homeCityId": "ios",
+    "bookingUrl": null,
+    "schedulesUrl": "https://ktel-ios.gr",
+    "timetablesUrl": "https://ktel-ios.gr/timetable/",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "karditsas",
+    "nameEn": "KTEL Karditsa",
+    "nameEl": "ΚΤΕΛ Καρδίτσας",
+    "prefecture": "Karditsa",
+    "homeCityId": "karditsa",
+    "bookingUrl": "https://ktelbus.gr/kard/ticketweb/",
+    "schedulesUrl": "https://www.ktel-karditsas.gr",
+    "timetablesUrl": "https://www.ktel-karditsas.gr/category/news/dromologia/",
+    "regionEl": "Θεσσαλία",
+    "regionEn": "Thessaly",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "karpathou",
+    "nameEn": "KTEL Karpathos",
+    "nameEl": "ΚΤΕΛ Καρπάθου",
+    "prefecture": "Karpathos",
+    "homeCityId": "karpathos",
+    "bookingUrl": null,
+    "schedulesUrl": "https://karpathos.gr/sygkoinonia/",
+    "timetablesUrl": "https://karpathos.gr/sygkoinonia/",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "kastorias",
+    "nameEn": "KTEL Kastoria",
+    "nameEl": "ΚΤΕΛ Καστοριάς",
+    "prefecture": "Kastoria",
+    "homeCityId": "kastoria",
+    "bookingUrl": "https://ktelbus.gr/kas/ticketweb/",
+    "schedulesUrl": "https://www.ktel-kastorias.gr",
+    "timetablesUrl": "https://www.ktel-kastorias.gr/%cf%84%ce%bf%cf%80%ce%b9%ce%ba%ce%ac-%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%ce%bb%cf%8c%ce%b3%ce%b9%ce%b1/",
+    "regionEl": "Δυτική Μακεδονία",
+    "regionEn": "Western Macedonia",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "kavalas",
+    "nameEn": "KTEL Kavala",
+    "nameEl": "ΚΤΕΛ Καβάλας",
+    "prefecture": "Kavala",
+    "homeCityId": "kavala",
+    "bookingUrl": "https://ktelbus.gr/kav/ticketweb/",
+    "schedulesUrl": "https://www.ktelkavalas.gr",
+    "timetablesUrl": "https://www.ktelkavalas.gr",
+    "regionEl": "Ανατολική Μακεδονία και Θράκη",
+    "regionEn": "Eastern Macedonia & Thrace",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "kilkis",
+    "nameEn": "KTEL Kilkis",
+    "nameEl": "ΚΤΕΛ Κιλκίς",
+    "prefecture": "Kilkis",
+    "homeCityId": "kilkis",
+    "bookingUrl": "https://ktelbus.gr/kil/ticketweb/",
+    "schedulesUrl": "https://www.ktelkilkis.gr",
+    "timetablesUrl": "https://ktelkilkis.gr/",
+    "regionEl": "Κεντρική Μακεδονία",
+    "regionEn": "Central Macedonia",
+    "bookingSystem": "ktelbus",
+    "intercity": true
+  },
+  {
+    "id": "ko",
+    "nameEn": "KTEL Kos",
+    "nameEl": "ΚΤΕΛ Κω",
+    "prefecture": "Kos",
+    "homeCityId": "kos",
+    "bookingUrl": null,
+    "schedulesUrl": "https://ktel-kos.gr",
+    "timetablesUrl": "https://ktel-kos.gr/en/general-itineraries/",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "kozanis",
+    "nameEn": "KTEL Kozani",
+    "nameEl": "ΚΤΕΛ Κοζάνης",
+    "prefecture": "Kozani",
+    "homeCityId": "kozani",
+    "bookingUrl": "https://eticket.ktelkozanis.gr",
+    "schedulesUrl": "https://www.ktelkozanis.gr",
+    "timetablesUrl": "https://ktelkozanis.gr/dromologia-topika/",
+    "regionEl": "Δυτική Μακεδονία",
+    "regionEn": "Western Macedonia",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "lakonias",
+    "nameEn": "KTEL Laconia",
+    "nameEl": "ΚΤΕΛ Λακωνίας",
+    "prefecture": "Laconia",
+    "homeCityId": "sparti",
+    "bookingUrl": "https://ktelbus.gr/lak/ticketweb/",
+    "schedulesUrl": "https://ktel-lakonias.gr",
+    "timetablesUrl": "https://ktel-lakonias.gr",
+    "regionEl": "Πελοπόννησος",
+    "regionEn": "Peloponnese",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "larisas",
+    "nameEn": "KTEL Larisa",
+    "nameEl": "ΚΤΕΛ Λάρισας",
+    "prefecture": "Larisa",
+    "homeCityId": "larisa",
+    "bookingUrl": "https://ktellarisas.e-ticketing.gr/Pages/Destinations.aspx",
+    "schedulesUrl": "https://www.ktellarisas.gr",
+    "timetablesUrl": "https://www.ktellarisas.gr",
+    "regionEl": "Θεσσαλία",
+    "regionEn": "Thessaly",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "lefkadas",
+    "nameEn": "KTEL Lefkada",
+    "nameEl": "ΚΤΕΛ Λευκάδας",
+    "prefecture": "Lefkada",
+    "homeCityId": "lefkada",
+    "bookingUrl": "https://ktelbus.gr/lef/ticketweb/",
+    "schedulesUrl": "https://ktel-lefkadas.gr",
+    "timetablesUrl": "https://ktel-lefkadas.gr/%cf%84%ce%bf%cf%80%ce%b9%ce%ba%ce%ac/",
+    "regionEl": "Ιόνια Νησιά",
+    "regionEn": "Ionian Islands",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "limnou",
+    "nameEn": "KTEL Lemnos",
+    "nameEl": "ΚΤΕΛ Λήμνου",
+    "prefecture": "Lemnos",
+    "homeCityId": "myrina",
+    "bookingUrl": null,
+    "schedulesUrl": null,
+    "timetablesUrl": "https://www.dromologiaktel.gr/loc_dk/yperastika-ktel/53/yperastika-ktel-lhmnou.htm",
+    "regionEl": "Βόρειο Αιγαίο",
+    "regionEn": "North Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "lesvou",
+    "nameEn": "KTEL Lesbos",
+    "nameEl": "ΚΤΕΛ Λέσβου",
+    "prefecture": "Lesbos",
+    "homeCityId": "mytilene",
+    "bookingUrl": null,
+    "schedulesUrl": "https://www.ktel-lesvou.gr",
+    "timetablesUrl": "https://www.ktel-lesvou.gr/index.php?option=dromologia",
+    "regionEl": "Βόρειο Αιγαίο",
+    "regionEn": "North Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "livadeias",
+    "nameEn": "KTEL Livadeia",
+    "nameEl": "ΚΤΕΛ Λιβαδειάς",
+    "prefecture": "Boeotia",
+    "homeCityId": "livadeia",
+    "bookingUrl": "https://ktellivadias.e-ticketing.gr/Pages/Destinations.aspx",
+    "schedulesUrl": "https://www.ktellivadias.gr",
+    "timetablesUrl": "https://www.ktellivadias.gr/dromologia/",
+    "regionEl": "Στερεά Ελλάδα",
+    "regionEn": "Central Greece",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "magnisias",
+    "nameEn": "KTEL Magnesia",
+    "nameEl": "ΚΤΕΛ Μαγνησίας",
+    "prefecture": "Magnesia",
+    "homeCityId": "volos",
+    "bookingUrl": "https://ktelvolou.e-ticketing.gr/Pages/Destinations.aspx",
+    "schedulesUrl": "https://www.ktelvolou.gr",
+    "timetablesUrl": "https://www.ktelvolou.gr/el/routes/map/&map=magnesia",
+    "regionEl": "Θεσσαλία",
+    "regionEn": "Thessaly",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "messinias",
+    "nameEn": "KTEL Messenia",
+    "nameEl": "ΚΤΕΛ Μεσσηνίας",
+    "prefecture": "Messenia",
+    "homeCityId": "kalamata",
+    "bookingUrl": "https://ktelbus.gr/mes/ticketweb/",
+    "schedulesUrl": "https://www.ktelmessinias.gr",
+    "timetablesUrl": "https://www.ktelmessinias.gr/dromologia/%cf%84%ce%bf%cf%80%ce%b9%ce%ba%ce%ac-2/",
+    "regionEl": "Πελοπόννησος",
+    "regionEn": "Peloponnese",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "mykonou",
+    "nameEn": "KTEL Mykonos",
+    "nameEl": "ΚΤΕΛ Μυκόνου",
+    "prefecture": "Mykonos",
+    "homeCityId": "mykonos",
+    "bookingUrl": "https://ktelmykonou.e-ticketing.gr/",
+    "schedulesUrl": "https://mykonosbus.com",
+    "timetablesUrl": "https://mykonosbus.com/bus-timetables/",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "eticket",
+    "intercity": false
+  },
+  {
+    "id": "naxou",
+    "nameEn": "KTEL Naxos",
+    "nameEl": "ΚΤΕΛ Νάξου",
+    "prefecture": "Naxos",
+    "homeCityId": "naxos",
+    "bookingUrl": null,
+    "schedulesUrl": "https://naxosbuses.com",
+    "timetablesUrl": "https://naxosbuses.com/bus-lines/",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "parou",
+    "nameEn": "KTEL Paros",
+    "nameEl": "ΚΤΕΛ Πάρου",
+    "prefecture": "Paros",
+    "homeCityId": "paros",
+    "bookingUrl": null,
+    "schedulesUrl": "https://ktelparou.gr",
+    "timetablesUrl": "https://ktelparou.gr/bus-schedules.html",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "pellas",
+    "nameEn": "KTEL Pella",
+    "nameEl": "ΚΤΕΛ Πέλλας",
+    "prefecture": "Pella",
+    "homeCityId": "edessa",
+    "bookingUrl": "https://ktelbus.gr/pel/ticketweb/",
+    "schedulesUrl": "https://www.ktelpellas.gr",
+    "timetablesUrl": "https://www.ktelpellas.gr/topika-edessa/",
+    "regionEl": "Κεντρική Μακεδονία",
+    "regionEn": "Central Macedonia",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "fokidas",
+    "nameEn": "KTEL Phocis",
+    "nameEl": "ΚΤΕΛ Φωκίδας",
+    "prefecture": "Phocis",
+    "homeCityId": "amfissa",
+    "bookingUrl": "https://ktelbus.gr/fok/ticketweb/",
+    "schedulesUrl": "https://www.ktel-fokidas.gr",
+    "timetablesUrl": "https://www.ktel-fokidas.gr/dromologia/",
+    "regionEl": "Στερεά Ελλάδα",
+    "regionEn": "Central Greece",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "fthiotidos",
+    "nameEn": "KTEL Phthiotis",
+    "nameEl": "ΚΤΕΛ Φθιώτιδος",
+    "prefecture": "Phthiotis",
+    "homeCityId": "lamia",
+    "bookingUrl": "https://ktelbus.gr/fth/ticketweb/",
+    "schedulesUrl": "https://www.ktelfthiotidos.gr",
+    "timetablesUrl": "https://www.ktelfthiotidos.gr",
+    "regionEl": "Στερεά Ελλάδα",
+    "regionEn": "Central Greece",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "pierias",
+    "nameEn": "KTEL Pieria",
+    "nameEl": "ΚΤΕΛ Πιερίας",
+    "prefecture": "Pieria",
+    "homeCityId": "katerini",
+    "bookingUrl": "https://ktelpierias.e-ticketing.gr/",
+    "schedulesUrl": "https://ktelpierias.gr",
+    "timetablesUrl": "https://ktelpierias.gr",
+    "regionEl": "Κεντρική Μακεδονία",
+    "regionEn": "Central Macedonia",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "prevezas",
+    "nameEn": "KTEL Preveza",
+    "nameEl": "ΚΤΕΛ Πρέβεζας",
+    "prefecture": "Preveza",
+    "homeCityId": "preveza",
+    "bookingUrl": "https://eticket.ktelprevezas.gr/",
+    "schedulesUrl": "https://www.ktelprevezas.gr",
+    "timetablesUrl": "https://ktelprevezas.gr/destinations.html",
+    "regionEl": "Ήπειρος",
+    "regionEn": "Epirus",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "rodou",
+    "nameEn": "KTEL Rhodes",
+    "nameEl": "ΚΤΕΛ Ρόδου",
+    "prefecture": "Rhodes",
+    "homeCityId": "rhodes",
+    "bookingUrl": "https://ktelrodou.e-ticketing.gr/",
+    "schedulesUrl": "https://www.ktelrodou.gr",
+    "timetablesUrl": "https://www.ktelrodou.gr/schedule",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "eticket",
+    "intercity": false
+  },
+  {
+    "id": "rodopis",
+    "nameEn": "KTEL Rhodope",
+    "nameEl": "ΚΤΕΛ Ροδόπης",
+    "prefecture": "Rhodope",
+    "homeCityId": "komotini",
+    "bookingUrl": "https://ktelrodopis.e-ticketing.gr/",
+    "schedulesUrl": "https://www.ktelrodopis.gr",
+    "timetablesUrl": "https://ktelrodopis.gr/%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%b1/",
+    "regionEl": "Ανατολική Μακεδονία και Θράκη",
+    "regionEn": "Eastern Macedonia & Thrace",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "salaminas",
+    "nameEn": "KTEL Salamina",
+    "nameEl": "ΚΤΕΛ Σαλαμίνας",
+    "prefecture": "Salamina",
+    "homeCityId": "salamina",
+    "bookingUrl": null,
+    "schedulesUrl": "https://ktelsalaminas.gr",
+    "timetablesUrl": "https://ktelsalaminas.gr/dromologia/",
+    "regionEl": "Αττική",
+    "regionEn": "Attica",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "samou",
+    "nameEn": "KTEL Samos",
+    "nameEl": "ΚΤΕΛ Σάμου",
+    "prefecture": "Samos",
+    "homeCityId": "samos",
+    "bookingUrl": null,
+    "schedulesUrl": "https://ktelsamos.gr",
+    "timetablesUrl": "https://ktelsamos.gr/%CE%B4%CF%81%CE%BF%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%B1/",
+    "regionEl": "Βόρειο Αιγαίο",
+    "regionEn": "North Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "thiras",
+    "nameEn": "KTEL Santorini",
+    "nameEl": "ΚΤΕΛ Θήρας",
+    "prefecture": "Thira",
+    "homeCityId": "thira",
+    "bookingUrl": null,
+    "schedulesUrl": "https://www.ktel-santorini.gr",
+    "timetablesUrl": "https://ktel-santorini.gr/routes/",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "serron",
+    "nameEn": "KTEL Serres",
+    "nameEl": "ΚΤΕΛ Σερρών",
+    "prefecture": "Serres",
+    "homeCityId": "serres",
+    "bookingUrl": "https://ktelserron.e-ticketing.gr/",
+    "schedulesUrl": "https://ktelserron.gr",
+    "timetablesUrl": "https://ktelserron.gr",
+    "regionEl": "Κεντρική Μακεδονία",
+    "regionEn": "Central Macedonia",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "syrou",
+    "nameEn": "KTEL Syros",
+    "nameEl": "ΚΤΕΛ Σύρου",
+    "prefecture": "Syros",
+    "homeCityId": "syros",
+    "bookingUrl": null,
+    "schedulesUrl": "https://ktelsyrou.gr",
+    "timetablesUrl": "https://ktelsyrou.gr/",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "thesprotias",
+    "nameEn": "KTEL Thesprotia",
+    "nameEl": "ΚΤΕΛ Θεσπρωτίας",
+    "prefecture": "Thesprotia",
+    "homeCityId": "igoumenitsa",
+    "bookingUrl": "https://ktelbus.gr/thesp/ticketweb/",
+    "schedulesUrl": "https://www.ktel-thesprotias.gr",
+    "timetablesUrl": "https://ktel-thesprotias.gr/",
+    "regionEl": "Ήπειρος",
+    "regionEn": "Epirus",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "thessalonikis",
+    "nameEn": "KTEL Thessaloniki",
+    "nameEl": "ΚΤΕΛ Θεσσαλονίκης",
+    "prefecture": "Thessaloniki",
+    "homeCityId": "thessaloniki",
+    "bookingUrl": "https://ktelthes.e-ticketing.gr/Pages/Destinations.aspx",
+    "schedulesUrl": "https://www.ktelthes.gr",
+    "timetablesUrl": "https://ktelthes.gr/astiki-sygkoinonia/",
+    "regionEl": "Κεντρική Μακεδονία",
+    "regionEn": "Central Macedonia",
+    "bookingSystem": "eticket",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "thivas",
+    "nameEn": "KTEL Thiva",
+    "nameEl": "ΚΤΕΛ Θήβας",
+    "prefecture": "Boeotia",
+    "homeCityId": "thiva",
+    "bookingUrl": "https://ktelbus.gr/thiv/ticketweb/",
+    "schedulesUrl": "https://ktelthivas.gr",
+    "timetablesUrl": "https://ktelthivas.gr",
+    "regionEl": "Στερεά Ελλάδα",
+    "regionEn": "Central Greece",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "tinou",
+    "nameEn": "KTEL Tinos",
+    "nameEl": "ΚΤΕΛ Τήνου",
+    "prefecture": "Tinos",
+    "homeCityId": "tinos",
+    "bookingUrl": null,
+    "schedulesUrl": "https://www.kteltinou.gr",
+    "timetablesUrl": "https://www.kteltinou.gr/index.php/schedule",
+    "regionEl": "Νότιο Αιγαίο",
+    "regionEn": "South Aegean",
+    "bookingSystem": "scheduleOnly",
+    "intercity": false
+  },
+  {
+    "id": "trikalon",
+    "nameEn": "KTEL Trikala",
+    "nameEl": "ΚΤΕΛ Τρικάλων",
+    "prefecture": "Trikala",
+    "homeCityId": "trikala",
+    "bookingUrl": "https://ktelbus.gr/tri/ticketweb/",
+    "schedulesUrl": "https://ktel-trikala.gr",
+    "timetablesUrl": "https://ktel-trikala.gr/dromologia/topika-therina/",
+    "regionEl": "Θεσσαλία",
+    "regionEn": "Thessaly",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Λιοσίων (Λιοσίων 260)",
+        "nameEn": "Liosion bus terminal (Liosion 260)",
+        "hintEl": "Κοντά στον ηλεκτρικό (γραμμή 1), στάση Κάτω Πατήσια. Όχι ο σταθμός Κηφισού (~2,5 χλμ.).",
+        "hintEn": "Near Kato Patisia station on the electric railway (line 1). Not the Kifisou terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "xanthis",
+    "nameEn": "KTEL Xanthi",
+    "nameEl": "ΚΤΕΛ Ξάνθης",
+    "prefecture": "Xanthi",
+    "homeCityId": "xanthi",
+    "bookingUrl": "https://ktelbus.gr/xan/ticketweb/",
+    "schedulesUrl": "https://ktelxanthis.gr",
+    "timetablesUrl": "https://www.ktelxanthis.gr/iperastika-dromologia/",
+    "regionEl": "Ανατολική Μακεδονία και Θράκη",
+    "regionEn": "Eastern Macedonia & Thrace",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  },
+  {
+    "id": "zakynthou",
+    "nameEn": "KTEL Zakynthos",
+    "nameEl": "ΚΤΕΛ Ζακύνθου",
+    "prefecture": "Zakynthos",
+    "homeCityId": "zakynthos",
+    "bookingUrl": "https://ktelbus.gr/zak/ticketweb/",
+    "schedulesUrl": "https://www.ktel-zakynthos.gr",
+    "timetablesUrl": "https://www.ktel-zakynthos.gr",
+    "regionEl": "Ιόνια Νησιά",
+    "regionEn": "Ionian Islands",
+    "bookingSystem": "ktelbus",
+    "intercity": true,
+    "stations": {
+      "athens": {
+        "nameEl": "Σταθμός ΚΤΕΛ Κηφισού (Λ. Κηφισού 100)",
+        "nameEn": "Kifisou bus terminal (Kifisou Ave 100)",
+        "hintEl": "Λεωφορείο 051 από Ομόνοια. Όχι ο σταθμός Λιοσίων (~2,5 χλμ.).",
+        "hintEn": "Bus 051 from Omonia. Not the Liosion terminal (~2.5 km away)."
+      }
+    }
+  }
+]

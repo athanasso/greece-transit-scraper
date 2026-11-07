@@ -118,6 +118,28 @@ def package():
         print(f"[+] Written {out_bus.name} ({out_bus.stat().st_size:,} bytes)")
         compress_file(out_bus)
 
+    # 4. Process ktel dataset
+    ktel_dir = DATA_DIR / "ktel"
+    if ktel_dir.exists():
+        ktel_operators_f = ktel_dir / "operators.json"
+        ktel_cities_f = ktel_dir / "cities.json"
+        ktel_fares_f = ktel_dir / "fares.json"
+        ktel_booking_f = ktel_dir / "booking_links.json"
+
+        ktel_payload = {
+            "version": tag,
+            "updatedAt": now_utc.isoformat(),
+            "operators": json.load(open(ktel_operators_f, "r", encoding="utf-8")) if ktel_operators_f.exists() else [],
+            "cities": json.load(open(ktel_cities_f, "r", encoding="utf-8")) if ktel_cities_f.exists() else [],
+            "fares": json.load(open(ktel_fares_f, "r", encoding="utf-8")) if ktel_fares_f.exists() else [],
+            "bookingLinks": json.load(open(ktel_booking_f, "r", encoding="utf-8")) if ktel_booking_f.exists() else {}
+        }
+        out_ktel = SCRIPT_DIR / "ktel_dataset.min.json"
+        with open(out_ktel, "w", encoding="utf-8") as f:
+            json.dump(ktel_payload, f, ensure_ascii=False, separators=(",", ":"))
+        print(f"[+] Written {out_ktel.name} ({out_ktel.stat().st_size:,} bytes)")
+        compress_file(out_ktel)
+
     # Write tag.txt
     with open(TAG_FILE, "w", encoding="utf-8") as f:
         f.write(tag)

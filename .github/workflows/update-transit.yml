@@ -63,6 +63,9 @@ jobs:
             bus_routes_index.min.json \
             bus_routes_index.min.json.zst \
             bus_routes_index.min.json.gz \
+            ktel_dataset.min.json \
+            ktel_dataset.min.json.zst \
+            ktel_dataset.min.json.gz \
             --title "Greece Transit Dataset $TAG" \
             --notes-file release_notes.md \
             --latest

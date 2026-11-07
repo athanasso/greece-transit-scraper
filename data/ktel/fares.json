@@ -1,0 +1,1665 @@
+{
+ "aitoloakarnanias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   },
+   {
+    "id": 8,
+    "code": "PT_LFS",
+    "name": "ΠΑΙΔΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 10,
+    "code": "PT_STUDENT_2",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 11,
+    "code": "PT_SCHOOLBOY_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 12,
+    "code": "PT_MILITARY_2",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 18,
+    "code": "PT_MILITARY_3",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 19,
+    "code": "PT_RETURN",
+    "name": "ΕΙΔΙΚΟ ΕΠΙΣΤΡΟΦΗΣ",
+    "discount": 0
+   }
+  ]
+ },
+ "argolidas": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΚΑΝΟΝΙΚΟ",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΗ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΗ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 13,
+    "code": "PT_MILITARY_3",
+    "name": "ΣΤΡΑΤΙΩΤΗ 15%",
+    "discount": 15
+   },
+   {
+    "id": 23,
+    "code": "PT_SCHOOLBOY_3",
+    "name": "ΣΩΜΑΤΑ ΑΣΦΑΛΕΙΑΣ 50%",
+    "discount": 50
+   },
+   {
+    "id": 24,
+    "code": "ΕΚΠΑΙΔΕΥΤΙΚΟΣ 50%",
+    "name": "ΕΚΠΑΙΔΕΥΤΙΚΟ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "arkadias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 9,
+    "code": "PT_POLYTEKNO",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 10,
+    "code": "PT_STRATOS_KSIRAS",
+    "name": "ΣΤΡΑΤΟΣ ΞΗΡΑΣ 15%",
+    "discount": 15
+   }
+  ]
+ },
+ "artas": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 8,
+    "code": "PT_LFS",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ ΓΕΣ 15%",
+    "discount": 15
+   },
+   {
+    "id": 10,
+    "code": "PT_STUDENT_2",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 11,
+    "code": "PT_SCHOOLBOY_1",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 16,
+    "code": "PT_FAMILY",
+    "name": "ΤΡΙΤΕΚΝΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 22,
+    "code": "SOLDIER 20%",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 20%",
+    "discount": 20
+   }
+  ]
+ },
+ "achaias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ ΜΟΝΙΜΟΙ 15%",
+    "discount": 15
+   },
+   {
+    "id": 9,
+    "code": "PT_MILITARY_2",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 11,
+    "code": "PT_STUDENT_2",
+    "name": "ΠΑΙΔΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 15,
+    "code": "PT_MILITARY_3",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 17,
+    "code": "PT_MILITARY_4",
+    "name": "ΤΡΙΤΕΚΝΟ 25%",
+    "discount": 25
+   }
+  ]
+ },
+ "grevenon": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 9,
+    "code": "PT_MILITARY_2",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 10,
+    "code": "PT_MILITARY_3",
+    "name": "ΣΩΜΑΤΑ ΑΣΦΑΛΕΙΑΣ 25%",
+    "discount": 25
+   },
+   {
+    "id": 14,
+    "code": "PT_MILITARY_4",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 17,
+    "code": "PT_MILITARY_5",
+    "name": "ΦΟΙΤΗΤΙΚΟ ΣΧΟΛΗ ΑΣΤΥΦΥΛΑΚΩΝ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "evias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ",
+    "discount": 0
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 8,
+    "code": "PT_LFS",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   },
+   {
+    "id": 9,
+    "code": "PT_STUDENT_2",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 10,
+    "code": "PT_MILITARY_2",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 15,
+    "code": "PT_SCHOOLBOY_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "evritanias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΕΝΗΛΙΚΟΣ",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΜΕΙΩΜΕΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   },
+   {
+    "id": 11,
+    "code": "PT_SCHOOLBOY_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "zakynthou": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   }
+  ]
+ },
+ "imathias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 9,
+    "code": "PT_MILITARY_3",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   }
+  ]
+ },
+ "thesprotias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 8,
+    "code": "PT_LFS",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ ΓΕΣ 15%",
+    "discount": 15
+   },
+   {
+    "id": 9,
+    "code": "PT_SCHOOLBOY_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 11,
+    "code": "PT_STUDENT_2",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   }
+  ]
+ },
+ "thivas": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "kavalas": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 10,
+    "code": "PT_MILITARY_3",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   },
+   {
+    "id": 11,
+    "code": "PT_MILITARY_4",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 18,
+    "code": "ΠΡΟΣΦΟΡΑ ΞΑΝΘΗ 100%",
+    "name": "ΠΡΟΣΦΟΡΑ ΞΑΝΘΗ 100%",
+    "discount": 100
+   }
+  ]
+ },
+ "karditsas": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ-ΙΕΚ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΜΟΝΙΜΟΣ ΣΤΡΑΤΙΩΤΙΚΟΣ 15%",
+    "discount": 15
+   },
+   {
+    "id": 9,
+    "code": "PT_STUDENT_2",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 11,
+    "code": "PT_STUDENT_3",
+    "name": "ΤΡΙΤΕΚΝΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 12,
+    "code": "PT_MILITARY_5",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 13,
+    "code": "PT_STUDENT_4",
+    "name": "ΑΣΤΥΝΟΜΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 14,
+    "code": "PT_STUDENT_5",
+    "name": "ΠΑΙΔΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 20,
+    "code": "PT_MILITARY_6",
+    "name": "ΔΟΚΙΜΟΣ ΣΧΟΛΗΣ ΑΣΤΥΦΥΛΑΚΩΝ ΜΟΥΖΑΚΙΟΥ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "kastorias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 10,
+    "code": "PT_MILITARY_2",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   },
+   {
+    "id": 11,
+    "code": "PT_FAMILY",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "kerkyras": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΕΝΗΛΙΚΟΣ",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 14,
+    "code": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "kilkis": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 10,
+    "code": "PT_MILITARY_2",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 25 %",
+    "discount": 25
+   },
+   {
+    "id": 13,
+    "code": "PT_FAMILY",
+    "name": "ΤΡΙΤΕΚΝΟ 25%",
+    "discount": 25
+   }
+  ]
+ },
+ "korinthias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 9,
+    "code": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   },
+   {
+    "id": 11,
+    "code": "PT_FAMILY",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "lakonias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 14,
+    "code": "PT_MILITARY_2",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   }
+  ]
+ },
+ "lefkadas": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 10,
+    "code": "PT_STUDENT_2",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 13,
+    "code": "PT_MILITARY_3",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "messinias": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΜΕΙΩΜΕΝΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΜΕΙΩΜΕΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   },
+   {
+    "id": 9,
+    "code": "PS_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 10,
+    "code": "PT_POLYTECHNIC",
+    "name": "ΠΟΛΥΤΕΚΝΟΣ 50%",
+    "discount": 50
+   },
+   {
+    "id": 13,
+    "code": "PT_UNIVERSITY_STUDENT",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 15,
+    "code": "PT_MILITARY_3",
+    "name": "ΤΡΙΤΕΚΝΟ ΣΥΛΛΟΓΟΣ ΜΕΣΣΗΝΙΑΣ 15%",
+    "discount": 15
+   }
+  ]
+ },
+ "xanthis": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ-ΠΟΛΥΤΕΚΝΟΙ 50%",
+    "discount": 50
+   }
+  ]
+ },
+ "pellas": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 8,
+    "code": "PT_LFS",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   },
+   {
+    "id": 9,
+    "code": "PT_SCHOOLBOY_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   }
+  ]
+ },
+ "trikalon": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 7,
+    "code": "PT_MILITARY_1",
+    "name": "ΜΙΣΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 10,
+    "code": "PT_FAMILY",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 11,
+    "code": "PT_MILITARY_2",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 14,
+    "code": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   },
+   {
+    "id": 31,
+    "code": "PT_40",
+    "name": "ΕΚΠΤΩΣΗ ΠΡΟΣΚΟΠΩΝ 40%",
+    "discount": 40
+   }
+  ]
+ },
+ "fthiotidos": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 4,
+    "code": "PT_SCHOOLBOY",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 9,
+    "code": "PT_MILITARY_2",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 10,
+    "code": "PT_FAMILY",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 16,
+    "code": "PT_MILITARY_3",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ ΓΕΣ 15%",
+    "discount": 15
+   },
+   {
+    "id": 17,
+    "code": "PT_FAMILY_1",
+    "name": "ΤΡΙΤΕΚΝΟ 25%",
+    "discount": 25
+   }
+  ]
+ },
+ "fokidas": {
+  "platform": "ktelbus",
+  "fares": [
+   {
+    "id": 1,
+    "code": "PT_ADULT",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "discount": 0
+   },
+   {
+    "id": 3,
+    "code": "PT_STUDENT_1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "discount": 25
+   },
+   {
+    "id": 5,
+    "code": "PT_DISABLED",
+    "name": "ΑΜΕΑ 50%",
+    "discount": 50
+   },
+   {
+    "id": 12,
+    "code": " ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 15%",
+    "discount": 15
+   },
+   {
+    "id": 15,
+    "code": "PT_FAMILY",
+    "name": "ΠΟΛΥΤΕΚΝΟ 50%",
+    "discount": 50
+   },
+   {
+    "id": 20,
+    "code": "PT_MILITARY_3",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ 25%",
+    "discount": 25
+   }
+  ]
+ },
+ "ioanninon": {
+  "platform": "threepi",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Έκπτωση 50%",
+    "discount": 50
+   },
+   {
+    "id": "2",
+    "name": "Έκπτωση 25%",
+    "discount": 25
+   },
+   {
+    "id": "12",
+    "name": "Έκπτωση 15%",
+    "discount": 15
+   }
+  ]
+ },
+ "prevezas": {
+  "platform": "threepi",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Φοιτητικό 50%",
+    "discount": 50
+   },
+   {
+    "id": "2",
+    "name": "Φοιτητικό/Στρατιωτ. 25%",
+    "discount": 24
+   },
+   {
+    "id": "8",
+    "name": "Πολύτεκνο/Αναπηρικό",
+    "discount": 50
+   },
+   {
+    "id": "12",
+    "name": "Προσωπικό ΓΕΣ 15%",
+    "discount": 15
+   }
+  ]
+ },
+ "chalkidikis": {
+  "platform": "threepi",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Έκπτωση 50%",
+    "discount": 50
+   },
+   {
+    "id": "2",
+    "name": "Έκπτωση 25%",
+    "discount": 25
+   }
+  ]
+ },
+ "evrou": {
+  "platform": "threepi",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Έκπτωση 50%",
+    "discount": 50
+   },
+   {
+    "id": "22",
+    "name": "Έκπτωση 25%",
+    "discount": 25
+   }
+  ]
+ },
+ "kozanis": {
+  "platform": "threepi",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Έκπτωση 50%",
+    "discount": 50
+   },
+   {
+    "id": "2",
+    "name": "Έκπτωση 25%",
+    "discount": 26
+   },
+   {
+    "id": "12",
+    "name": "Έκπτωση 15%",
+    "discount": 15
+   }
+  ]
+ },
+ "magnisias": {
+  "platform": "eticketing_gr",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "samplePrice": "32,80",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Φοιτ./Στρ./Τριτεκνοι",
+    "samplePrice": "24,60",
+    "discount": 25
+   },
+   {
+    "id": "2",
+    "name": "Φοιτητικό 50% NEO",
+    "samplePrice": "16,40",
+    "discount": 50
+   },
+   {
+    "id": "3",
+    "name": "Πολυτεκνο/Αναπηρικο",
+    "samplePrice": "16,40",
+    "discount": 50
+   },
+   {
+    "id": "4",
+    "name": "Μόνιμο Στρ.Προσωπικό 15%",
+    "samplePrice": "27,90",
+    "discount": 15
+   }
+  ]
+ },
+ "larisas": {
+  "platform": "eticketing_gr",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "samplePrice": "36,00",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Φοιτητικό/Φαντάρος (75%)",
+    "samplePrice": "26,00",
+    "discount": 28
+   },
+   {
+    "id": "2",
+    "name": "Μισό",
+    "samplePrice": "18,00",
+    "discount": 50
+   },
+   {
+    "id": "3",
+    "name": "Φοιτητικό 50%",
+    "samplePrice": "18,00",
+    "discount": 50
+   },
+   {
+    "id": "4",
+    "name": "Στρατιωτικό 15%",
+    "samplePrice": "30,60",
+    "discount": 15
+   }
+  ]
+ },
+ "thessalonikis": {
+  "platform": "eticketing_gr",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "samplePrice": "50,00",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Φοιτητικό/Στρατιωτικό",
+    "samplePrice": "38,00",
+    "discount": 24
+   },
+   {
+    "id": "2",
+    "name": "Μισό/Φοιτητικό",
+    "samplePrice": "25,00",
+    "discount": 50
+   }
+  ]
+ },
+ "pierias": {
+  "platform": "eticketing_gr",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "samplePrice": "40,00",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Φοιτητικό/Στρατιωτικό",
+    "samplePrice": "33,00",
+    "discount": 18
+   },
+   {
+    "id": "2",
+    "name": "Μισό",
+    "samplePrice": "22,00",
+    "discount": 45
+   }
+  ]
+ },
+ "serron": {
+  "platform": "eticketing_gr",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "samplePrice": "60,00",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Φοιτητικό/Στρατιωτικό",
+    "samplePrice": "45,00",
+    "discount": 25
+   },
+   {
+    "id": "2",
+    "name": "Μισό/Φοιτητικό",
+    "samplePrice": "30,00",
+    "discount": 50
+   },
+   {
+    "id": "3",
+    "name": "Στρατιωτικό Γ.Ε.Σ.",
+    "samplePrice": "51,50",
+    "discount": 14
+   }
+  ]
+ },
+ "dramas": {
+  "platform": "eticketing_gr",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο 100%",
+    "samplePrice": "67,90",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Φοιτητικό 75%",
+    "samplePrice": "50,90",
+    "discount": 25
+   },
+   {
+    "id": "2",
+    "name": "Φοιτητικό 50%",
+    "samplePrice": "34,00",
+    "discount": 50
+   },
+   {
+    "id": "3",
+    "name": "Πολύτεκνο 50%",
+    "samplePrice": "34,00",
+    "discount": 50
+   },
+   {
+    "id": "4",
+    "name": "Αναπηρικό 50%",
+    "samplePrice": "34,00",
+    "discount": 50
+   },
+   {
+    "id": "5",
+    "name": "Τριτέκνων 75%",
+    "samplePrice": "50,90",
+    "discount": 25
+   },
+   {
+    "id": "6",
+    "name": "Στρατιωτικό 75%",
+    "samplePrice": "50,90",
+    "discount": 25
+   },
+   {
+    "id": "7",
+    "name": "Στρατιωτικό 85%",
+    "samplePrice": "57,70",
+    "discount": 15
+   },
+   {
+    "id": "8",
+    "name": "Αστυνομικό 50%",
+    "samplePrice": "34,00",
+    "discount": 50
+   }
+  ]
+ },
+ "florinas": {
+  "platform": "eticketing_gr",
+  "fares": [
+   {
+    "id": "0",
+    "name": "ΟΛΟΚΛΗΡΟ 100%",
+    "samplePrice": "18,70",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "ΦΟΙΤΗΤΙΚΟ 25%",
+    "samplePrice": "14,10",
+    "discount": 25
+   },
+   {
+    "id": "2",
+    "name": "ΠΟΛΥΤΕΚΝΑ/ΑΜΕΑ",
+    "samplePrice": "9,40",
+    "discount": 50
+   },
+   {
+    "id": "3",
+    "name": "ΦΟΙΤΗΤΙΚΟ 50%",
+    "samplePrice": "9,40",
+    "discount": 50
+   },
+   {
+    "id": "4",
+    "name": "ΣΤΡΑΤΙΩΤΙΚΟ ΓΕΣ",
+    "samplePrice": "15,90",
+    "discount": 15
+   }
+  ]
+ },
+ "rodopis": {
+  "platform": "eticketing_gr",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "samplePrice": "87,00",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Φοιτητικό/Στρατιωτικό 25%",
+    "samplePrice": "65,30",
+    "discount": 25
+   },
+   {
+    "id": "2",
+    "name": "Φοιτητικό 50%",
+    "samplePrice": "43,50",
+    "discount": 50
+   },
+   {
+    "id": "3",
+    "name": "Πολυτεκνο/Αναπηρικο",
+    "samplePrice": "43,50",
+    "discount": 50
+   },
+   {
+    "id": "4",
+    "name": "Στρατιωτικό ΓΕΣ",
+    "samplePrice": "74,00",
+    "discount": 15
+   },
+   {
+    "id": "5",
+    "name": "Σχ. Αστυφυλάκων",
+    "samplePrice": "65,30",
+    "discount": 25
+   },
+   {
+    "id": "6",
+    "name": "Δικαστικών-Εφέτες (Έκπτωση 75%)",
+    "samplePrice": "21,80",
+    "discount": 75
+   }
+  ]
+ },
+ "livadeias": {
+  "platform": "eticketing_gr",
+  "fares": [
+   {
+    "id": "0",
+    "name": "Ολόκληρο",
+    "samplePrice": "14,80",
+    "discount": 0
+   },
+   {
+    "id": "1",
+    "name": "Φοιτητικό/Στρατιωτικό",
+    "samplePrice": "11,10",
+    "discount": 25
+   },
+   {
+    "id": "2",
+    "name": "Στρατιωτικό 15%",
+    "samplePrice": "12,60",
+    "discount": 15
+   },
+   {
+    "id": "3",
+    "name": "Μισό",
+    "samplePrice": "7,40",
+    "discount": 50
+   }
+  ]
+ },
+ "irakleiou_lasithiou": {
+  "platform": "own",
+  "source": "ktelherlas.gr passengers page, Ηράκλειο→Άγιος Νικόλαος, read 2026-10-14",
+  "fares": [
+   {
+    "id": "1",
+    "name": "Ολόκληρο",
+    "samplePrice": "8.60",
+    "discount": 0
+   },
+   {
+    "id": "2",
+    "name": "Φοιτητικό-25%",
+    "samplePrice": "6.50",
+    "discount": 24
+   },
+   {
+    "id": "3",
+    "name": "Πολυτεκνικό-50%",
+    "samplePrice": "4.30",
+    "discount": 50
+   },
+   {
+    "id": "4",
+    "name": "Στρατιωτικό-15%",
+    "samplePrice": "7.40",
+    "discount": 14
+   },
+   {
+    "id": "5",
+    "name": "Φοιτητικό-50%",
+    "samplePrice": "4.30",
+    "discount": 50
+   },
+   {
+    "id": "6",
+    "name": "Αναπηρικό-50%",
+    "samplePrice": "4.30",
+    "discount": 50
+   },
+   {
+    "id": "7",
+    "name": "Τριτεκνικό-25%",
+    "samplePrice": "6.50",
+    "discount": 24
+   },
+   {
+    "id": "8",
+    "name": "Γενικό-25%",
+    "samplePrice": "6.50",
+    "discount": 24
+   },
+   {
+    "id": "9",
+    "name": "Γενικό-50%",
+    "samplePrice": "4.30",
+    "discount": 50
+   },
+   {
+    "id": "10",
+    "name": "Σωμ.Ασφαλείας-50%",
+    "samplePrice": "4.30",
+    "discount": 50
+   },
+   {
+    "id": "11",
+    "name": "Εργαζομένων-15%",
+    "samplePrice": "7.40",
+    "discount": 14
+   }
+  ]
+ }
+}
