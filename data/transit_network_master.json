@@ -1,6 +1,6 @@
 {
   "version": "2026.11.1",
-  "updatedAt": "2026-11-15T10:22:08.575630+00:00",
+  "updatedAt": "2026-11-22T10:41:05.972912+00:00",
   "schematicMaps": {
     "athens": "https://raw.githubusercontent.com/athanasso/greece-transit-scraper/main/assets/maps/athens_schematic.jpg",
     "thessaloniki": "https://raw.githubusercontent.com/athanasso/greece-transit-scraper/main/assets/maps/thessaloniki_schematic.jpg"
